@@ -1,10 +1,12 @@
-[
+﻿[
   {
     "data": {
       "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
       "mod": "Twitch Toolkit"
     },
-    "description": "Updates the current list of active viewers.",
+    "description": "Updates the current list of active viewers.\n(Twitch Toolkit)",
     "name": "Refresh viewers",
     "usage": "!refreshviewers",
     "userLevel": "Moderator",
@@ -13,9 +15,11 @@
   {
     "data": {
       "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
       "mod": "Twitch Toolkit"
     },
-    "description": "Awards all active viewers coins.",
+    "description": "Awards all active viewers coins.\n(Twitch Toolkit)",
     "name": "Karma round",
     "usage": "!karmaround",
     "userLevel": "Moderator",
@@ -24,9 +28,11 @@
   {
     "data": {
       "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
       "mod": "Twitch Toolkit"
     },
-    "description": "Gives eveyrone coins.",
+    "description": "Gives eveyrone coins.\n(Twitch Toolkit)",
     "name": "Give all coins",
     "usage": "!giveallcoins <coins>",
     "userLevel": "Moderator",
@@ -35,9 +41,11 @@
   {
     "data": {
       "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
       "mod": "Twitch Toolkit"
     },
-    "description": "Gives a viewer coins.",
+    "description": "Gives a viewer coins.\n(Twitch Toolkit)",
     "name": "Give coins",
     "usage": "!givecoins <viewer> <coins>",
     "userLevel": "Moderator",
@@ -46,9 +54,11 @@
   {
     "data": {
       "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
       "mod": "Twitch Toolkit"
     },
-    "description": "Shows the balance of a given user.",
+    "description": "Shows the balance of a given user.\n(Twitch Toolkit)",
     "name": "Check user",
     "usage": "!checkuser <viewer>",
     "userLevel": "Moderator",
@@ -57,9 +67,11 @@
   {
     "data": {
       "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
       "mod": "Twitch Toolkit"
     },
-    "description": "Sets the current karma for a given user.",
+    "description": "Sets the current karma for a given user.\n(Twitch Toolkit)",
     "name": "Set karma",
     "usage": "!setkarma <viewer> <karma>",
     "userLevel": "Moderator",
@@ -68,9 +80,11 @@
   {
     "data": {
       "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
       "mod": "Twitch Toolkit"
     },
-    "description": "Toggles coin generation.",
+    "description": "Toggles coin generation.\n(Twitch Toolkit)",
     "name": "Toggle coins",
     "usage": "!togglecoins",
     "userLevel": "Moderator",
@@ -79,10 +93,11 @@
   {
     "data": {
       "isShortcut": false,
-      "mod": "Twitch Toolkit",
-      "isBal": true
+      "isBuy": false,
+      "isBalance": true,
+      "mod": "Twitch Toolkit"
     },
-    "description": "Shows your current balance, karma, and optionally, the amount of coins earned per cycle.",
+    "description": "Shows your current balance, karma, and optionally, the amount of coins earned per cycle.\n(Twitch Toolkit)",
     "name": "Check balance",
     "usage": "!bal",
     "userLevel": "Anyone",
@@ -91,6 +106,8 @@
   {
     "data": {
       "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
       "mod": "Twitch Toolkit"
     },
     "description": null,
@@ -102,6 +119,8 @@
   {
     "data": {
       "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
       "mod": "Twitch Toolkit"
     },
     "description": null,
@@ -113,6 +132,21 @@
   {
     "data": {
       "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "mod": "Twitch Toolkit"
+    },
+    "description": "Gives a viewer some of your coins.\n(Twitch Toolkit)",
+    "name": "Gift coins",
+    "usage": "!giftcoins <viewer> <amount>",
+    "userLevel": "Anyone",
+    "shortcut": false
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
       "mod": "Twitch Toolkit"
     },
     "description": null,
@@ -124,6 +158,8 @@
   {
     "data": {
       "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
       "mod": "Twitch Toolkit"
     },
     "description": null,
@@ -135,8 +171,9 @@
   {
     "data": {
       "isShortcut": false,
-      "mod": "Twitch Toolkit",
-      "isBuy": true
+      "isBuy": true,
+      "isBalance": false,
+      "mod": "Twitch Toolkit"
     },
     "description": null,
     "name": "Buy",
@@ -146,18 +183,9 @@
   },
   {
     "data": {
-      "isShortcut": true,
-      "mod": "Twitch Toolkit"
-    },
-    "description": "Lets you wager coins to level up a skill of your choosing.",
-    "name": "Level skill",
-    "usage": "!levelskill <skill> <coins>",
-    "userLevel": "Anyone",
-    "shortcut": true
-  },
-  {
-    "data": {
       "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
       "mod": "Twitch Toolkit"
     },
     "description": null,
@@ -169,6 +197,8 @@
   {
     "data": {
       "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
       "mod": "Twitch Toolkit"
     },
     "description": null,
@@ -180,6 +210,8 @@
   {
     "data": {
       "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
       "mod": "Twitch Toolkit"
     },
     "description": null,
@@ -190,29 +222,9 @@
   },
   {
     "data": {
-      "isShortcut": false,
-      "mod": "Twitch Toolkit"
-    },
-    "description": "Shows you the complete list of installed mods.",
-    "name": "Installed mods",
-    "usage": "!installedmods",
-    "userLevel": "Anyone",
-    "shortcut": false
-  },
-  {
-    "data": {
       "isShortcut": true,
-      "mod": "ToolkitUtils"
-    },
-    "description": null,
-    "name": "Revive all",
-    "usage": "!reviveall",
-    "userLevel": "Anyone",
-    "shortcut": true
-  },
-  {
-    "data": {
-      "isShortcut": true,
+      "isBuy": false,
+      "isBalance": false,
       "mod": "ToolkitUtils"
     },
     "description": null,
@@ -224,6 +236,8 @@
   {
     "data": {
       "isShortcut": true,
+      "isBuy": false,
+      "isBalance": false,
       "mod": "ToolkitUtils"
     },
     "description": null,
@@ -235,6 +249,8 @@
   {
     "data": {
       "isShortcut": true,
+      "isBuy": false,
+      "isBalance": false,
       "mod": "ToolkitUtils"
     },
     "description": null,
@@ -246,9 +262,11 @@
   {
     "data": {
       "isShortcut": true,
+      "isBuy": false,
+      "isBalance": false,
       "mod": "ToolkitUtils"
     },
-    "description": "Shuffles your passions. If a skill is specified, you'll be guaranteed a minor passion in it.",
+    "description": "Shuffles your passions. If a skill is specified, you'll be guaranteed a minor passion in it.\n(ToolkitUtils)",
     "name": "Passion shuffle",
     "usage": "!passionshuffle [skill]",
     "userLevel": "Anyone",
@@ -257,9 +275,11 @@
   {
     "data": {
       "isShortcut": true,
+      "isBuy": false,
+      "isBalance": false,
       "mod": "ToolkitUtils"
     },
-    "description": "Purchases the part specified and queues it for surgery on your pawn.",
+    "description": "Purchases the part specified and queues it for surgery on your pawn.\n(ToolkitUtils)",
     "name": "Surgery",
     "usage": "!surgery <item> <quantity/bodypart>",
     "userLevel": "Anyone",
@@ -268,6 +288,8 @@
   {
     "data": {
       "isShortcut": true,
+      "isBuy": false,
+      "isBalance": false,
       "mod": "ToolkitUtils"
     },
     "description": null,
@@ -279,6 +301,8 @@
   {
     "data": {
       "isShortcut": true,
+      "isBuy": false,
+      "isBalance": false,
       "mod": "ToolkitUtils"
     },
     "description": null,
@@ -290,17 +314,8 @@
   {
     "data": {
       "isShortcut": true,
-      "mod": "ToolkitUtils"
-    },
-    "description": null,
-    "name": "Revive any pawn",
-    "usage": "!reviveanypawn",
-    "userLevel": "Anyone",
-    "shortcut": true
-  },
-  {
-    "data": {
-      "isShortcut": true,
+      "isBuy": false,
+      "isBalance": false,
       "mod": "ToolkitUtils"
     },
     "description": null,
@@ -312,20 +327,11 @@
   {
     "data": {
       "isShortcut": true,
+      "isBuy": false,
+      "isBalance": false,
       "mod": "ToolkitUtils"
     },
-    "description": "Replaces a trait with a different trait.",
-    "name": "Replace trait",
-    "usage": "!replacetrait <old> <new>",
-    "userLevel": "Anyone",
-    "shortcut": true
-  },
-  {
-    "data": {
-      "isShortcut": true,
-      "mod": "ToolkitUtils"
-    },
-    "description": "It's like buy item, but it gets added to your inventory if possible.",
+    "description": "It's like buy item, but it gets added to your inventory if possible.\n(ToolkitUtils)",
     "name": "Backpack",
     "usage": "!backpack <item> [quantity]",
     "userLevel": "Anyone",
@@ -334,9 +340,11 @@
   {
     "data": {
       "isShortcut": true,
+      "isBuy": false,
+      "isBalance": false,
       "mod": "ToolkitUtils"
     },
-    "description": "Downgrades a skill's passion... sometimes.",
+    "description": "Downgrades a skill's passion... sometimes.\n(ToolkitUtils)",
     "name": "Remove passion",
     "usage": "!removepassion <skill>",
     "userLevel": "Anyone",
@@ -345,9 +353,11 @@
   {
     "data": {
       "isShortcut": true,
+      "isBuy": false,
+      "isBalance": false,
       "mod": "ToolkitUtils"
     },
-    "description": "Upgrades a skill's passion... sometimes.",
+    "description": "Upgrades a skill's passion... sometimes.\n(ToolkitUtils)",
     "name": "Add passion",
     "usage": "!passion <skill>",
     "userLevel": "Anyone",
@@ -356,6 +366,8 @@
   {
     "data": {
       "isShortcut": true,
+      "isBuy": false,
+      "isBalance": false,
       "mod": "ToolkitUtils"
     },
     "description": null,
@@ -367,6 +379,8 @@
   {
     "data": {
       "isShortcut": true,
+      "isBuy": false,
+      "isBalance": false,
       "mod": "ToolkitUtils"
     },
     "description": null,
@@ -378,6 +392,8 @@
   {
     "data": {
       "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
       "mod": "ToolkitUtils"
     },
     "description": null,
@@ -389,9 +405,11 @@
   {
     "data": {
       "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
       "mod": "ToolkitUtils"
     },
-    "description": "Shows your current stats within a given category.",
+    "description": "Shows your current stats within a given category.\n(ToolkitUtils)",
     "name": "Viewer stats",
     "usage": "!mypawnstats [stat1] [stat2]",
     "userLevel": "Anyone",
@@ -400,9 +418,11 @@
   {
     "data": {
       "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
       "mod": "ToolkitUtils"
     },
-    "description": "Shows an overview of your pawn's health. If a capacity is specified, it'll show what's affecting it.",
+    "description": "Shows an overview of your pawn's health. If a capacity is specified, it'll show what's affecting it.\n(ToolkitUtils)",
     "name": "Viewer health",
     "usage": "!mypawnhealth [capacity]",
     "userLevel": "Anyone",
@@ -411,6 +431,8 @@
   {
     "data": {
       "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
       "mod": "ToolkitUtils"
     },
     "description": null,
@@ -422,9 +444,11 @@
   {
     "data": {
       "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
       "mod": "ToolkitUtils"
     },
-    "description": "Shows an overview of your pawn's gear.",
+    "description": "Shows an overview of your pawn's gear.\n(ToolkitUtils)",
     "name": "Viewer gear",
     "usage": "!mypawngear",
     "userLevel": "Anyone",
@@ -433,6 +457,8 @@
   {
     "data": {
       "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
       "mod": "ToolkitUtils"
     },
     "description": null,
@@ -444,9 +470,11 @@
   {
     "data": {
       "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
       "mod": "ToolkitUtils"
     },
-    "description": "Shows your pawn's work priorities.",
+    "description": "Shows your pawn's work priorities.\n(ToolkitUtils)",
     "name": "Viewer work",
     "usage": "!mypawnwork [worktype=priority] [...]",
     "userLevel": "Anyone",
@@ -455,6 +483,8 @@
   {
     "data": {
       "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
       "mod": "ToolkitUtils"
     },
     "description": null,
@@ -466,6 +496,8 @@
   {
     "data": {
       "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
       "mod": "ToolkitUtils"
     },
     "description": null,
@@ -477,6 +509,8 @@
   {
     "data": {
       "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
       "mod": "ToolkitUtils"
     },
     "description": null,
@@ -488,6 +522,8 @@
   {
     "data": {
       "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
       "mod": "ToolkitUtils"
     },
     "description": null,
@@ -499,9 +535,11 @@
   {
     "data": {
       "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
       "mod": "ToolkitUtils"
     },
-    "description": "Makes your pawn leave the colony.",
+    "description": "Makes your pawn leave the colony.\n(ToolkitUtils)",
     "name": "Abandon pawn",
     "usage": "!leave",
     "userLevel": "Anyone",
@@ -510,9 +548,11 @@
   {
     "data": {
       "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
       "mod": "ToolkitUtils"
     },
-    "description": "Shows your pawn's relationships to other viewers.",
+    "description": "Shows your pawn's relationships to other viewers.\n(ToolkitUtils)",
     "name": "Viewer relations",
     "usage": "!mypawnrelations [viewer]",
     "userLevel": "Anyone",
@@ -521,6 +561,8 @@
   {
     "data": {
       "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
       "mod": "ToolkitUtils"
     },
     "description": null,
@@ -532,9 +574,11 @@
   {
     "data": {
       "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
       "mod": "ToolkitUtils"
     },
-    "description": "Shows the current research progress. If a project is specified, it'll show the progress of that instead.",
+    "description": "Shows the current research progress. If a project is specified, it'll show the progress of that instead.\n(ToolkitUtils)",
     "name": "Research",
     "usage": "!research [project/item]",
     "userLevel": "Anyone",
@@ -543,9 +587,11 @@
   {
     "data": {
       "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
       "mod": "ToolkitUtils"
     },
-    "description": "Shows the first few results for the query in the given category. Valid categories are: 'pawns', 'traits', 'items', 'events', 'diseases', 'animals', and 'skills'.",
+    "description": "Shows the first few results for the query in the given category. Valid categories are: 'pawns', 'traits', 'items', 'events', 'diseases', 'animals', and 'skills'.\n(ToolkitUtils)",
     "name": "Lookup",
     "usage": "!lookup <item/category> [query]",
     "userLevel": "Anyone",
@@ -554,9 +600,11 @@
   {
     "data": {
       "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
       "mod": "ToolkitUtils"
     },
-    "description": "Similar to the lookup command, except it'll show the price for the first valid match.",
+    "description": "Similar to the lookup command, except it'll show the price for the first valid match.\n(ToolkitUtils)",
     "name": "Price check",
     "usage": "!price <item/category> [query]",
     "userLevel": "Anyone",
@@ -565,6 +613,8 @@
   {
     "data": {
       "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
       "mod": "ToolkitUtils"
     },
     "description": null,
@@ -576,6 +626,8 @@
   {
     "data": {
       "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
       "mod": "ToolkitUtils"
     },
     "description": null,
@@ -587,17 +639,8 @@
   {
     "data": {
       "isShortcut": false,
-      "mod": "ToolkitUtils"
-    },
-    "description": "Makes your pawn insult a random viewer. If a viewer is specified, you'll insult them instead.",
-    "name": "Insult",
-    "usage": "!insult [target]",
-    "userLevel": "Anyone",
-    "shortcut": false
-  },
-  {
-    "data": {
-      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
       "mod": "ToolkitUtils"
     },
     "description": null,
@@ -609,6 +652,8 @@
   {
     "data": {
       "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
       "mod": "ToolkitUtils"
     },
     "description": null,
@@ -620,9 +665,11 @@
   {
     "data": {
       "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
       "mod": "ToolkitUtils"
     },
-    "description": "Provides some information about supported things. Supported categories are: 'weapons'",
+    "description": "Provides some information about supported things. Supported categories are: 'weapons'\n(ToolkitUtils)",
     "name": "Database",
     "usage": "!rwdata <category/weaponname> [weaponname]",
     "userLevel": "Anyone",
@@ -631,6 +678,8 @@
   {
     "data": {
       "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
       "mod": "ToolkitUtils"
     },
     "description": null,
@@ -642,7 +691,22 @@
   {
     "data": {
       "isShortcut": false,
-      "mod": "ToolkitCore"
+      "isBuy": false,
+      "isBalance": false,
+      "mod": "Unknown"
+    },
+    "description": null,
+    "name": "Viewer class",
+    "usage": "!mypawnclass",
+    "userLevel": "Anyone",
+    "shortcut": false
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "mod": "ToolkitRimWorld"
     },
     "description": null,
     "name": "hello",

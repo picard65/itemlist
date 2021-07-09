@@ -1,4 +1,4 @@
-{
+﻿{
   "tornado": {
     "EventType": "Default",
     "Mod": "Twitch Toolkit"
@@ -358,5 +358,9 @@
   "sanctuary": {
     "EventType": "Default",
     "Mod": "ToolkitUtils"
+  },
+  "immortality": {
+    "EventType": "Default",
+    "Mod": "Unknown"
   }
 }

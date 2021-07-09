@@ -1,16 +1,6 @@
 {
 	"incitems" : [
 	{
-		"abr": "tornado",
-		"price": 800,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "tornados",
-		"price": 2600,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "clearweather",
 		"price": 400,
 		"karmatype": "Good"
@@ -61,11 +51,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "flashstorm",
-		"price": 400,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "coldsnap",
 		"price": 800,
 		"karmatype": "Bad"
@@ -91,18 +76,13 @@
 		"karmatype": "Doom"
 	},
 	{
-		"abr": "eclipse",
-		"price": 450,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "aurora",
 		"price": 200,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "blight",
-		"price": 700,
+		"price": 900,
 		"karmatype": "Bad"
 	},
 	{
@@ -132,13 +112,8 @@
 	},
 	{
 		"abr": "meteor",
-		"price": 150,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "maninblack",
-		"price": 350,
-		"karmatype": "Good"
+		"price": 1500,
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "madanimal",
@@ -182,8 +157,8 @@
 	},
 	{
 		"abr": "shipchunkdrop",
-		"price": 300,
-		"karmatype": "Good"
+		"price": 3000,
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "travelergroup",
@@ -208,16 +183,6 @@
 	{
 		"abr": "alphabeavers",
 		"price": 600,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "shippartpoison",
-		"price": 1900,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "shippartpsychic",
-		"price": 2400,
 		"karmatype": "Bad"
 	},
 	{
@@ -261,11 +226,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "predators",
-		"price": 2500,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "randomdisease",
 		"price": 1000,
 		"karmatype": "Bad"
@@ -277,7 +237,7 @@
 	},
 	{
 		"abr": "reviveanypawn",
-		"price": 1200,
+		"price": 4500,
 		"karmatype": "Good"
 	},
 	{
@@ -332,13 +292,13 @@
 	},
 	{
 		"abr": "reviveall",
-		"price": 22664,
+		"price": 25000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "reviveme",
-		"price": 2833,
-		"karmatype": "Good"
+		"price": 7000,
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "healall",
@@ -354,11 +314,6 @@
 		"abr": "healme",
 		"price": 2167,
 		"karmatype": "Good"
-	},
-	{
-		"abr": "surgery",
-		"price": 500,
-		"karmatype": "Neutral"
 	},
 	{
 		"abr": "passionshuffle",
@@ -401,6 +356,11 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "cleartraits",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
 		"abr": "use",
 		"price": 1,
 		"karmatype": "Neutral"
@@ -434,7 +394,12 @@
 		"abr": "sanctuary",
 		"price": 100000,
 		"karmatype": "Good"
+	},
+	{
+		"abr": "immortality",
+		"price": 100000,
+		"karmatype": "Neutral"
 	}
 	],
-	"total": 87
+	"total": 80
 }

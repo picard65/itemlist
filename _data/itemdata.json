@@ -63569,58 +63569,6 @@
     "Mod": "Kurin HAR Edition",
     "KarmaType": null
   },
-  "rxMiningChargeShaped": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "Mod": "Remote Tech",
-    "KarmaType": null
-  },
-  "rxDetonatorManual": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "Mod": "Remote Tech",
-    "KarmaType": null
-  },
-  "rxBench": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "Mod": "Remote Tech",
-    "KarmaType": null
-  },
-  "rxTableDetonator": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "Mod": "Remote Tech",
-    "KarmaType": null
-  },
   "rxCharcoal": {
     "CustomName": null,
     "HasQuantityLimit": false,
@@ -63777,19 +63725,6 @@
     "Mod": "Rimatomics",
     "KarmaType": null
   },
-  "Apparel_FlowerVest": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "Mod": "BeeGirl Race: RimBees Addon",
-    "KarmaType": null
-  },
   "sd_adv_powergen_WatermillGenerator": {
     "CustomName": null,
     "HasQuantityLimit": false,
@@ -63827,6 +63762,71 @@
     "Weight": 1,
     "ResearchOverrides": null,
     "Mod": "[sd] Advanced Powergeneration (Continued)",
+    "KarmaType": null
+  },
+  "sd_adv_powergen_adv_solar_generator": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "Mod": "[sd] Advanced Powergeneration (Continued)",
+    "KarmaType": null
+  },
+  "Apparel_FlowerVest": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "Mod": "BeeGirl Race: RimBees Addon",
+    "KarmaType": null
+  },
+  "sd_adv_powergen_adv_wind_turbine": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "Mod": "[sd] Advanced Powergeneration (Continued)",
+    "KarmaType": null
+  },
+  "cheese": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "Mod": "VGP Garden Gourmet",
+    "KarmaType": null
+  },
+  "meatpie": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "Mod": "VGP Garden Gourmet",
     "KarmaType": null
   },
   "AMW_MechaWeapon_PowerClaw": {
@@ -63920,7 +63920,7 @@
     "Mod": "[RWY]Advanced Mechanoid Warfare",
     "KarmaType": null
   },
-  "sd_adv_powergen_adv_solar_generator": {
+  "muffin": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -63930,7 +63930,7 @@
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
-    "Mod": "[sd] Advanced Powergeneration (Continued)",
+    "Mod": "VGP Garden Gourmet",
     "KarmaType": null
   },
   "Gun_RailgunMKI": {
@@ -79559,7 +79559,7 @@
     "Mod": "A Rimworld of Magic - Adventurer Class",
     "KarmaType": null
   },
-  "sd_adv_powergen_adv_wind_turbine": {
+  "bakedpolenta": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -79569,7 +79569,7 @@
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
-    "Mod": "[sd] Advanced Powergeneration (Continued)",
+    "Mod": "VGP Garden Gourmet",
     "KarmaType": null
   },
   "MP_MeleeWeapon_PlagueFang": {
@@ -79611,7 +79611,7 @@
     "Mod": "Mechanite Plague",
     "KarmaType": null
   },
-  "cheese": {
+  "grilledpolenta": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -80079,7 +80079,7 @@
     "Mod": "Heavy Melee Weapons",
     "KarmaType": null
   },
-  "HMW__GuardianShieldB": {
+  "smoothie": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -80089,7 +80089,7 @@
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
-    "Mod": "Heavy Melee Weapons",
+    "Mod": "VGP Garden Gourmet",
     "KarmaType": null
   },
   "HMW_MeleeWeapon_HeavyMonoSword": {
@@ -82315,7 +82315,7 @@
     "Mod": "Rimatomics",
     "KarmaType": null
   },
-  "meatpie": {
+  "VG_Guacamole": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -82325,7 +82325,7 @@
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
-    "Mod": "VGP Garden Gourmet",
+    "Mod": "VGP More Veggies",
     "KarmaType": null
   },
   "UraniumPellets": {
@@ -82666,7 +82666,7 @@
     "Mod": "Rimefeller",
     "KarmaType": null
   },
-  "muffin": {
+  "icecream": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -82874,58 +82874,6 @@
     "Mod": "Rimefeller",
     "KarmaType": null
   },
-  "bakedpolenta": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "Mod": "VGP Garden Gourmet",
-    "KarmaType": null
-  },
-  "grilledpolenta": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "Mod": "VGP Garden Gourmet",
-    "KarmaType": null
-  },
-  "smoothie": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "Mod": "VGP Garden Gourmet",
-    "KarmaType": null
-  },
-  "icecream": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "Mod": "VGP Garden Gourmet",
-    "KarmaType": null
-  },
   "yogurt": {
     "CustomName": null,
     "HasQuantityLimit": false,
@@ -83080,6 +83028,58 @@
     "Weight": 1,
     "ResearchOverrides": null,
     "Mod": "Apini Playable Race, Continued!",
+    "KarmaType": null
+  },
+  "denture": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "KarmaType": null
+  },
+  "SkillOf_Continuation": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "Mod": "Kure's Rimworld of Magic Class Expansion Pack",
+    "KarmaType": null
+  },
+  "SpellOf_GuidingLight": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "Mod": "Kure's Rimworld of Magic Class Expansion Pack",
+    "KarmaType": null
+  },
+  "SpellOf_Xenoglossy": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "Mod": "Kure's Rimworld of Magic Class Expansion Pack",
     "KarmaType": null
   },
   "VFEM_Wine": {
@@ -88685,7 +88685,7 @@
     "Mod": "More Archotech Garbage Reupload",
     "KarmaType": null
   },
-  "denture": {
+  "SpellOf_Sharpcast": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -88695,7 +88695,7 @@
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Kure's Rimworld of Magic Class Expansion Pack",
     "KarmaType": null
   },
   "Cooler_Over": {
@@ -98810,6 +98810,162 @@
     "Weight": 1,
     "ResearchOverrides": null,
     "Mod": null,
+    "KarmaType": null
+  },
+  "SpellOf_Manaward": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "Mod": "Kure's Rimworld of Magic Class Expansion Pack",
+    "KarmaType": null
+  },
+  "BookOfBlackMage": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "Mod": "Kure's Rimworld of Magic Class Expansion Pack",
+    "KarmaType": null
+  },
+  "Torn_BookOfBlackMage": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "Mod": "Kure's Rimworld of Magic Class Expansion Pack",
+    "KarmaType": null
+  },
+  "SkillOf_Pickpocket": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "Mod": "Kure's Rimworld of Magic Class Expansion Pack",
+    "KarmaType": null
+  },
+  "SpellOf_ContreSixte": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "Mod": "Kure's Rimworld of Magic Class Expansion Pack",
+    "KarmaType": null
+  },
+  "BookOfGunbreaker": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "Mod": "Kure's Rimworld of Magic Class Expansion Pack",
+    "KarmaType": null
+  },
+  "BookOfScholar": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "Mod": "Kure's Rimworld of Magic Class Expansion Pack",
+    "KarmaType": null
+  },
+  "Torn_BookOfScholar": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "Mod": "Kure's Rimworld of Magic Class Expansion Pack",
+    "KarmaType": null
+  },
+  "rxTableDetonator": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "Mod": "Remote Tech",
+    "KarmaType": null
+  },
+  "rxBench": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "Mod": "Remote Tech",
+    "KarmaType": null
+  },
+  "rxDetonatorManual": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "Mod": "Remote Tech",
+    "KarmaType": null
+  },
+  "rxMiningChargeShaped": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "Mod": "Remote Tech",
     "KarmaType": null
   },
   "rxPowerUnit": {

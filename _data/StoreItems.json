@@ -46163,7 +46163,721 @@
 		"price": 1833,
 		"category": "Scrolls",
 		"defname": "SkillOf_Pickpocket"
-	}
+	},
+	{
+		"abr": "gunbreakerskill:superbolide",
+		"price": 4333,
+		"category": "Scrolls",
+		"defname": "SkillOf_Superbolide"
+	},
+	{
+		"abr": "tornscript:scholar",
+		"price": 2917,
+		"category": "Skill books",
+		"defname": "Torn_BookOfScholar"
+	},
+	{
+		"abr": "animalsbook",
+		"price": 2258,
+		"category": "Books",
+		"defname": "VBE_BookAnimals"
+	},
+	{
+		"abr": "artbook",
+		"price": 2258,
+		"category": "Books",
+		"defname": "VBE_BookArt"
+	},
+	{
+		"abr": "blueprint",
+		"price": 2667,
+		"category": "Books",
+		"defname": "VBE_Blueprint"
+	},
+	{
+		"abr": "constructionbook",
+		"price": 2258,
+		"category": "Books",
+		"defname": "VBE_BookConstruction"
+	},
+	{
+		"abr": "cookingbook",
+		"price": 2258,
+		"category": "Books",
+		"defname": "VBE_BookCooking"
+	},
+	{
+		"abr": "craftingbook",
+		"price": 2258,
+		"category": "Books",
+		"defname": "VBE_BookCrafting"
+	},
+	{
+		"abr": "growingbook",
+		"price": 2258,
+		"category": "Books",
+		"defname": "VBE_BookGrowing"
+	},
+	{
+		"abr": "intellectualbook",
+		"price": 2258,
+		"category": "Books",
+		"defname": "VBE_BookIntellectual"
+	},
+	{
+		"abr": "map",
+		"price": 1333,
+		"category": "Books",
+		"defname": "VBE_Map"
+	},
+	{
+		"abr": "medicalbook",
+		"price": 2258,
+		"category": "Books",
+		"defname": "VBE_BookMedical"
+	},
+	{
+		"abr": "meleebook",
+		"price": 2258,
+		"category": "Books",
+		"defname": "VBE_BookMelee"
+	},
+	{
+		"abr": "miningbook",
+		"price": 2258,
+		"category": "Books",
+		"defname": "VBE_BookMining"
+	},
+	{
+		"abr": "newspaper",
+		"price": 33,
+		"category": "Books",
+		"defname": "VBE_Newspaper"
+	},
+	{
+		"abr": "shootingbook",
+		"price": 2258,
+		"category": "Books",
+		"defname": "VBE_BookShooting"
+	},
+	{
+		"abr": "socialbook",
+		"price": 2258,
+		"category": "Books",
+		"defname": "VBE_BookSocial"
+	},
+	{
+		"abr": "typewritertable",
+		"price": 342,
+		"category": "Production",
+		"defname": "VBE_TypewritersTable"
+	},
+	{
+		"abr": "writerstable",
+		"price": 252,
+		"category": "Production",
+		"defname": "VBE_WritersTable"
+	},
+	{
+		"abr": "absinthe",
+		"price": 50,
+		"category": "Drugs",
+		"defname": "Absinthe"
+	},
+	{
+		"abr": "alchemicalcandle(fire)",
+		"price": 117,
+		"category": "Art",
+		"defname": "CaS_FireCandle"
+	},
+	{
+		"abr": "alchemicalcandle(ice)",
+		"price": 117,
+		"category": "Art",
+		"defname": "CaS_IceCandle"
+	},
+	{
+		"abr": "alchemicalcandle(light)",
+		"price": 184,
+		"category": "Art",
+		"defname": "CaS_LightCandle"
+	},
+	{
+		"abr": "alchemicalcandle(night)",
+		"price": 117,
+		"category": "Art",
+		"defname": "CaS_NightCandle"
+	},
+	{
+		"abr": "alchemicaltable",
+		"price": 542,
+		"category": "Production",
+		"defname": "TableAlchemy"
+	},
+	{
+		"abr": "alloyfurnace",
+		"price": 483,
+		"category": "Production",
+		"defname": "AlloyFurnace"
+	},
+	{
+		"abr": "analyticalstack",
+		"price": 1208,
+		"category": "Steampunk",
+		"defname": "AnalyticalStack"
+	},
+	{
+		"abr": "articulatedfinger",
+		"price": 219,
+		"category": "Prosthetic",
+		"defname": "ClockworkFinger"
+	},
+	{
+		"abr": "articulatedtoe",
+		"price": 219,
+		"category": "Prosthetic",
+		"defname": "ClockworkToe"
+	},
+	{
+		"abr": "artificer'smask",
+		"price": 500,
+		"category": "Headgear",
+		"defname": "Apparel_ArtificerMask"
+	},
+	{
+		"abr": "automatonconstructiontable",
+		"price": 1083,
+		"category": "Production",
+		"defname": "TableWindup"
+	},
+	{
+		"abr": "bladedcane",
+		"price": 158,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_BladedCane"
+	},
+	{
+		"abr": "brass",
+		"price": 13,
+		"category": "Manufactured",
+		"defname": "CaS_Brass"
+	},
+	{
+		"abr": "brassgears",
+		"price": 33,
+		"category": "Clockwork",
+		"defname": "BrassGears"
+	},
+	{
+		"abr": "brasspiston",
+		"price": 67,
+		"category": "Clockwork",
+		"defname": "BrassPiston"
+	},
+	{
+		"abr": "brassticker",
+		"price": 558,
+		"category": "Prosthetic",
+		"defname": "BrassTicker"
+	},
+	{
+		"abr": "bronze",
+		"price": 12,
+		"category": "Manufactured",
+		"defname": "CaS_Bronze"
+	},
+	{
+		"abr": "carbolicacid",
+		"price": 17,
+		"category": "Alchemical",
+		"defname": "CarbolicAcid"
+	},
+	{
+		"abr": "carbolicacidsprayer",
+		"price": 733,
+		"category": "Misc",
+		"defname": "CarbolicAcidSprayer"
+	},
+	{
+		"abr": "chemistrylab",
+		"price": 1100,
+		"category": "Production",
+		"defname": "TableChemistry"
+	},
+	{
+		"abr": "circularsaw",
+		"price": 458,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_CircularSaw"
+	},
+	{
+		"abr": "clockmakingtable",
+		"price": 1092,
+		"category": "Production",
+		"defname": "TableClockwork"
+	},
+	{
+		"abr": "clockworkarm",
+		"price": 542,
+		"category": "Prosthetic",
+		"defname": "ClockworkArm"
+	},
+	{
+		"abr": "clockworkbeetle",
+		"price": 833,
+		"category": "Animal",
+		"defname": "ClockworkBeetle"
+	},
+	{
+		"abr": "clockworkbeetlekit",
+		"price": 833,
+		"category": "Windups",
+		"defname": "ClockworkBeetleKit"
+	},
+	{
+		"abr": "clockworkbow",
+		"price": 575,
+		"category": "Ranged weapons",
+		"defname": "Bow_Clockwork"
+	},
+	{
+		"abr": "clockworkexoskeleton",
+		"price": 875,
+		"category": "Armor",
+		"defname": "Apparel_ClockworkExoskeleton"
+	},
+	{
+		"abr": "clockworkfoot",
+		"price": 458,
+		"category": "Prosthetic",
+		"defname": "ClockworkFoot"
+	},
+	{
+		"abr": "clockworkgun",
+		"price": 1667,
+		"category": "Ranged weapons",
+		"defname": "Gun_ClockworkWindup"
+	},
+	{
+		"abr": "clockworkleg",
+		"price": 525,
+		"category": "Prosthetic",
+		"defname": "ClockworkLeg"
+	},
+	{
+		"abr": "clockworksniper",
+		"price": 1267,
+		"category": "Security",
+		"defname": "Turret_ClockworkSniper"
+	},
+	{
+		"abr": "clockworkspider",
+		"price": 833,
+		"category": "Animal",
+		"defname": "ClockworkSpider"
+	},
+	{
+		"abr": "clockworkspiderkit(clockworkgun)",
+		"price": 833,
+		"category": "Windups",
+		"defname": "ClockworkSpiderKitA"
+	},
+	{
+		"abr": "clockworkspiderkit(steamcannon)",
+		"price": 833,
+		"category": "Windups",
+		"defname": "ClockworkSpiderKitB"
+	},
+	{
+		"abr": "clockworkturret",
+		"price": 1492,
+		"category": "Security",
+		"defname": "Turret_ClockworkTurret"
+	},
+	{
+		"abr": "coal",
+		"price": 3,
+		"category": "Raw resources",
+		"defname": "CaS_Coal"
+	},
+	{
+		"abr": "combatform:gunner",
+		"price": 4292,
+		"category": "Skill books",
+		"defname": "BookOfGunner"
+	},
+	{
+		"abr": "copper",
+		"price": 7,
+		"category": "Raw resources",
+		"defname": "CaS_Copper"
+	},
+	{
+		"abr": "coppernose",
+		"price": 150,
+		"category": "Prosthetic",
+		"defname": "ClockworkNose"
+	},
+	{
+		"abr": "divinghelm",
+		"price": 1125,
+		"category": "Armor",
+		"defname": "Apparel_DivingHelm"
+	},
+	{
+		"abr": "earlymedicinekit",
+		"price": 25,
+		"category": "Medicine",
+		"defname": "MedicineEarlyIndustrial"
+	},
+	{
+		"abr": "ecstatia",
+		"price": 17,
+		"category": "Drugs",
+		"defname": "Ecstatia"
+	},
+	{
+		"abr": "electrochemicalcell",
+		"price": 25,
+		"category": "Clockwork",
+		"defname": "ElectrochemicalCell"
+	},
+	{
+		"abr": "electromechanicalcomputer",
+		"price": 592,
+		"category": "Steampunk",
+		"defname": "ElectromechanicalComputer"
+	},
+	{
+		"abr": "electrostaticrifle",
+		"price": 892,
+		"category": "Ranged weapons",
+		"defname": "Gun_ElectrostaticRifle"
+	},
+	{
+		"abr": "entericapparatus",
+		"price": 492,
+		"category": "Prosthetic",
+		"defname": "EntericApparatus"
+	},
+	{
+		"abr": "firelilyflower",
+		"price": 3,
+		"category": "Natural",
+		"defname": "CaS_FireLily"
+	},
+	{
+		"abr": "firelilyseeds",
+		"price": 42,
+		"category": "Seeds",
+		"defname": "Seed_FireLily"
+	},
+	{
+		"abr": "flamesilk",
+		"price": 5,
+		"category": "Textiles",
+		"defname": "CaS_FireSilk"
+	},
+	{
+		"abr": "flaskoffireessence",
+		"price": 8,
+		"category": "Alchemical",
+		"defname": "CaS_FireFlask"
+	},
+	{
+		"abr": "flowerhat",
+		"price": 273,
+		"category": "Headgear",
+		"defname": "Apparel_FlowerHat"
+	},
+	{
+		"abr": "frostberrybunch",
+		"price": 3,
+		"category": "Natural",
+		"defname": "CaS_FrostBerry"
+	},
+	{
+		"abr": "frostberryseeds",
+		"price": 42,
+		"category": "Seeds",
+		"defname": "Seed_FrostBerry"
+	},
+	{
+		"abr": "gunnerskill:barrelstabilizer",
+		"price": 3000,
+		"category": "Scrolls",
+		"defname": "SkillOf_BarrelStabilizer"
+	},
+	{
+		"abr": "hepaticapparatus",
+		"price": 783,
+		"category": "Prosthetic",
+		"defname": "HepaticApparatus"
+	},
+	{
+		"abr": "hydrogen",
+		"price": 3,
+		"category": "Manufactured",
+		"defname": "CaS_Hydrogen"
+	},
+	{
+		"abr": "industrialhopper",
+		"price": 135,
+		"category": "Steampunk",
+		"defname": "ClockworkInput"
+	},
+	{
+		"abr": "inkberries",
+		"price": 3,
+		"category": "Natural",
+		"defname": "CaS_InkBerries"
+	},
+	{
+		"abr": "inkleafseeds",
+		"price": 42,
+		"category": "Seeds",
+		"defname": "Seed_Inkleaf"
+	},
+	{
+		"abr": "jewelledeye",
+		"price": 383,
+		"category": "Prosthetic",
+		"defname": "JewelledEye"
+	},
+	{
+		"abr": "leatherlung",
+		"price": 592,
+		"category": "Prosthetic",
+		"defname": "LeatherLung"
+	},
+	{
+		"abr": "masquerademask",
+		"price": 203,
+		"category": "Headgear",
+		"defname": "Apparel_MasqueradeMask"
+	},
+	{
+		"abr": "mechanicalmandible",
+		"price": 408,
+		"category": "Prosthetic",
+		"defname": "ClockworkJaw"
+	},
+	{
+		"abr": "neuralapparatus",
+		"price": 50,
+		"category": "Clockwork",
+		"defname": "NeuralApparatus"
+	},
+	{
+		"abr": "nightsilk",
+		"price": 5,
+		"category": "Textiles",
+		"defname": "CaS_NightSilk"
+	},
+	{
+		"abr": "nitre",
+		"price": 3,
+		"category": "Raw resources",
+		"defname": "CaS_Nitre"
+	},
+	{
+		"abr": "nitresynthesizer",
+		"price": 875,
+		"category": "Steampunk",
+		"defname": "NitreSynthesizer"
+	},
+	{
+		"abr": "operatingtheatrenotes",
+		"price": 274,
+		"category": "Misc",
+		"defname": "OperatingTheatreNotes"
+	},
+	{
+		"abr": "operatingtheatretable",
+		"price": 517,
+		"category": "Furniture",
+		"defname": "OperatingTheatreTable"
+	},
+	{
+		"abr": "oraclespell:grandexpanse",
+		"price": 6250,
+		"category": "Scrolls",
+		"defname": "SpellOf_GrandExpanse"
+	},
+	{
+		"abr": "output",
+		"price": 68,
+		"category": "Steampunk",
+		"defname": "ClockworkOutput"
+	},
+	{
+		"abr": "phantasm",
+		"price": 17,
+		"category": "Drugs",
+		"defname": "Phantasm"
+	},
+	{
+		"abr": "pipeorgan",
+		"price": 3500,
+		"category": "Art",
+		"defname": "PipeOrgan"
+	},
+	{
+		"abr": "pistonlathe",
+		"price": 1358,
+		"category": "Steampunk",
+		"defname": "PistonLathe"
+	},
+	{
+		"abr": "radiocomponent",
+		"price": 25,
+		"category": "Clockwork",
+		"defname": "RadioComponent"
+	},
+	{
+		"abr": "renalapparatus",
+		"price": 692,
+		"category": "Prosthetic",
+		"defname": "RenalApparatus"
+	},
+	{
+		"abr": "ribboncockade",
+		"price": 103,
+		"category": "Apparel",
+		"defname": "Apparel_RibbonCockade"
+	},
+	{
+		"abr": "rivetedleather",
+		"price": 7,
+		"category": "Leathers",
+		"defname": "RivetedLeather"
+	},
+	{
+		"abr": "ruby",
+		"price": 8,
+		"category": "Raw resources",
+		"defname": "CaS_Ruby"
+	},
+	{
+		"abr": "rubylens",
+		"price": 17,
+		"category": "Clockwork",
+		"defname": "RubyLens"
+	},
+	{
+		"abr": "rubypendant",
+		"price": 142,
+		"category": "Apparel",
+		"defname": "Apparel_RubyPendant"
+	},
+	{
+		"abr": "rubyprocessor",
+		"price": 1467,
+		"category": "Steampunk",
+		"defname": "RubyProcessor"
+	},
+	{
+		"abr": "rubyraygun",
+		"price": 567,
+		"category": "Ranged weapons",
+		"defname": "Gun_Raygun"
+	},
+	{
+		"abr": "rubysynthesizer",
+		"price": 825,
+		"category": "Steampunk",
+		"defname": "RubySynthesizer"
+	},
+	{
+		"abr": "sapphire",
+		"price": 8,
+		"category": "Raw resources",
+		"defname": "CaS_Sapphire"
+	},
+	{
+		"abr": "sapphirelens",
+		"price": 17,
+		"category": "Clockwork",
+		"defname": "SapphireLens"
+	},
+	{
+		"abr": "sapphireprocessor",
+		"price": 1467,
+		"category": "Steampunk",
+		"defname": "SapphireProcessor"
+	},
+	{
+		"abr": "sapphirering",
+		"price": 142,
+		"category": "Apparel",
+		"defname": "Apparel_SapphireRing"
+	},
+	{
+		"abr": "sapphiresynthesizer",
+		"price": 825,
+		"category": "Steampunk",
+		"defname": "SapphireSynthesizer"
+	},
+	{
+		"abr": "silk",
+		"price": 3,
+		"category": "Textiles",
+		"defname": "CaS_Silk"
+	},
+	{
+		"abr": "silkbushseeds",
+		"price": 42,
+		"category": "Seeds",
+		"defname": "Seed_SilkBush"
+	},
+	{
+		"abr": "snowsilk",
+		"price": 5,
+		"category": "Textiles",
+		"defname": "CaS_IceSilk"
+	},
+	{
+		"abr": "solarblossom",
+		"price": 10,
+		"category": "Natural",
+		"defname": "CaS_SolarBlossom"
+	},
+	{
+		"abr": "solarblossomseeds",
+		"price": 42,
+		"category": "Seeds",
+		"defname": "Seed_SolarBlossom"
+	},
+	{
+		"abr": "spring-coilingmachine",
+		"price": 1317,
+		"category": "Steampunk",
+		"defname": "SpringCoiler"
+	},
+	{
+		"abr": "steamcannon",
+		"price": 1217,
+		"category": "Security",
+		"defname": "Turret_SteamCannon"
+	},
+	{
+		"abr": "steamcannon",
+		"price": 1667,
+		"category": "Ranged weapons",
+		"defname": "Gun_SteamWindup"
+	},
+	{
+		"abr": "steamrifle",
+		"price": 1050,
+		"category": "Ranged weapons",
+		"defname": "Gun_SteamRifle"
+	},
+	{
+		"abr": "steam-forge",
+		"price": 1217,
+		"category": "Production",
+		"defname": "TableSteam"
+	},
 	],
-	"total": 7695
+	"total": 7833
 }

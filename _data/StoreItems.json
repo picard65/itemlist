@@ -5479,12 +5479,6 @@
 		"defname": "GNAdvancedGlitterNetProcessor"
 	},
 	{
-		"abr": "advancedholodeck",
-		"price": 3275,
-		"category": "Recreation",
-		"defname": "Holodeck_Standard"
-	},
-	{
 		"abr": "advancedmechanoidplating",
 		"price": 42,
 		"category": "Advanced mechanoid parts",
@@ -5827,12 +5821,6 @@
 		"defname": "AMW_AntigranFragments"
 	},
 	{
-		"abr": "antigraintorpedo",
-		"price": 2500,
-		"category": "Torpedoes",
-		"defname": "ShipTorpedo_Antimatter"
-	},
-	{
 		"abr": "antimatterblaster",
 		"price": 3167,
 		"category": "Ranged weapons",
@@ -5935,18 +5923,6 @@
 		"defname": "ApiniSatchel"
 	},
 	{
-		"abr": "apitechevasuit",
-		"price": 1567,
-		"category": "Apparel",
-		"defname": "ApiniEVASuit_Light"
-	},
-	{
-		"abr": "apitechheavyevasuit",
-		"price": 4950,
-		"category": "Apparel",
-		"defname": "ApiniEVASuit_Heavy"
-	},
-	{
 		"abr": "apitechmechanites",
 		"price": 83,
 		"category": "Manufactured",
@@ -5989,72 +5965,6 @@
 		"defname": "GR_ArcheoGenePod"
 	},
 	{
-		"abr": "archocat",
-		"price": 1667,
-		"category": "Animal",
-		"defname": "Archocat"
-	},
-	{
-		"abr": "archoffalo",
-		"price": 1667,
-		"category": "Animal",
-		"defname": "Archoffalo"
-	},
-	{
-		"abr": "archojerboa",
-		"price": 1667,
-		"category": "Animal",
-		"defname": "Archojerboa"
-	},
-	{
-		"abr": "archolifepod",
-		"price": 1667,
-		"category": "Items",
-		"defname": "ArcholifePod"
-	},
-	{
-		"abr": "archolope",
-		"price": 1667,
-		"category": "Animal",
-		"defname": "Archolope"
-	},
-	{
-		"abr": "archomutt",
-		"price": 1667,
-		"category": "Animal",
-		"defname": "Archomutt"
-	},
-	{
-		"abr": "archopanda",
-		"price": 1667,
-		"category": "Animal",
-		"defname": "Archopanda"
-	},
-	{
-		"abr": "archospider",
-		"price": 1667,
-		"category": "Animal",
-		"defname": "Archospider"
-	},
-	{
-		"abr": "archostrich",
-		"price": 1667,
-		"category": "Animal",
-		"defname": "Archostrich"
-	},
-	{
-		"abr": "archostrichegg(fert.)",
-		"price": -10,
-		"category": "Eggs (fert.)",
-		"defname": "EggArchostrichFertilized"
-	},
-	{
-		"abr": "archostrichegg(unfert.)",
-		"price": 38,
-		"category": "Eggs (unfert.)",
-		"defname": "EggArchostrichUnfertilized"
-	},
-	{
 		"abr": "archotechcentipede",
 		"price": 6666666,
 		"category": "Animal",
@@ -6067,118 +5977,10 @@
 		"defname": "Meat_GR_ArchotechCentipede"
 	},
 	{
-		"abr": "archotechear",
-		"price": 3000,
-		"category": "Archotech",
-		"defname": "SoSArchotechEar"
-	},
-	{
-		"abr": "archotechheart",
-		"price": 4667,
-		"category": "Archotech",
-		"defname": "SoSArchotechHeart"
-	},
-	{
-		"abr": "archotechjaw",
-		"price": 4667,
-		"category": "Archotech",
-		"defname": "SoSArchotechJaw"
-	},
-	{
-		"abr": "archotechkidney",
-		"price": 4667,
-		"category": "Archotech",
-		"defname": "SoSArchotechKidney"
-	},
-	{
-		"abr": "archotechliver",
-		"price": 4667,
-		"category": "Archotech",
-		"defname": "SoSArchotechLiver"
-	},
-	{
-		"abr": "archotechlung",
-		"price": 4667,
-		"category": "Archotech",
-		"defname": "SoSArchotechLung"
-	},
-	{
-		"abr": "archotechnose",
-		"price": 4667,
-		"category": "Archotech",
-		"defname": "SoSArchotechNose"
-	},
-	{
-		"abr": "archotechpillaralpha",
-		"price": 16783,
-		"category": "Misc",
-		"defname": "ShipArchotechPillarA"
-	},
-	{
-		"abr": "archotechpillarbeta",
-		"price": 16783,
-		"category": "Misc",
-		"defname": "ShipArchotechPillarB"
-	},
-	{
-		"abr": "archotechpillardelta",
-		"price": 16783,
-		"category": "Misc",
-		"defname": "ShipArchotechPillarD"
-	},
-	{
-		"abr": "archotechpillargamma",
-		"price": 16783,
-		"category": "Misc",
-		"defname": "ShipArchotechPillarC"
-	},
-	{
 		"abr": "archotechshieldgenerator",
 		"price": 4667,
 		"category": "Special",
 		"defname": "VFES_ShieldGenerator_Archotech"
-	},
-	{
-		"abr": "archotechskin",
-		"price": 4667,
-		"category": "Archotech",
-		"defname": "SoSArchotechSkin"
-	},
-	{
-		"abr": "archotechspine",
-		"price": 4667,
-		"category": "Archotech",
-		"defname": "SoSArchotechSpine"
-	},
-	{
-		"abr": "archotechstomach",
-		"price": 4667,
-		"category": "Archotech",
-		"defname": "SoSArchotechStomach"
-	},
-	{
-		"abr": "archotechuplink",
-		"price": 8542,
-		"category": "Misc",
-		"defname": "ArchotechUplink"
-	},
-	{
-		"abr": "archothrumbo",
-		"price": 16667,
-		"category": "Animal",
-		"defname": "Archothrumbo"
-	},
-	{
-		"abr": "archotortoise",
-		"price": 1667,
-		"category": "Animal",
-		"defname": "Archotortoise"
-	},
-	{
-		"abr": "archotortoiseegg(fert.)",
-		"price": -10,
-		"category": "Eggs (fert.)",
-		"defname": "EggArchotortoiseFertilized"
 	},
 	{
 		"abr": "arcticdrone",
@@ -6491,12 +6293,6 @@
 		"price": 58333,
 		"category": "Artifacts",
 		"defname": "SNS_CosmicCall_Component_IV"
-	},
-	{
-		"abr": "astromite",
-		"price": 167,
-		"category": "Animal",
-		"defname": "Astromite"
 	},
 	{
 		"abr": "athenium",
@@ -6875,12 +6671,6 @@
 		"price": 517,
 		"category": "Buildings",
 		"defname": "GNBasicGlitterNetProcessor"
-	},
-	{
-		"abr": "basicholodeck",
-		"price": 1792,
-		"category": "Recreation",
-		"defname": "Holodeck_Basic"
 	},
 	{
 		"abr": "basicmedicalintegrator",
@@ -8573,18 +8363,6 @@
 		"price": 319,
 		"category": "Apparel",
 		"defname": "Carbonsuit"
-	},
-	{
-		"abr": "cargoshuttle",
-		"price": 3925,
-		"category": "Furniture",
-		"defname": "CargoShuttle"
-	},
-	{
-		"abr": "cargoshuttle(hovermode)",
-		"price": -10,
-		"category": "Animal",
-		"defname": "ShuttleCargoRace"
 	},
 	{
 		"abr": "carnotaurus",
@@ -10771,15 +10549,9 @@
 		"defname": "SNS_CosmicAlloyWeave"
 	},
 	{
-		"abr": "cosmopillar",
-		"price": 833,
-		"category": "Animal",
-		"defname": "Cosmopillar"
-	},
-	{
 		"abr": "cottonfibre",
 		"price": 2,
-		"category": "Plant matter",
+		"category": "Raw textiles",
 		"defname": "RawCotton"
 	},
 	{
@@ -13730,13 +13502,13 @@
 	},
 	{
 		"abr": "elderbrain",
-		"price": 16667,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "O21_Item_ElderBrain"
 	},
 	{
 		"abr": "elderbrainpool",
-		"price": 17283,
+		"price": -10,
 		"category": "Misc",
 		"defname": "O21_Building_ElderBrainPool"
 	},
@@ -13931,12 +13703,6 @@
 		"price": 60,
 		"category": "Gemstones",
 		"defname": "Z_Emerald"
-	},
-	{
-		"abr": "emptorpedo",
-		"price": 433,
-		"category": "Torpedoes",
-		"defname": "ShipTorpedo_EMP"
 	},
 	{
 		"abr": "emptyhoneycomb",
@@ -14179,12 +13945,6 @@
 		"defname": "UF_EnrichedFungalStarter"
 	},
 	{
-		"abr": "entanglementmanifold",
-		"price": 6667,
-		"category": "Items",
-		"defname": "SoSEntanglementManifold"
-	},
-	{
 		"abr": "entrenchingtool",
 		"price": 583,
 		"category": "Melee weapons",
@@ -14311,18 +14071,6 @@
 		"defname": "SNS_Eternium"
 	},
 	{
-		"abr": "evahelmet",
-		"price": 675,
-		"category": "Headgear",
-		"defname": "Apparel_SpaceSuitHelmet"
-	},
-	{
-		"abr": "evasuit",
-		"price": 1150,
-		"category": "Apparel",
-		"defname": "Apparel_SpaceSuitBody"
-	},
-	{
 		"abr": "eviscerator",
 		"price": 289,
 		"category": "Melee weapons",
@@ -14375,12 +14123,6 @@
 		"price": 3708,
 		"category": "Ultratech",
 		"defname": "ExoskeletonSuit"
-	},
-	{
-		"abr": "exoticparticles",
-		"price": 167,
-		"category": "Items",
-		"defname": "ArchotechExoticParticles"
 	},
 	{
 		"abr": "exoticsmelter(ocularforest)",
@@ -17287,18 +17029,6 @@
 		"defname": "ArcticKidney"
 	},
 	{
-		"abr": "heavycargoshuttle",
-		"price": 6292,
-		"category": "Furniture",
-		"defname": "HeavyShuttle"
-	},
-	{
-		"abr": "heavycargoshuttle(hovermode)",
-		"price": -10,
-		"category": "Animal",
-		"defname": "ShuttleHeavyRace"
-	},
-	{
 		"abr": "heavycryptoaxe",
 		"price": 2417,
 		"category": "Crypto weapons",
@@ -17309,18 +17039,6 @@
 		"price": 3133,
 		"category": "Headgear",
 		"defname": "VFEV_Apparel_CryptoHeavyHelmet"
-	},
-	{
-		"abr": "heavyevahelmet",
-		"price": 1500,
-		"category": "Headgear",
-		"defname": "Apparel_SpaceSuitHelmetHeavy"
-	},
-	{
-		"abr": "heavyevasuit",
-		"price": 4117,
-		"category": "Apparel",
-		"defname": "Apparel_SpaceSuitBodyHeavy"
 	},
 	{
 		"abr": "heavyflamer",
@@ -17501,12 +17219,6 @@
 		"price": 458,
 		"category": "Bionic",
 		"defname": "HDProsthethicEye"
-	},
-	{
-		"abr": "high-explosivetorpedo",
-		"price": 433,
-		"category": "Torpedoes",
-		"defname": "ShipTorpedo_HighExplosive"
 	},
 	{
 		"abr": "high-yieldtelescope",
@@ -18053,12 +17765,6 @@
 		"price": 167,
 		"category": "Raw resources",
 		"defname": "GR_HugeRhinoHorn"
-	},
-	{
-		"abr": "hullfoamcanister",
-		"price": 33,
-		"category": "Items",
-		"defname": "HullFoam"
 	},
 	{
 		"abr": "humanimplant:bearclaws",
@@ -21721,28 +21427,10 @@
 		"defname": "Meat_GR_Mechamuffalo"
 	},
 	{
-		"abr": "mechanitecocktails",
-		"price": 1675,
-		"category": "Grenades",
-		"defname": "Weapon_GrenadeMechanite"
-	},
-	{
-		"abr": "mechanitedisassemblercore",
-		"price": 6667,
-		"category": "Items",
-		"defname": "ArchotechMechaniteCore"
-	},
-	{
 		"abr": "mechanitepants",
 		"price": 625,
 		"category": "Armor",
 		"defname": "MAO_MechanitePants"
-	},
-	{
-		"abr": "mechaniterepairgel",
-		"price": 833,
-		"category": "Items",
-		"defname": "ArchotechRepairGel"
 	},
 	{
 		"abr": "mechaniteswarm",
@@ -22469,12 +22157,6 @@
 		"price": 3908,
 		"category": "Automation",
 		"defname": "PRF_MiniHelper"
-	},
-	{
-		"abr": "minimalshipbridge",
-		"price": 425,
-		"category": "Furniture",
-		"defname": "ShipPilotSeatMini"
 	},
 	{
 		"abr": "miningarm",
@@ -26101,18 +25783,6 @@
 		"defname": "SNS_Turret_PerditionLightCosmic"
 	},
 	{
-		"abr": "personalshuttle",
-		"price": 1792,
-		"category": "Furniture",
-		"defname": "PersonalShuttle"
-	},
-	{
-		"abr": "personalshuttle(hovermode)",
-		"price": -10,
-		"category": "Animal",
-		"defname": "ShuttlePersonalRace"
-	},
-	{
 		"abr": "petdrone",
 		"price": -10,
 		"category": "Drones and queens",
@@ -27031,34 +26701,16 @@
 		"defname": "RB_Bee_Psychic_Drone"
 	},
 	{
-		"abr": "psychicflayercore",
-		"price": 6667,
-		"category": "Items",
-		"defname": "ArchotechPsychicCore"
-	},
-	{
 		"abr": "psychichoneycomb",
 		"price": -10,
 		"category": "Honey combs",
 		"defname": "RB_Psychic_Honeycomb"
 	},
 	{
-		"abr": "psychicmanipulator",
-		"price": 3333,
-		"category": "Archotech",
-		"defname": "SoSPsychicManipulator"
-	},
-	{
 		"abr": "psychicpacifier",
 		"price": 2500,
 		"category": "Artifacts",
 		"defname": "VFEI_Artifacts_PsychicPacifier"
-	},
-	{
-		"abr": "psychicpredictor",
-		"price": 1667,
-		"category": "Archotech",
-		"defname": "SoSPsychicPredictor"
 	},
 	{
 		"abr": "psychicpylon",
@@ -28119,7 +27771,7 @@
 	{
 		"abr": "rawdevilstrand",
 		"price": 5,
-		"category": "Plant matter",
+		"category": "Raw textiles",
 		"defname": "RawDevilstrand"
 	},
 	{
@@ -28271,12 +27923,6 @@
 		"price": 300,
 		"category": "Production",
 		"defname": "GR_PulpRecycler"
-	},
-	{
-		"abr": "recyclotron",
-		"price": 10292,
-		"category": "Production",
-		"defname": "ArchoRecycler"
 	},
 	{
 		"abr": "redbeeswax",
@@ -29275,12 +28921,6 @@
 		"defname": "RK_SantaRobe"
 	},
 	{
-		"abr": "sapientholodeck",
-		"price": 10283,
-		"category": "Recreation",
-		"defname": "Holodeck_AI"
-	},
-	{
 		"abr": "sapphire",
 		"price": 60,
 		"category": "Gemstones",
@@ -29681,24 +29321,6 @@
 		"price": 500,
 		"category": "Animal",
 		"defname": "Syulipia_ShineSlime"
-	},
-	{
-		"abr": "shipbridge",
-		"price": 1200,
-		"category": "Furniture",
-		"defname": "ShipPilotSeat"
-	},
-	{
-		"abr": "shipcapacitor",
-		"price": 908,
-		"category": "Furniture",
-		"defname": "ShipCapacitorSmall"
-	},
-	{
-		"abr": "shipsalvage",
-		"price": 1758,
-		"category": "Special",
-		"defname": "ShipChunkSalvage"
 	},
 	{
 		"abr": "shiv",
@@ -31135,12 +30757,6 @@
 		"defname": "GR_StegothrumboEggUnfertilized"
 	},
 	{
-		"abr": "stellapede",
-		"price": 333,
-		"category": "Animal",
-		"defname": "Stellapede"
-	},
-	{
 		"abr": "stellararm",
 		"price": 4367,
 		"category": "Stellar bionic",
@@ -31613,12 +31229,6 @@
 		"price": 1558,
 		"category": "Security",
 		"defname": "SuvTurret"
-	},
-	{
-		"abr": "survivalbelt",
-		"price": 178,
-		"category": "Armor",
-		"defname": "Apparel_SpaceSurvivalBelt"
 	},
 	{
 		"abr": "sus-anmembrane",
@@ -33853,12 +33463,6 @@
 		"defname": "AIThings_UraniumEyeCasing"
 	},
 	{
-		"abr": "uraniumfuelpod",
-		"price": 1,
-		"category": "Manufactured",
-		"defname": "ShuttleFuelPods"
-	},
-	{
 		"abr": "uraniumheartcasing",
 		"price": 600,
 		"category": "Prosthetic",
@@ -34037,12 +33641,6 @@
 		"price": 1,
 		"category": "Vegetarian",
 		"defname": "UF_RawVanetike"
-	},
-	{
-		"abr": "vanoroot",
-		"price": 2,
-		"category": "Vegetarian",
-		"defname": "RawVanoroot"
 	},
 	{
 		"abr": "variableinsulationskin",
@@ -34619,12 +34217,6 @@
 		"price": 600,
 		"category": "Production",
 		"defname": "O21_OuterRim_WeaponsFabricator"
-	},
-	{
-		"abr": "weathernormalizationdevice",
-		"price": 2000,
-		"category": "Artifacts",
-		"defname": "WeatherCancelDevice"
 	},
 	{
 		"abr": "weavingdrone",
@@ -36385,18 +35977,6 @@
 		"defname": "Moyo_neuroSerum_labor"
 	},
 	{
-		"abr": "apitechevahelmet",
-		"price": 883,
-		"category": "Apparel",
-		"defname": "ApiniEVAHelmet_Light"
-	},
-	{
-		"abr": "apitechheavyevahelmet",
-		"price": 1917,
-		"category": "Apparel",
-		"defname": "ApiniEVAHelmet_Heavy"
-	},
-	{
 		"abr": "deliverybox",
 		"price": 100,
 		"category": "Misc",
@@ -36757,18 +36337,6 @@
 		"defname": "MedTimes_Rug_Tribal"
 	},
 	{
-		"abr": "_agaveseeds",
-		"price": 34,
-		"category": "Seeds",
-		"defname": "Seed__Agave"
-	},
-	{
-		"abr": "acaciaseeds",
-		"price": 3,
-		"category": "Seeds",
-		"defname": "Seed_Acacia"
-	},
-	{
 		"abr": "adamantium",
 		"price": 33,
 		"category": "Alloys",
@@ -36837,7 +36405,7 @@
 	{
 		"abr": "advancedgeothermalgenerator",
 		"price": 3908,
-		"category": "Power",
+		"category": "",
 		"defname": "sd_adv_powergen_adv_geothermal_generator"
 	},
 	{
@@ -36849,7 +36417,7 @@
 	{
 		"abr": "advancedsolargenerator",
 		"price": 1358,
-		"category": "Power",
+		"category": "",
 		"defname": "sd_adv_powergen_adv_solar_generator"
 	},
 	{
@@ -36861,32 +36429,14 @@
 	{
 		"abr": "advancedwatermillgenerator",
 		"price": 2142,
-		"category": "Power",
+		"category": "",
 		"defname": "sd_adv_powergen_WatermillGenerator"
 	},
 	{
 		"abr": "advancedwindturbine",
 		"price": 1258,
-		"category": "Power",
+		"category": "",
 		"defname": "sd_adv_powergen_adv_wind_turbine"
-	},
-	{
-		"abr": "agaricusdomecapseeds",
-		"price": 42,
-		"category": "Seeds",
-		"defname": "Seed_AB_AgaricusDomeCap"
-	},
-	{
-		"abr": "agariluxseeds",
-		"price": 10,
-		"category": "Seeds",
-		"defname": "Seed_Agarilux"
-	},
-	{
-		"abr": "agariluxspores",
-		"price": 16,
-		"category": "Seeds",
-		"defname": "Seed_AB_Agarilux"
 	},
 	{
 		"abr": "aichip",
@@ -36905,12 +36455,6 @@
 		"price": 67,
 		"category": "Rimatomics Product",
 		"defname": "ALC"
-	},
-	{
-		"abr": "alientreeseeds",
-		"price": 15,
-		"category": "Seeds",
-		"defname": "Seed_ABAlienTree"
 	},
 	{
 		"abr": "allianceanti-materielrifle",
@@ -37081,18 +36625,6 @@
 		"defname": "AmbroisenMedToe"
 	},
 	{
-		"abr": "ambrosiaseeds",
-		"price": 42,
-		"category": "Seeds",
-		"defname": "Seed_Ambrosia"
-	},
-	{
-		"abr": "ambrosiaarchotechseeds",
-		"price": 34,
-		"category": "Seeds",
-		"defname": "Seed_AmbrosiaArchotech"
-	},
-	{
 		"abr": "amnesiacmechserum",
 		"price": 1667,
 		"category": "Items",
@@ -37127,12 +36659,6 @@
 		"price": 37,
 		"category": "Drugs",
 		"defname": "AnimaJoint"
-	},
-	{
-		"abr": "animaseeds",
-		"price": 34,
-		"category": "Seeds",
-		"defname": "Seed_Anima"
 	},
 	{
 		"abr": "animastaff",
@@ -37207,12 +36733,6 @@
 		"defname": "Gun_APB-1Rifle"
 	},
 	{
-		"abr": "appleseeds",
-		"price": 31,
-		"category": "Seeds",
-		"defname": "Seed_Apple"
-	},
-	{
 		"abr": "arbalest",
 		"price": 458,
 		"category": "Ranged weapons",
@@ -37223,12 +36743,6 @@
 		"price": 6300,
 		"category": "Nanite",
 		"defname": "MedTimes_Ranged_Arbalest_Nan"
-	},
-	{
-		"abr": "arbuscularmycorrhizaseeds",
-		"price": 3,
-		"category": "Seeds",
-		"defname": "Seed_AB_ArbuscularMycorrhiza"
 	},
 	{
 		"abr": "arcanespell:forcemissile",
@@ -37412,7 +36926,7 @@
 	},
 	{
 		"abr": "archotechmetamorphose",
-		"price": 4667,
+		"price": 200000,
 		"category": "Archotech",
 		"defname": "ArchotechMetamorphose"
 	},
@@ -37481,12 +36995,6 @@
 		"price": 4667,
 		"category": "Archotech",
 		"defname": "ArchotechSubdermalArmor"
-	},
-	{
-		"abr": "armillarixseeds",
-		"price": 14,
-		"category": "Seeds",
-		"defname": "Seed_VFEIArmillarix"
 	},
 	{
 		"abr": "armingcap",
@@ -37651,12 +37159,6 @@
 		"defname": "AutoMortar"
 	},
 	{
-		"abr": "avocadoseeds",
-		"price": 34,
-		"category": "Seeds",
-		"defname": "Seed_Avocado"
-	},
-	{
 		"abr": "backpack",
 		"price": 417,
 		"category": "Doll Apparel",
@@ -37667,24 +37169,6 @@
 		"price": 332,
 		"category": "Security",
 		"defname": "MedTimes_Turret_Ballista"
-	},
-	{
-		"abr": "bambooseeds",
-		"price": 11,
-		"category": "Seeds",
-		"defname": "Seed_TreeBamboo"
-	},
-	{
-		"abr": "bambooseeds",
-		"price": 11,
-		"category": "Seeds",
-		"defname": "Seed_Bamboo"
-	},
-	{
-		"abr": "bananaseeds",
-		"price": 31,
-		"category": "Seeds",
-		"defname": "Seed_Banana"
 	},
 	{
 		"abr": "bandages",
@@ -37709,18 +37193,6 @@
 		"price": 450,
 		"category": "Melee weapons",
 		"defname": "MM_bardiche"
-	},
-	{
-		"abr": "bardsongseeds",
-		"price": 34,
-		"category": "Seeds",
-		"defname": "Seed_Bardsong"
-	},
-	{
-		"abr": "barleyseeds",
-		"price": 9,
-		"category": "Seeds",
-		"defname": "Seed_Barley"
 	},
 	{
 		"abr": "barrage(lmg)",
@@ -37813,12 +37285,6 @@
 		"defname": "BeamSplitter"
 	},
 	{
-		"abr": "beanseeds",
-		"price": 12,
-		"category": "Seeds",
-		"defname": "Seed_Bean"
-	},
-	{
 		"abr": "bearhood",
 		"price": 316,
 		"category": "Doll Headgear",
@@ -37865,12 +37331,6 @@
 		"price": -10,
 		"category": "Bee research",
 		"defname": "RB_ResearchPapersPrefabSynthetic"
-	},
-	{
-		"abr": "beeseeds",
-		"price": 34,
-		"category": "Seeds",
-		"defname": "Seed_Bee"
 	},
 	{
 		"abr": "beltofextravagance",
@@ -37969,12 +37429,6 @@
 		"defname": "RE_BioticAmp_Singularity"
 	},
 	{
-		"abr": "birchseeds",
-		"price": 3,
-		"category": "Seeds",
-		"defname": "Seed_TreeBirch"
-	},
-	{
 		"abr": "birthcontrol",
 		"price": 17,
 		"category": "Drugs",
@@ -38033,12 +37487,6 @@
 		"price": 173,
 		"category": "Outergear",
 		"defname": "MedTimes_ShellBody_TabardBlue"
-	},
-	{
-		"abr": "blueberryseeds",
-		"price": 13,
-		"category": "Seeds",
-		"defname": "Seed_Blueberry"
 	},
 	{
 		"abr": "boarspear",
@@ -38161,12 +37609,6 @@
 		"defname": "Luno_Button"
 	},
 	{
-		"abr": "bwgravesparkbushseeds",
-		"price": 34,
-		"category": "Seeds",
-		"defname": "Seed_BWGraveSparkBush"
-	},
-	{
 		"abr": "caladbog(art)",
 		"price": 7167,
 		"category": "Artifact",
@@ -38177,12 +37619,6 @@
 		"price": 13000,
 		"category": "Legendary",
 		"defname": "MedTimes_Melee_SwordCaladbog_Leg"
-	},
-	{
-		"abr": "camelliaseeds",
-		"price": 3,
-		"category": "Seeds",
-		"defname": "Seed_Camellia"
 	},
 	{
 		"abr": "cannisterturret",
@@ -38221,12 +37657,6 @@
 		"defname": "CaretakerDroneStation"
 	},
 	{
-		"abr": "carrotseeds",
-		"price": 10,
-		"category": "Seeds",
-		"defname": "Seed_Carrot"
-	},
-	{
 		"abr": "cathood",
 		"price": 302,
 		"category": "Doll Headgear",
@@ -38237,30 +37667,6 @@
 		"price": 575,
 		"category": "Security",
 		"defname": "MedTimes__Artillery_Catapult"
-	},
-	{
-		"abr": "cateyeseeds",
-		"price": 34,
-		"category": "Seeds",
-		"defname": "Seed_Cateye"
-	},
-	{
-		"abr": "catlavenderseeds",
-		"price": 34,
-		"category": "Seeds",
-		"defname": "Seed_CatLavender"
-	},
-	{
-		"abr": "catnipseeds",
-		"price": 34,
-		"category": "Seeds",
-		"defname": "Seed_Catnip"
-	},
-	{
-		"abr": "cecropiaseeds",
-		"price": 3,
-		"category": "Seeds",
-		"defname": "Seed_TreeCecropia"
 	},
 	{
 		"abr": "celestial(acid)",
@@ -38383,18 +37789,6 @@
 		"defname": "ChemfuelSiphon"
 	},
 	{
-		"abr": "cherryseeds",
-		"price": 31,
-		"category": "Seeds",
-		"defname": "Seed_Cherry"
-	},
-	{
-		"abr": "cherryblossomseeds",
-		"price": 3,
-		"category": "Seeds",
-		"defname": "Seed_Cherryblossom"
-	},
-	{
 		"abr": "cherubmechinjector",
 		"price": 3333,
 		"category": "Items",
@@ -38443,12 +37837,6 @@
 		"defname": "LS_CloudSword"
 	},
 	{
-		"abr": "cloudberryseeds",
-		"price": 13,
-		"category": "Seeds",
-		"defname": "Seed_Cloudberry"
-	},
-	{
 		"abr": "coalchunks",
 		"price": 3,
 		"category": "Raw resources",
@@ -38465,30 +37853,6 @@
 		"price": 2,
 		"category": "Stone blocks",
 		"defname": "FT_cobbleStone"
-	},
-	{
-		"abr": "cocoabeans",
-		"price": 3,
-		"category": "Plant matter",
-		"defname": "RawCocoaBeans"
-	},
-	{
-		"abr": "cocoaseeds",
-		"price": 22,
-		"category": "Seeds",
-		"defname": "Seed_Cocoa"
-	},
-	{
-		"abr": "coconutseeds",
-		"price": 38,
-		"category": "Seeds",
-		"defname": "Seed_Coconut"
-	},
-	{
-		"abr": "coffeeseeds",
-		"price": 34,
-		"category": "Seeds",
-		"defname": "Seed_Coffee"
 	},
 	{
 		"abr": "coilguncapacitor",
@@ -38761,22 +38125,10 @@
 		"defname": "DDM_Shield"
 	},
 	{
-		"abr": "cornseeds",
-		"price": 9,
-		"category": "Seeds",
-		"defname": "Seed_Corn"
-	},
-	{
 		"abr": "corticalstack",
 		"price": 1667,
 		"category": "Ultratech",
 		"defname": "AC_FilledCorticalStack"
-	},
-	{
-		"abr": "cottonseeds",
-		"price": 19,
-		"category": "Seeds",
-		"defname": "Seed_Cotton"
 	},
 	{
 		"abr": "crabarmor",
@@ -38897,18 +38249,6 @@
 		"price": 2417,
 		"category": "Crypto weapons",
 		"defname": "KIT_CryptoSword"
-	},
-	{
-		"abr": "crystalflowerseeds",
-		"price": 30,
-		"category": "Seeds",
-		"defname": "Seed_ABCrystalFlower"
-	},
-	{
-		"abr": "cs_silkavineseeds",
-		"price": 34,
-		"category": "Seeds",
-		"defname": "Seed_CS_Silkavine"
 	},
 	{
 		"abr": "cursedkhopesh",
@@ -39049,22 +38389,10 @@
 		"defname": "Bow_CS_CyberTech"
 	},
 	{
-		"abr": "cypressseeds",
-		"price": 4,
-		"category": "Seeds",
-		"defname": "Seed_TreeCypress"
-	},
-	{
 		"abr": "dagger",
 		"price": 211,
 		"category": "Melee weapons",
 		"defname": "MM_dagger"
-	},
-	{
-		"abr": "daisyapiniseeds",
-		"price": 34,
-		"category": "Seeds",
-		"defname": "Seed_DaisyApini"
 	},
 	{
 		"abr": "damagedgenusmeat",
@@ -39073,34 +38401,10 @@
 		"defname": "Meat_BOSS_RQ_Monster_race_Summon_y"
 	},
 	{
-		"abr": "dandelionpatchseeds",
-		"price": 34,
-		"category": "Seeds",
-		"defname": "Seed_DandelionPatch"
-	},
-	{
 		"abr": "dartgun",
 		"price": 875,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_DartGun"
-	},
-	{
-		"abr": "dateseeds",
-		"price": 42,
-		"category": "Seeds",
-		"defname": "Seed_Date"
-	},
-	{
-		"abr": "daylilyseeds",
-		"price": 34,
-		"category": "Seeds",
-		"defname": "Seed_Daylily"
-	},
-	{
-		"abr": "deadbowerseeds",
-		"price": 5,
-		"category": "Seeds",
-		"defname": "Seed_AB_DeadBower"
 	},
 	{
 		"abr": "deadeyeskill:grapplinghook",
@@ -39151,12 +38455,6 @@
 		"defname": "OMC_Sword"
 	},
 	{
-		"abr": "demonbreathseeds",
-		"price": 34,
-		"category": "Seeds",
-		"defname": "Seed_DemonBreath"
-	},
-	{
 		"abr": "depleteduranium",
 		"price": 13,
 		"category": "Rimatomics Product",
@@ -39191,12 +38489,6 @@
 		"price": 383,
 		"category": "Doll Headgear",
 		"defname": "Luno_DevilstrandHood"
-	},
-	{
-		"abr": "devilstrandseeds",
-		"price": 33,
-		"category": "Seeds",
-		"defname": "Seed_Devilstrand"
 	},
 	{
 		"abr": "diplomatimplant",
@@ -39253,12 +38545,6 @@
 		"defname": "MedTimes_Helm_Domed_Nan"
 	},
 	{
-		"abr": "domesticatedanimagrassseeds",
-		"price": 34,
-		"category": "Seeds",
-		"defname": "Seed_DomesticatedAnimaGrass"
-	},
-	{
 		"abr": "doom",
 		"price": 10108,
 		"category": "Ranged weapons",
@@ -39275,12 +38561,6 @@
 		"price": 358,
 		"category": "Ranged weapons",
 		"defname": "MMr_crossbow_double"
-	},
-	{
-		"abr": "dragoseeds",
-		"price": 4,
-		"category": "Seeds",
-		"defname": "Seed_TreeDrago"
 	},
 	{
 		"abr": "dragonwings",
@@ -39305,12 +38585,6 @@
 		"price": 2500,
 		"category": "Scrolls",
 		"defname": "SkillOf_Stardiver"
-	},
-	{
-		"abr": "dribblingcapseeds",
-		"price": 42,
-		"category": "Seeds",
-		"defname": "Seed_AB_DribblingCap"
 	},
 	{
 		"abr": "driedagave",
@@ -39385,12 +38659,6 @@
 		"defname": "Eftam"
 	},
 	{
-		"abr": "eggplantseeds",
-		"price": 10,
-		"category": "Seeds",
-		"defname": "Seed_Eggplant"
-	},
-	{
 		"abr": "electricarmorsmithingtable",
 		"price": 808,
 		"category": "Production",
@@ -39455,12 +38723,6 @@
 		"price": 10567,
 		"category": "Melee weapons",
 		"defname": "OEC_Spear"
-	},
-	{
-		"abr": "emberoseseeds",
-		"price": 34,
-		"category": "Seeds",
-		"defname": "Seed_Emberose"
 	},
 	{
 		"abr": "emc",
@@ -39667,12 +38929,6 @@
 		"defname": "Kenshi_FallingSun"
 	},
 	{
-		"abr": "fanpalmseeds",
-		"price": 5,
-		"category": "Seeds",
-		"defname": "Seed_AB_FanPalm"
-	},
-	{
 		"abr": "fancyicebox",
 		"price": 285,
 		"category": "Production",
@@ -39689,12 +38945,6 @@
 		"price": 12500,
 		"category": "Special",
 		"defname": "ArchotechZooBeacon"
-	},
-	{
-		"abr": "featherleafseeds",
-		"price": 34,
-		"category": "Seeds",
-		"defname": "Seed_FeatherLeaf"
 	},
 	{
 		"abr": "fencingsword",
@@ -39727,12 +38977,6 @@
 		"defname": "FibrousMechInjectorSW"
 	},
 	{
-		"abr": "figseeds",
-		"price": 42,
-		"category": "Seeds",
-		"defname": "Seed_Fig"
-	},
-	{
 		"abr": "firebombs",
 		"price": 314,
 		"category": "Grenades",
@@ -39755,12 +38999,6 @@
 		"price": 225,
 		"category": "Ranged weapons",
 		"defname": "MMr_firelongbow"
-	},
-	{
-		"abr": "firevinetreeseeds",
-		"price": 5,
-		"category": "Seeds",
-		"defname": "Seed_ABFireVineTree"
 	},
 	{
 		"abr": "fishhood",
@@ -39791,18 +39029,6 @@
 		"price": 525,
 		"category": "Utility",
 		"defname": "VWE_Apparel_GrenadeFlashBelt"
-	},
-	{
-		"abr": "flaxseeds",
-		"price": 23,
-		"category": "Seeds",
-		"defname": "Seed_Flax"
-	},
-	{
-		"abr": "flommelseeds",
-		"price": 34,
-		"category": "Seeds",
-		"defname": "Seed_Flommel"
 	},
 	{
 		"abr": "floodlight",
@@ -39913,12 +39139,6 @@
 		"defname": "Meat_BOSS_RQ_Monster_race_Summon_h"
 	},
 	{
-		"abr": "frostbellseeds",
-		"price": 34,
-		"category": "Seeds",
-		"defname": "Seed_Frostbell"
-	},
-	{
 		"abr": "fuelrods",
 		"price": 1667,
 		"category": "Nuclear fuel",
@@ -40003,12 +39223,6 @@
 		"defname": "MedTimes_ArmBody_Gambison"
 	},
 	{
-		"abr": "gammaseeds",
-		"price": 34,
-		"category": "Seeds",
-		"defname": "Seed_Gamma"
-	},
-	{
 		"abr": "gardeningbox",
 		"price": 85,
 		"category": "Production",
@@ -40069,60 +39283,6 @@
 		"defname": "Gun_GaussrifleSW"
 	},
 	{
-		"abr": "gausscrystalhuge_blueseeds",
-		"price": 34,
-		"category": "Seeds",
-		"defname": "Seed_GaussCrystalHuge_Blue"
-	},
-	{
-		"abr": "gausscrystalhuge_greenseeds",
-		"price": 34,
-		"category": "Seeds",
-		"defname": "Seed_GaussCrystalHuge_Green"
-	},
-	{
-		"abr": "gausscrystalhuge_orangeseeds",
-		"price": 34,
-		"category": "Seeds",
-		"defname": "Seed_GaussCrystalHuge_Orange"
-	},
-	{
-		"abr": "gausscrystalmed_blueseeds",
-		"price": 34,
-		"category": "Seeds",
-		"defname": "Seed_GaussCrystalMed_Blue"
-	},
-	{
-		"abr": "gausscrystalmed_greenseeds",
-		"price": 34,
-		"category": "Seeds",
-		"defname": "Seed_GaussCrystalMed_Green"
-	},
-	{
-		"abr": "gausscrystalmed_orangeseeds",
-		"price": 34,
-		"category": "Seeds",
-		"defname": "Seed_GaussCrystalMed_Orange"
-	},
-	{
-		"abr": "gausscrystalsmall_blueseeds",
-		"price": 34,
-		"category": "Seeds",
-		"defname": "Seed_GaussCrystalSmall_Blue"
-	},
-	{
-		"abr": "gausscrystalsmall_greenseeds",
-		"price": 34,
-		"category": "Seeds",
-		"defname": "Seed_GaussCrystalSmall_Green"
-	},
-	{
-		"abr": "gausscrystalsmall_orangeseeds",
-		"price": 34,
-		"category": "Seeds",
-		"defname": "Seed_GaussCrystalSmall_Orange"
-	},
-	{
 		"abr": "genesis(acid)",
 		"price": 10567,
 		"category": "Melee weapons",
@@ -40145,24 +39305,6 @@
 		"price": 10567,
 		"category": "Melee weapons",
 		"defname": "OTC_BigAxe_Fire"
-	},
-	{
-		"abr": "giantagariluxspores",
-		"price": 14,
-		"category": "Seeds",
-		"defname": "Seed_AB_GiantAgarilux"
-	},
-	{
-		"abr": "giantstikehrseeds",
-		"price": 3,
-		"category": "Seeds",
-		"defname": "Seed_ABGiantStikehr"
-	},
-	{
-		"abr": "giantseptimumseeds",
-		"price": 3,
-		"category": "Seeds",
-		"defname": "Seed_AB_GiantSeptimum"
 	},
 	{
 		"abr": "gildedplasteel",
@@ -40193,12 +39335,6 @@
 		"price": 1958,
 		"category": "Furniture",
 		"defname": "GlitterworldHospitalBedSW"
-	},
-	{
-		"abr": "glowstoolspores",
-		"price": 7,
-		"category": "Seeds",
-		"defname": "Seed_AB_Glowstool"
 	},
 	{
 		"abr": "godking'sgauntlets(art)",
@@ -40261,18 +39397,6 @@
 		"defname": "RF_GoldDore"
 	},
 	{
-		"abr": "goldleafseeds",
-		"price": 41,
-		"category": "Seeds",
-		"defname": "Seed_Goldleaf"
-	},
-	{
-		"abr": "gooseberryseeds",
-		"price": 13,
-		"category": "Seeds",
-		"defname": "Seed_Gooseberry"
-	},
-	{
 		"abr": "gourmetbeacon",
 		"price": 12500,
 		"category": "Special",
@@ -40295,18 +39419,6 @@
 		"price": 4,
 		"category": "Manufactured",
 		"defname": "VFEM_Must"
-	},
-	{
-		"abr": "grapeseeds",
-		"price": 11,
-		"category": "Seeds",
-		"defname": "Seed_VFEM_Grape"
-	},
-	{
-		"abr": "grapeseeds",
-		"price": 11,
-		"category": "Seeds",
-		"defname": "Seed_VFEMGrape"
 	},
 	{
 		"abr": "grapes",
@@ -40495,22 +39607,10 @@
 		"defname": "CS_Implant_Hauling"
 	},
 	{
-		"abr": "haygrassseeds",
-		"price": 6,
-		"category": "Seeds",
-		"defname": "Seed_Haygrass"
-	},
-	{
 		"abr": "hc-1shield",
 		"price": 4000,
 		"category": "Apparel",
 		"defname": "Apparel_HC1Shield"
-	},
-	{
-		"abr": "healrootseeds",
-		"price": 24,
-		"category": "Seeds",
-		"defname": "Seed_Healroot"
 	},
 	{
 		"abr": "healthbeacon",
@@ -40691,12 +39791,6 @@
 		"price": 49,
 		"category": "Misc",
 		"defname": "Hopper"
-	},
-	{
-		"abr": "hopsseeds",
-		"price": 11,
-		"category": "Seeds",
-		"defname": "Seed_Hops"
 	},
 	{
 		"abr": "hornet",
@@ -40903,34 +39997,10 @@
 		"defname": "Kenshi_IronHat"
 	},
 	{
-		"abr": "ironwoodseeds",
-		"price": 21,
-		"category": "Seeds",
-		"defname": "Seed_Ironwood"
-	},
-	{
-		"abr": "jadeleafseeds",
-		"price": 15,
-		"category": "Seeds",
-		"defname": "Seed_Jadeleaf"
-	},
-	{
-		"abr": "japanesemapleseeds",
-		"price": 3,
-		"category": "Seeds",
-		"defname": "Seed_Japanesemaple"
-	},
-	{
 		"abr": "javelin",
 		"price": 282,
 		"category": "Ranged weapons",
 		"defname": "MMr_javelin"
-	},
-	{
-		"abr": "jellycornseeds",
-		"price": 34,
-		"category": "Seeds",
-		"defname": "Seed_JellyCorn"
 	},
 	{
 		"abr": "jerkedmeats",
@@ -40957,28 +40027,10 @@
 		"defname": "Meat_BOSS_RQ_Monster_race_Summon_z"
 	},
 	{
-		"abr": "jungleseeds",
-		"price": 3,
-		"category": "Seeds",
-		"defname": "Seed_AB_Jungle"
-	},
-	{
-		"abr": "kaleidosseeds",
-		"price": 13,
-		"category": "Seeds",
-		"defname": "Seed_ForsakensKaleidos"
-	},
-	{
 		"abr": "katana",
 		"price": 450,
 		"category": "Melee weapons",
 		"defname": "Kenshi_Katana"
-	},
-	{
-		"abr": "keeningcordaxseeds",
-		"price": 42,
-		"category": "Seeds",
-		"defname": "Seed_AB_KeeningCordax"
 	},
 	{
 		"abr": "keeper'sbelt",
@@ -41009,12 +40061,6 @@
 		"price": 241,
 		"category": "Shields",
 		"defname": "VFEM_Shield_Kite"
-	},
-	{
-		"abr": "kiwiseeds",
-		"price": 11,
-		"category": "Seeds",
-		"defname": "Seed_Kiwi"
 	},
 	{
 		"abr": "knight'sdagger",
@@ -41075,18 +40121,6 @@
 		"price": 500,
 		"category": "Art",
 		"defname": "MedTimes_IceSculptureLarge"
-	},
-	{
-		"abr": "largeslimyspores",
-		"price": 7,
-		"category": "Seeds",
-		"defname": "Seed_AB_LargeSlimy"
-	},
-	{
-		"abr": "lavenderapiniseeds",
-		"price": 34,
-		"category": "Seeds",
-		"defname": "Seed_LavenderApini"
 	},
 	{
 		"abr": "lazarusmechinjector",
@@ -41153,12 +40187,6 @@
 		"price": 725,
 		"category": "Power",
 		"defname": "RF_LightningRod"
-	},
-	{
-		"abr": "lilacbeaconspores",
-		"price": 10,
-		"category": "Seeds",
-		"defname": "Seed_AB_LilacBeacon"
 	},
 	{
 		"abr": "limestonepebbles",
@@ -41245,22 +40273,10 @@
 		"defname": "VWE_Gun_MakeshiftSMG"
 	},
 	{
-		"abr": "mangoseeds",
-		"price": 24,
-		"category": "Seeds",
-		"defname": "Seed_Mango"
-	},
-	{
 		"abr": "manualdetonator",
 		"price": 131,
 		"category": "Buildings",
 		"defname": "rxDetonatorManual"
-	},
-	{
-		"abr": "mapleseeds",
-		"price": 3,
-		"category": "Seeds",
-		"defname": "Seed_TreeMaple"
 	},
 	{
 		"abr": "marblepebbles",
@@ -41315,12 +40331,6 @@
 		"price": 125,
 		"category": "Melee weapons",
 		"defname": "MM_cleaver"
-	},
-	{
-		"abr": "meatbushseeds",
-		"price": 34,
-		"category": "Seeds",
-		"defname": "Seed_Meatbush"
 	},
 	{
 		"abr": "mechaarm",
@@ -41551,12 +40561,6 @@
 		"defname": "RF_MercuryUltraweave"
 	},
 	{
-		"abr": "metalilyseeds",
-		"price": 34,
-		"category": "Seeds",
-		"defname": "Seed_Metalily"
-	},
-	{
 		"abr": "meteoritesummoner",
 		"price": 4167,
 		"category": "Special",
@@ -41765,12 +40769,6 @@
 		"price": 350,
 		"category": "Security",
 		"defname": "MedTimes_Artillery_MurderHole"
-	},
-	{
-		"abr": "mushroomseeds",
-		"price": 14,
-		"category": "Seeds",
-		"defname": "Seed_Mushroom"
 	},
 	{
 		"abr": "myrithium",
@@ -42037,12 +41035,6 @@
 		"defname": "NeutroamineRefiner"
 	},
 	{
-		"abr": "neutroflowerseeds",
-		"price": 11,
-		"category": "Seeds",
-		"defname": "Seed_Neutroflower"
-	},
-	{
 		"abr": "neutroglycerin",
 		"price": 3,
 		"category": "Manufactured",
@@ -42115,18 +41107,6 @@
 		"defname": "NutrientPasteDispenser"
 	},
 	{
-		"abr": "o21recafseeds",
-		"price": 34,
-		"category": "Seeds",
-		"defname": "Seed_O21Recaf"
-	},
-	{
-		"abr": "oakseeds",
-		"price": 3,
-		"category": "Seeds",
-		"defname": "Seed_TreeOak"
-	},
-	{
 		"abr": "obsidian",
 		"price": 25,
 		"category": "Raw resources",
@@ -42175,34 +41155,10 @@
 		"defname": "OCC_Armor_P_Shield"
 	},
 	{
-		"abr": "occpaladinarmor(spacegriffin)",
-		"price": 7917,
-		"category": "Armor",
-		"defname": "OCC_Armor_P_Spacer"
-	},
-	{
 		"abr": "occpaladinhelmet",
 		"price": 3750,
 		"category": "Headgear",
 		"defname": "OCC_Helmet_P"
-	},
-	{
-		"abr": "occpaladinhelmet(spacegriffin)",
-		"price": 3750,
-		"category": "Headgear",
-		"defname": "OCC_Helmet_P_Spacer"
-	},
-	{
-		"abr": "oe_moonplantseeds",
-		"price": 34,
-		"category": "Seeds",
-		"defname": "Seed_OE_Moonplant"
-	},
-	{
-		"abr": "oe_pearlappleseeds",
-		"price": 34,
-		"category": "Seeds",
-		"defname": "Seed_OE_Pearlapple"
 	},
 	{
 		"abr": "oechunterarmor",
@@ -42241,12 +41197,6 @@
 		"defname": "OEC_Helmet_P"
 	},
 	{
-		"abr": "oliveseeds",
-		"price": 10,
-		"category": "Seeds",
-		"defname": "Seed_Olive"
-	},
-	{
 		"abr": "omcofficerarmor",
 		"price": 7083,
 		"category": "Armor",
@@ -42265,22 +41215,10 @@
 		"defname": "OMC_Armor_P_Jump"
 	},
 	{
-		"abr": "omcofficerarmor(spacegriffin)",
-		"price": 7083,
-		"category": "Armor",
-		"defname": "OMC_Armor_P_Spacer"
-	},
-	{
 		"abr": "omcofficerhelmet",
 		"price": 2917,
 		"category": "Headgear",
 		"defname": "OMC_Helmet_P"
-	},
-	{
-		"abr": "omcofficerhelmet(spacegriffin)",
-		"price": 2917,
-		"category": "Headgear",
-		"defname": "OMC_Helmet_P_Spacer"
 	},
 	{
 		"abr": "omcsoldierarmor",
@@ -42385,12 +41323,6 @@
 		"defname": "OCC_BigHammer"
 	},
 	{
-		"abr": "orangeseeds",
-		"price": 31,
-		"category": "Seeds",
-		"defname": "Seed_Orange"
-	},
-	{
 		"abr": "orioncombatvest",
 		"price": 1333,
 		"category": "Apparel",
@@ -42469,22 +41401,10 @@
 		"defname": "OTC_Armor_P_Fire"
 	},
 	{
-		"abr": "otcengineerarmor(spacegriffin)",
-		"price": 7500,
-		"category": "Armor",
-		"defname": "OTC_Armor_P_Spacer"
-	},
-	{
 		"abr": "otcengineerhelmet",
 		"price": 3333,
 		"category": "Headgear",
 		"defname": "OTC_Helmet_P"
-	},
-	{
-		"abr": "otcengineerhelmet(spacegriffin)",
-		"price": 3333,
-		"category": "Headgear",
-		"defname": "OTC_Helmet_P_Spacer"
 	},
 	{
 		"abr": "otcmechanicarmor",
@@ -42583,18 +41503,6 @@
 		"defname": "Kenshi_PaladinsHeavyPlate"
 	},
 	{
-		"abr": "palmseeds",
-		"price": 3,
-		"category": "Seeds",
-		"defname": "Seed_TreePalm"
-	},
-	{
-		"abr": "paracyteseeds",
-		"price": 34,
-		"category": "Seeds",
-		"defname": "Seed_Paracyte"
-	},
-	{
 		"abr": "particlefoamextractioncore",
 		"price": 6667,
 		"category": "Items",
@@ -42617,12 +41525,6 @@
 		"price": 5133,
 		"category": "Ranged weapons",
 		"defname": "OEC_Revolver"
-	},
-	{
-		"abr": "peachseeds",
-		"price": 31,
-		"category": "Seeds",
-		"defname": "Seed_Peach"
 	},
 	{
 		"abr": "pearlapple",
@@ -42889,12 +41791,6 @@
 		"defname": "MedTimes_PersonalComputer"
 	},
 	{
-		"abr": "pharmaseeds",
-		"price": 34,
-		"category": "Seeds",
-		"defname": "Seed_Pharma"
-	},
-	{
 		"abr": "phasarium",
 		"price": 7,
 		"category": "Raw resources",
@@ -42917,24 +41813,6 @@
 		"price": 383,
 		"category": "Melee weapons",
 		"defname": "MM_pike"
-	},
-	{
-		"abr": "pincushioncactusseeds",
-		"price": 7,
-		"category": "Seeds",
-		"defname": "Seed_PincushionCactus"
-	},
-	{
-		"abr": "pineseeds",
-		"price": 3,
-		"category": "Seeds",
-		"defname": "Seed_TreePine"
-	},
-	{
-		"abr": "pineappleseeds",
-		"price": 13,
-		"category": "Seeds",
-		"defname": "Seed_Pineapple"
 	},
 	{
 		"abr": "pioneervariantmeat",
@@ -42971,12 +41849,6 @@
 		"price": 20058,
 		"category": "Production",
 		"defname": "SE_PlanetaryDrill"
-	},
-	{
-		"abr": "plantprocessingbench",
-		"price": 212,
-		"category": "Production",
-		"defname": "PlantProcessingTable"
 	},
 	{
 		"abr": "plasmagun",
@@ -43021,12 +41893,6 @@
 		"defname": "HMW_MeleeWeapon_FlameLance"
 	},
 	{
-		"abr": "plasteelleafseeds",
-		"price": 35,
-		"category": "Seeds",
-		"defname": "Seed_Plasteelleaf"
-	},
-	{
 		"abr": "platedgloves",
 		"price": 97,
 		"category": "Armour",
@@ -43063,18 +41929,6 @@
 		"defname": "MM_polehammer"
 	},
 	{
-		"abr": "pomanasyrriumseeds",
-		"price": 34,
-		"category": "Seeds",
-		"defname": "Seed_Pomanasyrrium"
-	},
-	{
-		"abr": "poplarseeds",
-		"price": 4,
-		"category": "Seeds",
-		"defname": "Seed_TreePoplar"
-	},
-	{
 		"abr": "portablebutcher'sblock",
 		"price": 76,
 		"category": "Production",
@@ -43097,12 +41951,6 @@
 		"price": 53,
 		"category": "Drugs",
 		"defname": "PotassiumIodide"
-	},
-	{
-		"abr": "potatoseeds",
-		"price": 9,
-		"category": "Seeds",
-		"defname": "Seed_Potato"
 	},
 	{
 		"abr": "poweramplifier",
@@ -43507,12 +42355,6 @@
 		"defname": "MentalResetArtifact"
 	},
 	{
-		"abr": "psychoidseeds",
-		"price": 34,
-		"category": "Seeds",
-		"defname": "Seed_Psychoid"
-	},
-	{
 		"abr": "psyrestorelance",
 		"price": 1667,
 		"category": "Artifacts",
@@ -43589,12 +42431,6 @@
 		"price": 417,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_MorePsycasts_StabilizingTouch"
-	},
-	{
-		"abr": "pumpkinseeds",
-		"price": 10,
-		"category": "Seeds",
-		"defname": "Seed_Pumpkin"
 	},
 	{
 		"abr": "puzzlebox",
@@ -43723,12 +42559,6 @@
 		"defname": "CS_RAINAR_Helmet"
 	},
 	{
-		"abr": "randomseeds",
-		"price": 34,
-		"category": "Seeds",
-		"defname": "Seed_Random"
-	},
-	{
 		"abr": "rangerskill:poisonvolley",
 		"price": 1500,
 		"category": "Scrolls",
@@ -43739,12 +42569,6 @@
 		"price": 492,
 		"category": "Melee weapons",
 		"defname": "MM_rapier"
-	},
-	{
-		"abr": "rawhealroot",
-		"price": 4,
-		"category": "Plant matter",
-		"defname": "RawHealroot"
 	},
 	{
 		"abr": "reactivesuit",
@@ -43765,12 +42589,6 @@
 		"defname": "ReconstructorMechSerumSW"
 	},
 	{
-		"abr": "recurvedstrophariaseeds",
-		"price": 10,
-		"category": "Seeds",
-		"defname": "Seed_AB_RecurvedStropharia"
-	},
-	{
 		"abr": "redqueen",
 		"price": 6133,
 		"category": "Might",
@@ -43787,18 +42605,6 @@
 		"price": 10108,
 		"category": "Ranged weapons",
 		"defname": "OEC_Shotgun"
-	},
-	{
-		"abr": "redlentilseeds",
-		"price": 19,
-		"category": "Seeds",
-		"defname": "Seed_Redlentil"
-	},
-	{
-		"abr": "redmapleseeds",
-		"price": 3,
-		"category": "Seeds",
-		"defname": "Seed_Redmaple"
 	},
 	{
 		"abr": "refinedsleepinggascanister",
@@ -43873,18 +42679,6 @@
 		"defname": "MechSerumRevitalizer"
 	},
 	{
-		"abr": "rf_mercurybloomseeds",
-		"price": 34,
-		"category": "Seeds",
-		"defname": "Seed_RF_MercuryBloom"
-	},
-	{
-		"abr": "riceseeds",
-		"price": 9,
-		"category": "Seeds",
-		"defname": "Seed_Rice"
-	},
-	{
 		"abr": "ringedsabre",
 		"price": 483,
 		"category": "Melee weapons",
@@ -43919,12 +42713,6 @@
 		"price": 608,
 		"category": "Ranged weapons",
 		"defname": "VWEFT_Gun_RollingBlockRifle"
-	},
-	{
-		"abr": "roseseeds",
-		"price": 34,
-		"category": "Seeds",
-		"defname": "Seed_Rose"
 	},
 	{
 		"abr": "royaldeathplatearmour",
@@ -43999,12 +42787,6 @@
 		"defname": "MedTimes_Gauntlets_RoyalPlated_Nan"
 	},
 	{
-		"abr": "rushthornseeds",
-		"price": 34,
-		"category": "Seeds",
-		"defname": "Seed_Rushthorn"
-	},
-	{
 		"abr": "rustywarknife",
 		"price": 358,
 		"category": "Melee weapons",
@@ -44039,12 +42821,6 @@
 		"price": 11667,
 		"category": "Melee weapons",
 		"defname": "HMW_MeleeWeapon_SagittariusMight"
-	},
-	{
-		"abr": "saguarocactusseeds",
-		"price": 5,
-		"category": "Seeds",
-		"defname": "Seed_SaguaroCactus"
 	},
 	{
 		"abr": "sallethelmet",
@@ -44251,12 +43027,6 @@
 		"defname": "SensoryMechInjectorSW"
 	},
 	{
-		"abr": "septimumseeds",
-		"price": 22,
-		"category": "Seeds",
-		"defname": "Seed_ForsakensSeptimum"
-	},
-	{
 		"abr": "serricebrandy",
 		"price": 833,
 		"category": "Drugs",
@@ -44267,12 +43037,6 @@
 		"price": 417,
 		"category": "Manufactured",
 		"defname": "Serum"
-	},
-	{
-		"abr": "sessilemechanoidseeds",
-		"price": 4,
-		"category": "Seeds",
-		"defname": "Seed_AB_SessileMechanoid"
 	},
 	{
 		"abr": "shapedcharge",
@@ -44377,12 +43141,6 @@
 		"defname": "CS_Silkavine"
 	},
 	{
-		"abr": "silverleafseeds",
-		"price": 3,
-		"category": "Seeds",
-		"defname": "Seed_Silverleaf"
-	},
-	{
 		"abr": "simerium",
 		"price": 8,
 		"category": "Raw resources",
@@ -44413,12 +43171,6 @@
 		"defname": "FT_CobbleSlate"
 	},
 	{
-		"abr": "slaughtermelonseeds",
-		"price": 34,
-		"category": "Seeds",
-		"defname": "Seed_Slaughtermelon"
-	},
-	{
 		"abr": "sleepinggascanister",
 		"price": 250,
 		"category": "Explosives",
@@ -44435,18 +43187,6 @@
 		"price": 808,
 		"category": "Furniture",
 		"defname": "AC_SleeveCasket"
-	},
-	{
-		"abr": "slimypholiotaspores",
-		"price": 16,
-		"category": "Seeds",
-		"defname": "Seed_AB_SlimyPholiota"
-	},
-	{
-		"abr": "slimyspores",
-		"price": 7,
-		"category": "Seeds",
-		"defname": "Seed_AB_Slimy"
 	},
 	{
 		"abr": "sling",
@@ -44509,12 +43249,6 @@
 		"defname": "MedTimes_Smokehouse"
 	},
 	{
-		"abr": "smokeleafseeds",
-		"price": 13,
-		"category": "Seeds",
-		"defname": "Seed_Smokeleaf"
-	},
-	{
 		"abr": "smokepoptoolbelt",
 		"price": 675,
 		"category": "Accessories",
@@ -44537,12 +43271,6 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_BOSS_RQ_Monster_race_Summon_b"
-	},
-	{
-		"abr": "snowbeetseeds",
-		"price": 14,
-		"category": "Seeds",
-		"defname": "Seed_Snowbeet"
 	},
 	{
 		"abr": "socialbeacon",
@@ -44653,12 +43381,6 @@
 		"defname": "Vanya_SplitRifle"
 	},
 	{
-		"abr": "squashseeds",
-		"price": 10,
-		"category": "Seeds",
-		"defname": "Seed_Squash"
-	},
-	{
 		"abr": "staballoy",
 		"price": 27,
 		"category": "Alloys",
@@ -44743,22 +43465,10 @@
 		"defname": "MedTimes_PlateJack_Nan"
 	},
 	{
-		"abr": "steelleafseeds",
-		"price": 5,
-		"category": "Seeds",
-		"defname": "Seed_Steelleaf"
-	},
-	{
 		"abr": "stew",
 		"price": 13,
 		"category": "Meals",
 		"defname": "FT_MealStew"
-	},
-	{
-		"abr": "stikehrseeds",
-		"price": 39,
-		"category": "Seeds",
-		"defname": "Seed_ForsakensStikehr"
 	},
 	{
 		"abr": "stonehearth",
@@ -44795,12 +43505,6 @@
 		"price": 17,
 		"category": "Trade goods",
 		"defname": "MedTimes_StoragePot"
-	},
-	{
-		"abr": "strawberryseeds",
-		"price": 10,
-		"category": "Seeds",
-		"defname": "Seed_Strawberry"
 	},
 	{
 		"abr": "streetlamp",
@@ -44843,12 +43547,6 @@
 		"price": 220,
 		"category": "Melee weapons",
 		"defname": "VWE_MeleeWeapon_StunBaton"
-	},
-	{
-		"abr": "sugarcaneseeds",
-		"price": 19,
-		"category": "Seeds",
-		"defname": "Seed_Sugarcane"
 	},
 	{
 		"abr": "summercape",
@@ -44963,18 +43661,6 @@
 		"price": 583,
 		"category": "Drugs",
 		"defname": "RE_TastyTankard"
-	},
-	{
-		"abr": "teaseeds",
-		"price": 17,
-		"category": "Seeds",
-		"defname": "Seed_Tea"
-	},
-	{
-		"abr": "teakseeds",
-		"price": 4,
-		"category": "Seeds",
-		"defname": "Seed_TreeTeak"
 	},
 	{
 		"abr": "teargasgrenadebelt",
@@ -45211,18 +43897,6 @@
 		"defname": "Titanium"
 	},
 	{
-		"abr": "tobaccoseeds",
-		"price": 10,
-		"category": "Seeds",
-		"defname": "Seed_Tobacco"
-	},
-	{
-		"abr": "tomatoseeds",
-		"price": 11,
-		"category": "Seeds",
-		"defname": "Seed_Tomato"
-	},
-	{
 		"abr": "toolbelt",
 		"price": 234,
 		"category": "Accessories",
@@ -45325,90 +43999,6 @@
 		"defname": "Ancient_TwoHandedFlair"
 	},
 	{
-		"abr": "uf_cococazineseeds",
-		"price": 34,
-		"category": "Seeds",
-		"defname": "Seed_UF_Cococazine"
-	},
-	{
-		"abr": "uf_colossalsanoziteseeds",
-		"price": 34,
-		"category": "Seeds",
-		"defname": "Seed_UF_ColossalSanozite"
-	},
-	{
-		"abr": "uf_deepdevilstrandseeds",
-		"price": 34,
-		"category": "Seeds",
-		"defname": "Seed_UF_DeepDevilstrand"
-	},
-	{
-		"abr": "uf_deephopsseeds",
-		"price": 34,
-		"category": "Seeds",
-		"defname": "Seed_UF_DeepHops"
-	},
-	{
-		"abr": "uf_deeppsychoidseeds",
-		"price": 34,
-		"category": "Seeds",
-		"defname": "Seed_UF_DeepPsychoid"
-	},
-	{
-		"abr": "uf_deepsmokeleafseeds",
-		"price": 34,
-		"category": "Seeds",
-		"defname": "Seed_UF_DeepSmokeleaf"
-	},
-	{
-		"abr": "uf_frigiaseeds",
-		"price": 34,
-		"category": "Seeds",
-		"defname": "Seed_UF_Frigia"
-	},
-	{
-		"abr": "uf_laetiseeds",
-		"price": 34,
-		"category": "Seeds",
-		"defname": "Seed_UF_Laeti"
-	},
-	{
-		"abr": "uf_melrotusseeds",
-		"price": 34,
-		"category": "Seeds",
-		"defname": "Seed_UF_Melrotus"
-	},
-	{
-		"abr": "uf_neutrophyriaseeds",
-		"price": 34,
-		"category": "Seeds",
-		"defname": "Seed_UF_Neutrophyria"
-	},
-	{
-		"abr": "uf_pyraziteseeds",
-		"price": 34,
-		"category": "Seeds",
-		"defname": "Seed_UF_Pyrazite"
-	},
-	{
-		"abr": "uf_scarikorbseeds",
-		"price": 34,
-		"category": "Seeds",
-		"defname": "Seed_UF_ScarikOrb"
-	},
-	{
-		"abr": "uf_vanetikeseeds",
-		"price": 34,
-		"category": "Seeds",
-		"defname": "Seed_UF_Vanetike"
-	},
-	{
-		"abr": "uf_xylemtuberseeds",
-		"price": 34,
-		"category": "Seeds",
-		"defname": "Seed_UF_XylemTuber"
-	},
-	{
 		"abr": "ultrabow",
 		"price": 1708,
 		"category": "CS weapons",
@@ -45425,12 +44015,6 @@
 		"price": 20,
 		"category": "Textiles",
 		"defname": "CS_Ultrathread"
-	},
-	{
-		"abr": "ultraviolettseeds",
-		"price": 42,
-		"category": "Seeds",
-		"defname": "Seed_ForsakensUltraviolett"
 	},
 	{
 		"abr": "uncuredplasteel",
@@ -45463,18 +44047,6 @@
 		"defname": "UraniumPellets"
 	},
 	{
-		"abr": "uraniumleafseeds",
-		"price": 17,
-		"category": "Seeds",
-		"defname": "Seed_Uraniumleaf"
-	},
-	{
-		"abr": "vanorootseeds",
-		"price": 34,
-		"category": "Seeds",
-		"defname": "Seed_Vanoroot"
-	},
-	{
 		"abr": "varren",
 		"price": 1000,
 		"category": "Animal",
@@ -45503,12 +44075,6 @@
 		"price": 15000,
 		"category": "Legendary",
 		"defname": "MedTimes_Melee_AxeVidar_Leg"
-	},
-	{
-		"abr": "vigorbloomseeds",
-		"price": 34,
-		"category": "Seeds",
-		"defname": "Seed_Vigorbloom"
 	},
 	{
 		"abr": "vilanite",
@@ -45751,34 +44317,16 @@
 		"defname": "FT_WaterVat"
 	},
 	{
-		"abr": "watermelonseeds",
-		"price": 13,
-		"category": "Seeds",
-		"defname": "Seed_Watermelon"
-	},
-	{
 		"abr": "weakstew",
 		"price": 17,
 		"category": "Meals",
 		"defname": "MedTimes_MealWeakStew"
 	},
 	{
-		"abr": "wheatseeds",
-		"price": 22,
-		"category": "Seeds",
-		"defname": "Seed_Wheat"
-	},
-	{
 		"abr": "wildplantcollector",
 		"price": 29342,
 		"category": "Automation",
 		"defname": "GrowingDroneStation"
-	},
-	{
-		"abr": "willowseeds",
-		"price": 4,
-		"category": "Seeds",
-		"defname": "Seed_TreeWillow"
 	},
 	{
 		"abr": "wine",
@@ -45821,18 +44369,6 @@
 		"price": 500,
 		"category": "Power",
 		"defname": "RF_WirelessPowerPylon"
-	},
-	{
-		"abr": "wiserbudseeds",
-		"price": 34,
-		"category": "Seeds",
-		"defname": "Seed_Wiserbud"
-	},
-	{
-		"abr": "witchesoysterseeds",
-		"price": 12,
-		"category": "Seeds",
-		"defname": "Seed_AB_WitchesOyster"
 	},
 	{
 		"abr": "wizardhoneycomb",
@@ -46007,12 +44543,6 @@
 		"price": 6158,
 		"category": "Production",
 		"defname": "RE_Mechanoids_YMIRBase"
-	},
-	{
-		"abr": "yokaipepperseeds",
-		"price": 34,
-		"category": "Seeds",
-		"defname": "Seed_YokaiPepper"
 	},
 	{
 		"abr": "z-composite",
@@ -46567,12 +45097,6 @@
 		"defname": "CaS_FireLily"
 	},
 	{
-		"abr": "firelilyseeds",
-		"price": 42,
-		"category": "Seeds",
-		"defname": "Seed_FireLily"
-	},
-	{
 		"abr": "flamesilk",
 		"price": 5,
 		"category": "Textiles",
@@ -46595,12 +45119,6 @@
 		"price": 3,
 		"category": "Natural",
 		"defname": "CaS_FrostBerry"
-	},
-	{
-		"abr": "frostberryseeds",
-		"price": 42,
-		"category": "Seeds",
-		"defname": "Seed_FrostBerry"
 	},
 	{
 		"abr": "gunnerskill:barrelstabilizer",
@@ -46631,12 +45149,6 @@
 		"price": 3,
 		"category": "Natural",
 		"defname": "CaS_InkBerries"
-	},
-	{
-		"abr": "inkleafseeds",
-		"price": 42,
-		"category": "Seeds",
-		"defname": "Seed_Inkleaf"
 	},
 	{
 		"abr": "jewelledeye",
@@ -46825,12 +45337,6 @@
 		"defname": "CaS_Silk"
 	},
 	{
-		"abr": "silkbushseeds",
-		"price": 42,
-		"category": "Seeds",
-		"defname": "Seed_SilkBush"
-	},
-	{
 		"abr": "snowsilk",
 		"price": 5,
 		"category": "Textiles",
@@ -46841,12 +45347,6 @@
 		"price": 10,
 		"category": "Natural",
 		"defname": "CaS_SolarBlossom"
-	},
-	{
-		"abr": "solarblossomseeds",
-		"price": 42,
-		"category": "Seeds",
-		"defname": "Seed_SolarBlossom"
 	},
 	{
 		"abr": "spring-coilingmachine",
@@ -46878,6 +45378,24 @@
 		"category": "Production",
 		"defname": "TableSteam"
 	},
+	{
+		"abr": "steam-poweredsuit",
+		"price": 2258,
+		"category": "Armor",
+		"defname": "Apparel_SteamPoweredSuit"
+	},
+	{
+		"abr": "steamworkarm",
+		"price": 1133,
+		"category": "Prosthetic",
+		"defname": "SteamworkArm"
+	},
+	{
+		"abr": "steamworkfist",
+		"price": 858,
+		"category": "Prosthetic",
+		"defname": "SteamworkFist"
+	}
 	],
-	"total": 7833
+	"total": 7642
 }

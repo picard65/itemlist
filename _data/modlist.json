@@ -3,7 +3,13 @@
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
-    "version": "1.1.0.0"
+    "version": "1.1.1.0"
+  },
+  {
+    "author": "aRandomKiwi",
+    "name": "RimSaves",
+    "steamId": "1713367505",
+    "version": "2020.1.6.0"
   },
   {
     "author": "Fluffy",
@@ -33,7 +39,7 @@
     "author": "jecrell and contributors",
     "name": "JecsTools (Unofficial)",
     "steamId": "2195729899",
-    "version": "1.1.2.3"
+    "version": "1.3.0.1"
   },
   {
     "author": "erdelf",
@@ -96,7 +102,7 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Roolo",
+    "author": "Roolo,Updated by Ogliss",
     "name": "What the hack?!",
     "steamId": null,
     "version": null
@@ -192,6 +198,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "newcolonist",
+    "name": "Large Faction Bases",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Atlas, aRandomKiwi",
     "name": "Android tiers",
     "steamId": "1386412863",
@@ -237,7 +249,7 @@
     "author": "Haplo",
     "name": "Miscellaneous 'CORE'",
     "steamId": "704181221",
-    "version": "1.2.0"
+    "version": "1.3.1"
   },
   {
     "author": "Haplo",
@@ -267,7 +279,7 @@
     "author": "Kikohi, Trunken",
     "name": "Cybernetic Organism and Neural Network",
     "steamId": "2045064990",
-    "version": "2.0.0.0"
+    "version": "2.0.1.0"
   },
   {
     "author": "Smuffle",
@@ -453,7 +465,7 @@
     "author": "XeoNovaDan",
     "name": "[XND] Profitable Weapons (Continued)",
     "steamId": "2269697598",
-    "version": "1.0.1.0"
+    "version": "1.0.2.0"
   },
   {
     "author": "Ogre",
@@ -466,12 +478,6 @@
     "name": "Non uno Pinata",
     "steamId": "1778821244",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "NewsofPE",
-    "name": "No Research 1.3",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Hob Took",
@@ -543,13 +549,13 @@
     "author": "Mlie",
     "name": "Fill backstories",
     "steamId": "2407610901",
-    "version": "1.0.0.0"
+    "version": "1.0.1.0"
   },
   {
     "author": "Dubwise",
     "name": "Dubs Mint Menus",
     "steamId": "1446523594",
-    "version": "1.3.900"
+    "version": "1.3.912"
   },
   {
     "author": "tikubonn",
@@ -636,12 +642,6 @@
     "version": "4.7.272"
   },
   {
-    "author": "Dylan",
-    "name": "Animal Gear",
-    "steamId": "1541438907",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "UnlimitedHugs",
     "name": "Allow Tool",
     "steamId": null,
@@ -651,7 +651,7 @@
     "author": "Andreas Pardeike",
     "name": "Achtung!",
     "steamId": "730936602",
-    "version": "3.2.2.0"
+    "version": "3.2.3.0"
   },
   {
     "author": "Neronix17",
@@ -668,18 +668,6 @@
   {
     "author": "Ravvy",
     "name": "[RWY]Advanced Mechanoid Warfare",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "sulusdacor, james76543, Meltup",
-    "name": "Advanced Power Plus",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Kentington and Thain",
-    "name": "Save Our Ship 2",
     "steamId": null,
     "version": null
   },
@@ -723,7 +711,7 @@
     "author": "lbmaian",
     "name": "Begone, Message!",
     "steamId": "1951637504",
-    "version": "1.4"
+    "version": "1.5"
   },
   {
     "author": "FLASHPOINT55",
@@ -739,7 +727,7 @@
   },
   {
     "author": "Syila",
-    "name": "[1.2] Cerberus Equipment",
+    "name": "Cerberus Equipment",
     "steamId": null,
     "version": null
   },
@@ -933,7 +921,7 @@
     "author": "zymex",
     "name": "Project RimFactory Revived",
     "steamId": "2033979700",
-    "version": "2.5.9"
+    "version": "2.6.02"
   },
   {
     "author": "Neceros",
@@ -1014,7 +1002,7 @@
     "version": null
   },
   {
-    "author": "NEPH, Maxim",
+    "author": "Nephlite, Maxim",
     "name": "Utility Columns",
     "steamId": null,
     "version": null
@@ -1263,7 +1251,7 @@
     "author": "Ratys",
     "name": "Mad Skills",
     "steamId": "731111514",
-    "version": "2.4.0.0"
+    "version": "2.5.0.0"
   },
   {
     "author": "Sarg",
@@ -1281,7 +1269,7 @@
     "author": "Nemonian",
     "name": "Moyo-From the depth",
     "steamId": "2182305386",
-    "version": "1.2.1"
+    "version": "1.3"
   },
   {
     "author": "Gloomylynx Nukafrog",
@@ -1339,7 +1327,7 @@
   },
   {
     "author": "ISOREX",
-    "name": "VFE - Mechanoids : Unoffical Add-On",
+    "name": "VFE-M: Add-On",
     "steamId": null,
     "version": null
   },
@@ -1356,7 +1344,7 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki, Trunken",
+    "author": "Oskar Potocki, Trunken, Sarg Bjornson",
     "name": "Vanilla Weapons Expanded",
     "steamId": null,
     "version": null
@@ -1458,7 +1446,7 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki, XeoNovaDan",
+    "author": "Oskar Potocki, XeoNovaDan, erdelf",
     "name": "Vanilla Hair Expanded",
     "steamId": "1888705256",
     "version": "1.0.3"
@@ -1656,12 +1644,6 @@
     "version": null
   },
   {
-    "author": "FrozenSnowFox",
-    "name": "[FSF] Meditation Freedom",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "WexMan",
     "name": "Mines",
     "steamId": null,
@@ -1707,7 +1689,7 @@
     "author": "Captain Muscles (Nathan Harbour)",
     "name": "Semi Random Research",
     "steamId": "2375902187",
-    "version": "1.0.4"
+    "version": "1.0.5"
   },
   {
     "author": "Trunken",
@@ -1737,13 +1719,13 @@
     "author": "Lanilor",
     "name": "Simply More Bridges (Continued)",
     "steamId": "2012484790",
-    "version": "1.0.27.0"
+    "version": "1.0.28.0"
   },
   {
     "author": "Dubwise",
     "name": "Rimatomics",
     "steamId": "1127530465",
-    "version": "1.7.2428"
+    "version": "1.7.2433"
   },
   {
     "author": "Dubwise",
@@ -1767,7 +1749,7 @@
     "author": "Jecrell,lbmaian",
     "name": "Doors Expanded (Dev)",
     "steamId": "2195733555",
-    "version": "1.3.3.1"
+    "version": "1.3.3.2"
   },
   {
     "author": "PartyCowboy",
@@ -1788,21 +1770,9 @@
     "version": "1.0.0.1"
   },
   {
-    "author": "newcolonist",
-    "name": "Large Faction Bases",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "AtrociousCollector",
     "name": "Choose your enemy base",
     "steamId": "2366709688",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "iwishforducks",
-    "name": "Ducks' Insane Skills",
-    "steamId": "2450186578",
     "version": "1.0.0.0"
   },
   {
@@ -1890,8 +1860,8 @@
     "version": "2.6.0"
   },
   {
-    "author": "Helixien, Taranchuk, Saakra, OskarPotocki",
-    "name": "[HLX] Ultratech: Altered Carbon",
+    "author": "Helixien, Taranchuk, Saakra, ISOREX, OskarPotocki",
+    "name": "Ultratech: Altered Carbon Remastered",
     "steamId": "2196278117",
     "version": "1.0.0.0"
   },
@@ -1902,7 +1872,7 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki, Luizi, xrushhha",
+    "author": "Oskar Potocki, Luizi, xrushha",
     "name": "Vanilla Weapons Expanded - Frontier",
     "steamId": null,
     "version": null
@@ -1964,12 +1934,6 @@
   {
     "author": "Ryflamer",
     "name": "[Ry]Draw a bead",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Is",
-    "name": "Fallen Stars",
     "steamId": null,
     "version": null
   },
@@ -2040,18 +2004,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "notfood",
-    "name": "SeedsPlease",
-    "steamId": "935732834",
-    "version": "1.1.1.0"
-  },
-  {
-    "author": "Shadow",
-    "name": "SeedsPlease: All-In-One Megapatch",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Benji // Steam: Cute Twink",
     "name": "Moonjelly Race",
     "steamId": null,
@@ -2085,7 +2037,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.0.3.3"
+    "version": "6.1.2.2"
   },
   {
     "author": "swemoney",
@@ -2095,7 +2047,7 @@
   },
   {
     "author": "Spdskatr, CaesarV6",
-    "name": "Damage Indicators [1.2]",
+    "name": "Damage Indicators [1.3]",
     "steamId": "2016331497",
     "version": "1.0.0.0"
   },
@@ -2126,6 +2078,96 @@
   {
     "author": "Flyingstar",
     "name": "Elemental Charge Blaster",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Epicguru (James B)",
+    "name": "What's That Mod",
+    "steamId": "2258431182",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Revolus",
+    "name": "What's Missing?",
+    "steamId": "2073082747",
+    "version": "2020.4.25.1"
+  },
+  {
+    "author": "iwishforducks",
+    "name": "Ducks' Insane Skills",
+    "steamId": "2450186578",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Energistics",
+    "name": "Start Without Tech",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Is",
+    "name": "Fallen Stars",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Meditation Freedom",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "sulusdacor, james76543, Meltup",
+    "name": "Advanced Power Plus",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "gregorycurrie",
+    "name": "Animal Genetics",
+    "steamId": "2226725974",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Ordo",
+    "name": "Auto Doc",
+    "steamId": "2540157183",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "PeteTimesSix",
+    "name": "Compact Hediffs",
+    "steamId": "2031734067",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Syrchalis",
+    "name": "[SYR] Set Up Camp",
+    "steamId": "1470065926",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "miyamiya",
+    "name": "Compressed Raid",
+    "steamId": "2377478084",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Zombieland",
+    "steamId": "928376710",
+    "version": "2.3.0.0"
+  },
+  {
+    "author": "Sierra",
+    "name": "RimTraits - Medieval Talents",
+    "steamId": "1916352291",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "LadyCookie",
+    "name": "Cookie Traits (No Cheats)",
     "steamId": null,
     "version": null
   }

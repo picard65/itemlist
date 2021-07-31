@@ -45395,7 +45395,1195 @@
 		"price": 858,
 		"category": "Prosthetic",
 		"defname": "SteamworkFist"
-	}
+	},
+	{
+		"abr": "100thammer",
+		"price": 1408,
+		"category": "Melee weapons",
+		"defname": "Kijin_100tHammer"
+	},
+	{
+		"abr": "advancedchargelance",
+		"price": 358,
+		"category": "Ranged weapons",
+		"defname": "VFE_Gun_AdvancedChargeLance"
+	},
+	{
+		"abr": "advancedheavychargeblaster",
+		"price": 2333,
+		"category": "Ranged weapons",
+		"defname": "VFE_Gun_AdvancedChargeBlasterHeavy"
+	},
+	{
+		"abr": "advancedlightchargeblaster",
+		"price": 1667,
+		"category": "Ranged weapons",
+		"defname": "VFE_Gun_AdvancedChargeBlasterLight"
+	},
+	{
+		"abr": "advancedneedlegun",
+		"price": 2333,
+		"category": "Ranged weapons",
+		"defname": "VFE_Gun_AdvancedNeedle"
+	},
+	{
+		"abr": "algaelantern",
+		"price": 145,
+		"category": "Furniture",
+		"defname": "RttR_AlgaeLantern"
+	},
+	{
+		"abr": "arcanetome:guardian",
+		"price": 5500,
+		"category": "Skill books",
+		"defname": "BookOfGuardian"
+	},
+	{
+		"abr": "bedrock",
+		"price": 592,
+		"category": "Furniture",
+		"defname": "GIhardbed"
+	},
+	{
+		"abr": "bigbedrock",
+		"price": 983,
+		"category": "Furniture",
+		"defname": "GIDhardbed"
+	},
+	{
+		"abr": "bighaybed",
+		"price": 245,
+		"category": "Furniture",
+		"defname": "GIDBed"
+	},
+	{
+		"abr": "biglavishrawmeatball",
+		"price": 12,
+		"category": "Meals",
+		"defname": "RS_BigLavishRawMeatBall"
+	},
+	{
+		"abr": "bigsimplerawmeatball",
+		"price": 8,
+		"category": "Meals",
+		"defname": "RS_BigSimpleRawMeatBall"
+	},
+	{
+		"abr": "bionicfinger",
+		"price": 1050,
+		"category": "Bionic",
+		"defname": "BionicFinger"
+	},
+	{
+		"abr": "bionickijinhorn",
+		"price": 1808,
+		"category": "Bionic",
+		"defname": "Kijin_BionicHorn"
+	},
+	{
+		"abr": "bionicrakklebellyscale",
+		"price": 1717,
+		"category": "Bionic",
+		"defname": "RS_BionicBellyscale"
+	},
+	{
+		"abr": "bionicrakkletail",
+		"price": 1792,
+		"category": "Bionic",
+		"defname": "RS_BionicTail"
+	},
+	{
+		"abr": "bionictoe",
+		"price": 1050,
+		"category": "Bionic",
+		"defname": "BionicToe"
+	},
+	{
+		"abr": "boxofdice:gambler",
+		"price": 5500,
+		"category": "Skill books",
+		"defname": "BookOfGambler"
+	},
+	{
+		"abr": "brainstew",
+		"price": 20,
+		"category": "Drugs",
+		"defname": "IH_BrainStew"
+	},
+	{
+		"abr": "campagne",
+		"price": 43,
+		"category": "Meals",
+		"defname": "Campagne"
+	},
+	{
+		"abr": "clockworkbear",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "ClockworkBear"
+	},
+	{
+		"abr": "clockworkbearkit",
+		"price": 1667,
+		"category": "Windups",
+		"defname": "ClockworkBearKit"
+	},
+	{
+		"abr": "combatform:holosmith",
+		"price": 4292,
+		"category": "Skill books",
+		"defname": "BookOfHolosmith"
+	},
+	{
+		"abr": "combatform:nomad",
+		"price": 4292,
+		"category": "Skill books",
+		"defname": "BookOfNomad"
+	},
+	{
+		"abr": "combatform:warrior",
+		"price": 4292,
+		"category": "Skill books",
+		"defname": "BookOfWarrior"
+	},
+	{
+		"abr": "cornedmeat",
+		"price": 2,
+		"category": "Meat",
+		"defname": "SaltedMeatKijin"
+	},
+	{
+		"abr": "cybertronicarm",
+		"price": 6667,
+		"category": "CS cybernetic",
+		"defname": "CS_Cybertronic_Arm"
+	},
+	{
+		"abr": "cybertronicleg",
+		"price": 6667,
+		"category": "CS cybernetic",
+		"defname": "CS_Cybertronic_Leg"
+	},
+	{
+		"abr": "cyclopsarmour",
+		"price": 12758,
+		"category": "Giant Apparel",
+		"defname": "GI_Powerarmour"
+	},
+	{
+		"abr": "cyclopshelmet",
+		"price": 5950,
+		"category": "Giant Apparel",
+		"defname": "GI_Powerhelmet"
+	},
+	{
+		"abr": "darkmarinearmor",
+		"price": 3392,
+		"category": "Apparel",
+		"defname": "Apparel_PowerArmorDK"
+	},
+	{
+		"abr": "darkmarinehelmet",
+		"price": 1058,
+		"category": "Headgear",
+		"defname": "Apparel_PowerArmorHelmetDK"
+	},
+	{
+		"abr": "deadlynadder",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "RttR_Nadder"
+	},
+	{
+		"abr": "deadlynadderegg(fert.)",
+		"price": 167,
+		"category": "Eggs (fert.)",
+		"defname": "RttR_EggNadderFertilized"
+	},
+	{
+		"abr": "deathknightskill:abyssaldrain",
+		"price": 2667,
+		"category": "Scrolls",
+		"defname": "SkillOf_AbyssalDrain"
+	},
+	{
+		"abr": "deathknightskill:darkgrasp",
+		"price": 1417,
+		"category": "Scrolls",
+		"defname": "SkillOf_DarkGrasp"
+	},
+	{
+		"abr": "deathknightskill:openingritual",
+		"price": 1417,
+		"category": "Scrolls",
+		"defname": "SkillOf_OpeningRitual"
+	},
+	{
+		"abr": "deathknightskill:theblackestnight",
+		"price": 3000,
+		"category": "Scrolls",
+		"defname": "SkillOf_TheBlackestNight"
+	},
+	{
+		"abr": "dragonmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_RttR_Fury"
+	},
+	{
+		"abr": "femalefacehelm",
+		"price": 1000,
+		"category": "Giant Apparel",
+		"defname": "GI_MaskandhelmF"
+	},
+	{
+		"abr": "fingerofthemountain",
+		"price": 4500,
+		"category": "Archotech",
+		"defname": "FingerOfTheMountain"
+	},
+	{
+		"abr": "firewardcharm",
+		"price": 157,
+		"category": "Apparel",
+		"defname": "Kijin_FirewardCharm"
+	},
+	{
+		"abr": "flightmare",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "RttR_Flightmare"
+	},
+	{
+		"abr": "flightmarealgae",
+		"price": 2,
+		"category": "Manufactured",
+		"defname": "RttR_FlightmareAlgae"
+	},
+	{
+		"abr": "flightmaredragonscales",
+		"price": 8,
+		"category": "Leathers",
+		"defname": "RttR_FlightmareDragonScales"
+	},
+	{
+		"abr": "flightmareegg(fert.)",
+		"price": 167,
+		"category": "Eggs (fert.)",
+		"defname": "RttR_EggFlightmareFertilized"
+	},
+	{
+		"abr": "fury",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "RttR_Fury"
+	},
+	{
+		"abr": "furydragonscales",
+		"price": 8,
+		"category": "Leathers",
+		"defname": "RttR_FuryDragonScales"
+	},
+	{
+		"abr": "furyegg(fert.)",
+		"price": 167,
+		"category": "Eggs (fert.)",
+		"defname": "RttR_EggFuryFertilized"
+	},
+	{
+		"abr": "gamblerskill:deckblast",
+		"price": 3000,
+		"category": "Scrolls",
+		"defname": "SkillOf_DeckBlast"
+	},
+	{
+		"abr": "gamblerskill:royalroad",
+		"price": 2333,
+		"category": "Scrolls",
+		"defname": "SkillOf_RoyalRoad"
+	},
+	{
+		"abr": "gamblerspell:sleevedraw",
+		"price": 3667,
+		"category": "Scrolls",
+		"defname": "SpellOf_SleeveDraw"
+	},
+	{
+		"abr": "giant",
+		"price": 6333,
+		"category": "Animal",
+		"defname": "HC_Giant"
+	},
+	{
+		"abr": "giantbodyrag",
+		"price": 642,
+		"category": "Giant Apparel",
+		"defname": "GI_GiantRags"
+	},
+	{
+		"abr": "giantbonetrinkets",
+		"price": 425,
+		"category": "Giant Apparel",
+		"defname": "GI_Bonepauldron"
+	},
+	{
+		"abr": "giantbrigandine",
+		"price": 1883,
+		"category": "Giant Apparel",
+		"defname": "GI_Brigandine"
+	},
+	{
+		"abr": "giantcleaver",
+		"price": 2225,
+		"category": "Giant Melee Weapons",
+		"defname": "GI_Cleaver"
+	},
+	{
+		"abr": "giantclothes",
+		"price": 875,
+		"category": "Giant Apparel",
+		"defname": "GI_Clothes"
+	},
+	{
+		"abr": "giantclub",
+		"price": 255,
+		"category": "Giant Melee Weapons",
+		"defname": "GI_GiantClub"
+	},
+	{
+		"abr": "giantcoverall",
+		"price": 1100,
+		"category": "Giant Apparel",
+		"defname": "GI_Coverall"
+	},
+	{
+		"abr": "gianthammer",
+		"price": 2250,
+		"category": "Giant Melee Weapons",
+		"defname": "GI_Hammer"
+	},
+	{
+		"abr": "giantinsignia",
+		"price": 207,
+		"category": "Giant Apparel",
+		"defname": "GI_Insignia"
+	},
+	{
+		"abr": "giantloots",
+		"price": 358,
+		"category": "Giant Apparel",
+		"defname": "GI_Booty"
+	},
+	{
+		"abr": "giantmechashell",
+		"price": 5100,
+		"category": "Giant Apparel",
+		"defname": "GI_Mechashell"
+	},
+	{
+		"abr": "giantpauldron",
+		"price": 1092,
+		"category": "Giant Apparel",
+		"defname": "GI_Pauldron"
+	},
+	{
+		"abr": "giantpotlid",
+		"price": 650,
+		"category": "Giant Apparel",
+		"defname": "GI_Potlid"
+	},
+	{
+		"abr": "giantram",
+		"price": 5125,
+		"category": "Giant Melee Weapons",
+		"defname": "GI_Ram"
+	},
+	{
+		"abr": "giantshadehat",
+		"price": 483,
+		"category": "Giant Apparel",
+		"defname": "GI_Shadehat"
+	},
+	{
+		"abr": "giganticdrill",
+		"price": 7258,
+		"category": "Giant Melee Weapons",
+		"defname": "GI_Drill"
+	},
+	{
+		"abr": "gildedprostheticfinger",
+		"price": 180,
+		"category": "Prosthetic",
+		"defname": "GildedProstheticFinger"
+	},
+	{
+		"abr": "goldbar",
+		"price": 1667,
+		"category": "Raw resources",
+		"defname": "GoldBar"
+	},
+	{
+		"abr": "granitejackstones",
+		"price": 40,
+		"category": "Ranged weapons",
+		"defname": "GI_Jackstones_granite"
+	},
+	{
+		"abr": "granitepillar",
+		"price": 483,
+		"category": "Ranged weapons",
+		"defname": "GI_Rockpillar_granite"
+	},
+	{
+		"abr": "greenthumb",
+		"price": 4500,
+		"category": "Archotech",
+		"defname": "GreenThumb"
+	},
+	{
+		"abr": "gronckle",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "RttR_Gronckle"
+	},
+	{
+		"abr": "gronckleegg(fert.)",
+		"price": 167,
+		"category": "Eggs (fert.)",
+		"defname": "RttR_EggGronckleFertilized"
+	},
+	{
+		"abr": "gronckleiron",
+		"price": 3,
+		"category": "Raw resources",
+		"defname": "RttR_GronckleIron"
+	},
+	{
+		"abr": "groncklepebbles",
+		"price": 4,
+		"category": "Leathers",
+		"defname": "RttR_GronckleDragonScales"
+	},
+	{
+		"abr": "guardianskill:confiteor",
+		"price": 2667,
+		"category": "Scrolls",
+		"defname": "SkillOf_Confiteor"
+	},
+	{
+		"abr": "guardianskill:temperedwill",
+		"price": 1500,
+		"category": "Scrolls",
+		"defname": "SkillOf_TemperedWill"
+	},
+	{
+		"abr": "guardianspell:circleofscorn",
+		"price": 3000,
+		"category": "Scrolls",
+		"defname": "SpellOf_CircleOfScorn"
+	},
+	{
+		"abr": "guardingvest",
+		"price": 400,
+		"category": "Apparel",
+		"defname": "Kijin_FlakVest"
+	},
+	{
+		"abr": "gunbreakerskill:roughdivide",
+		"price": 1500,
+		"category": "Scrolls",
+		"defname": "SkillOf_RoughDivide"
+	},
+	{
+		"abr": "gunnerskill:cleanreload",
+		"price": 1667,
+		"category": "Scrolls",
+		"defname": "SkillOf_CleanReload"
+	},
+	{
+		"abr": "gunnerskill:flamesplitter",
+		"price": 2333,
+		"category": "Scrolls",
+		"defname": "SkillOf_FlameSplitter"
+	},
+	{
+		"abr": "gunnerskill:headgraze",
+		"price": 1500,
+		"category": "Scrolls",
+		"defname": "SkillOf_HeadGraze"
+	},
+	{
+		"abr": "gunnerskill:naniteshot",
+		"price": 1500,
+		"category": "Scrolls",
+		"defname": "SkillOf_NaniteShot"
+	},
+	{
+		"abr": "haybed",
+		"price": 162,
+		"category": "Furniture",
+		"defname": "GIBed"
+	},
+	{
+		"abr": "heavychargeblaster",
+		"price": 2333,
+		"category": "Ranged weapons",
+		"defname": "Gun_ChargeBlasterHeavy"
+	},
+	{
+		"abr": "heavychargeblaster",
+		"price": 2333,
+		"category": "Ranged weapons",
+		"defname": "PCF_LogPlaceholder"
+	},
+	{
+		"abr": "hideouszippleback",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "RttR_Zippleback"
+	},
+	{
+		"abr": "hideouszipplebackegg(fert.)",
+		"price": 167,
+		"category": "Eggs (fert.)",
+		"defname": "RttR_EggZipplebackFertilized"
+	},
+	{
+		"abr": "holosmithskill:coldopen",
+		"price": 2667,
+		"category": "Scrolls",
+		"defname": "SkillOf_ColdOpen"
+	},
+	{
+		"abr": "holosmithskill:coolantblast",
+		"price": 1833,
+		"category": "Scrolls",
+		"defname": "SkillOf_CoolantBlast"
+	},
+	{
+		"abr": "holosmithskill:photonwall",
+		"price": 2667,
+		"category": "Scrolls",
+		"defname": "SkillOf_PhotonWall"
+	},
+	{
+		"abr": "holosmithskill:primelightcannon",
+		"price": 3333,
+		"category": "Scrolls",
+		"defname": "SkillOf_PrimeLightCannon"
+	},
+	{
+		"abr": "hotburple",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "RttR_Hotburple"
+	},
+	{
+		"abr": "hotburpledragonscales",
+		"price": 4,
+		"category": "Leathers",
+		"defname": "RttR_HotburpleDragonScales"
+	},
+	{
+		"abr": "hotburpleegg(fert.)",
+		"price": 167,
+		"category": "Eggs (fert.)",
+		"defname": "RttR_EggHotburpleFertilized"
+	},
+	{
+		"abr": "hyperprocessingchip",
+		"price": 833,
+		"category": "CS items",
+		"defname": "CS_Hyperchip"
+	},
+	{
+		"abr": "hyperdactyl",
+		"price": 4500,
+		"category": "Archotech",
+		"defname": "Hyperdactyl"
+	},
+	{
+		"abr": "infernoarmor",
+		"price": 8333,
+		"category": "Apparel",
+		"defname": "Kijin_EpicArmor"
+	},
+	{
+		"abr": "infernoheadgear",
+		"price": 8333,
+		"category": "Headgear",
+		"defname": "Kijin_EpicHelm"
+	},
+	{
+		"abr": "kijin",
+		"price": 2500,
+		"category": "Animal",
+		"defname": "Alien_Kijin"
+	},
+	{
+		"abr": "kijinelectricsmithy",
+		"price": 492,
+		"category": "Production",
+		"defname": "KijinElectricSmithy"
+	},
+	{
+		"abr": "kijinfan",
+		"price": 650,
+		"category": "Grenades",
+		"defname": "Kijin_Fan"
+	},
+	{
+		"abr": "kijinflamebow",
+		"price": 260,
+		"category": "Ranged weapons",
+		"defname": "Kijin_FlameBow"
+	},
+	{
+		"abr": "kijinmace",
+		"price": 286,
+		"category": "Melee weapons",
+		"defname": "Kijin_Mace"
+	},
+	{
+		"abr": "kijinmeat",
+		"price": 2,
+		"category": "Meat",
+		"defname": "Meat_Alien_Kijin"
+	},
+	{
+		"abr": "kijinparalysisbow",
+		"price": 600,
+		"category": "Ranged weapons",
+		"defname": "Kijin_PosionBow"
+	},
+	{
+		"abr": "kijinpolearm",
+		"price": 408,
+		"category": "Melee weapons",
+		"defname": "Kijin_Polearm"
+	},
+	{
+		"abr": "kijinshrine",
+		"price": 2350,
+		"category": "Misc",
+		"defname": "NatureShrine_Kijin"
+	},
+	{
+		"abr": "kijinsmithy",
+		"price": 333,
+		"category": "Production",
+		"defname": "KijinSmithy"
+	},
+	{
+		"abr": "kijinsmokebomb",
+		"price": 592,
+		"category": "Grenades",
+		"defname": "Kijin_SmokeBomb"
+	},
+	{
+		"abr": "leatherette",
+		"price": 2,
+		"category": "Leathers",
+		"defname": "Leatherette"
+	},
+	{
+		"abr": "lightchargeblaster",
+		"price": 2333,
+		"category": "Ranged weapons",
+		"defname": "Gun_ChargeBlasterHeavyTurret"
+	},
+	{
+		"abr": "lightchargeblaster",
+		"price": 1667,
+		"category": "Ranged weapons",
+		"defname": "VFE_Gun_ChargeBlasterLight"
+	},
+	{
+		"abr": "lightningjavelin",
+		"price": 4183,
+		"category": "Ranged weapons",
+		"defname": "GI_Lightningjavelin"
+	},
+	{
+		"abr": "limestonejackstones",
+		"price": 40,
+		"category": "Ranged weapons",
+		"defname": "GI_Jackstones_limestone"
+	},
+	{
+		"abr": "malefacehelm",
+		"price": 1000,
+		"category": "Giant Apparel",
+		"defname": "GI_MaskandhelmM"
+	},
+	{
+		"abr": "mammothcheese",
+		"price": 192,
+		"category": "Meals",
+		"defname": "MammothCheese"
+	},
+	{
+		"abr": "mammothhammer",
+		"price": 700,
+		"category": "Giant Melee Weapons",
+		"defname": "GI_MammothHammer"
+	},
+	{
+		"abr": "mammothroast",
+		"price": 150,
+		"category": "Meals",
+		"defname": "MammothFood"
+	},
+	{
+		"abr": "marblepillar",
+		"price": 483,
+		"category": "Ranged weapons",
+		"defname": "GI_Rockpillar_Marble"
+	},
+	{
+		"abr": "mechaarmor",
+		"price": 6000,
+		"category": "Armor",
+		"defname": "Apparel_MechaArmor"
+	},
+	{
+		"abr": "mechabionicarm",
+		"price": 2500,
+		"category": "Bionic",
+		"defname": "JGH_MechaBionicArm"
+	},
+	{
+		"abr": "mechabionicheart",
+		"price": 2500,
+		"category": "Bionic",
+		"defname": "JGH_MechaBionicHeart"
+	},
+	{
+		"abr": "mechabionickidney",
+		"price": 2500,
+		"category": "Bionic",
+		"defname": "JGH_MechaBionicKidney"
+	},
+	{
+		"abr": "mechabionicleg",
+		"price": 2500,
+		"category": "Bionic",
+		"defname": "JGH_MechaBionicLeg"
+	},
+	{
+		"abr": "mechabioniclens",
+		"price": 2500,
+		"category": "Bionic",
+		"defname": "JGH_MechaBionicEye"
+	},
+	{
+		"abr": "mechabioniclung",
+		"price": 2500,
+		"category": "Bionic",
+		"defname": "JGH_MechaBionicLung"
+	},
+	{
+		"abr": "mechabionicspine",
+		"price": 2500,
+		"category": "Bionic",
+		"defname": "JGH_MechaBionicSpine"
+	},
+	{
+		"abr": "mechahelmet",
+		"price": 1667,
+		"category": "Headgear",
+		"defname": "Apparel_MechaHelmet"
+	},
+	{
+		"abr": "mechaminigun",
+		"price": 5000,
+		"category": "Ranged weapons",
+		"defname": "Gun_MechaMinigun"
+	},
+	{
+		"abr": "mechasniperrifle",
+		"price": 3333,
+		"category": "Ranged weapons",
+		"defname": "Gun_MechaSniperRifle"
+	},
+	{
+		"abr": "megacandybar",
+		"price": 108,
+		"category": "Meals",
+		"defname": "MegaCandyBar"
+	},
+	{
+		"abr": "megajetpack",
+		"price": 4333,
+		"category": "Utility",
+		"defname": "GI_Megajetpack"
+	},
+	{
+		"abr": "mixeddragonscales",
+		"price": 3,
+		"category": "Leathers",
+		"defname": "RttR_PatchedDragonScales"
+	},
+	{
+		"abr": "monkskill:whistlingwind",
+		"price": 3000,
+		"category": "Scrolls",
+		"defname": "SkillOf_WhistlingWind"
+	},
+	{
+		"abr": "monstrousnightmare",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "RttR_Nightmare"
+	},
+	{
+		"abr": "monstrousnightmaregel",
+		"price": 17,
+		"category": "Manufactured",
+		"defname": "RttR_NightmareGel"
+	},
+	{
+		"abr": "monstruousnightmareegg(fert.)",
+		"price": 167,
+		"category": "Eggs (fert.)",
+		"defname": "RttR_EggNightmareFertilized"
+	},
+	{
+		"abr": "nadderdragonscales",
+		"price": 8,
+		"category": "Leathers",
+		"defname": "RttR_NadderDragonScales"
+	},
+	{
+		"abr": "nadderspikes",
+		"price": 2,
+		"category": "Raw resources",
+		"defname": "RttR_WoodLog"
+	},
+	{
+		"abr": "needlegun",
+		"price": 2333,
+		"category": "Ranged weapons",
+		"defname": "Gun_Needle"
+	},
+	{
+		"abr": "nightmaredragonscales",
+		"price": 4,
+		"category": "Leathers",
+		"defname": "RttR_NightmareDragonScales"
+	},
+	{
+		"abr": "nomadskill:lightarrow",
+		"price": 3000,
+		"category": "Scrolls",
+		"defname": "SkillOf_LightArrow"
+	},
+	{
+		"abr": "nomadskill:riddleofflame",
+		"price": 2667,
+		"category": "Scrolls",
+		"defname": "SkillOf_RiddleOfFlame"
+	},
+	{
+		"abr": "nomadskill:skirmisher'sshot",
+		"price": 1500,
+		"category": "Scrolls",
+		"defname": "SkillOf_SkirmishersShot"
+	},
+	{
+		"abr": "paladin/warriorskill:sheltron",
+		"price": 2333,
+		"category": "Scrolls",
+		"defname": "SkillOf_Sheltron"
+	},
+	{
+		"abr": "paralysisdagger",
+		"price": 525,
+		"category": "Melee weapons",
+		"defname": "Kijin_PoisonDagger"
+	},
+	{
+		"abr": "pepperboxpistol",
+		"price": 307,
+		"category": "Ranged weapons",
+		"defname": "Gun_PepperboxPistol"
+	},
+	{
+		"abr": "personaflameblade",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "Kijin_FlameSword"
+	},
+	{
+		"abr": "prostheticfinger",
+		"price": 163,
+		"category": "Prosthetic",
+		"defname": "ProstheticFinger"
+	},
+	{
+		"abr": "prosthetictoe",
+		"price": 163,
+		"category": "Prosthetic",
+		"defname": "ProstheticToe"
+	},
+	{
+		"abr": "psytrainer(acceleratehealing)",
+		"price": 417,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_ExtraPsycasts_AccelerateHealing"
+	},
+	{
+		"abr": "psytrainer(cognitionenhancement)",
+		"price": 1167,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_ExtraPsycasts_BrainBooster"
+	},
+	{
+		"abr": "psytrainer(energise)",
+		"price": 1167,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_ExtraPsycasts_BodyBooster"
+	},
+	{
+		"abr": "psytrainer(fortitude)",
+		"price": 917,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_ExtraPsycasts_Fortitude"
+	},
+	{
+		"abr": "psytrainer(mindlink)",
+		"price": 917,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_ExtraPsycasts_MindLink"
+	},
+	{
+		"abr": "psytrainer(precognition)",
+		"price": 667,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_ExtraPsycasts_Precognition"
+	},
+	{
+		"abr": "psytrainer(psychiclance)",
+		"price": 1417,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_ExtraPsycasts_PsyLance"
+	},
+	{
+		"abr": "psytrainer(pyrokinesis)",
+		"price": 417,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_ExtraPsycasts_Pyrokinesis"
+	},
+	{
+		"abr": "psytrainer(sensethoughts)",
+		"price": 1167,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_ExtraPsycasts_SenseThoughts"
+	},
+	{
+		"abr": "psytrainer(soothemind)",
+		"price": 667,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_ExtraPsycasts_SoothingThoughts"
+	},
+	{
+		"abr": "psytrainer(stasis)",
+		"price": 917,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_ExtraPsycasts_Stasis"
+	},
+	{
+		"abr": "rakkle",
+		"price": 5833,
+		"category": "Animal",
+		"defname": "Rakkle"
+	},
+	{
+		"abr": "rakklechestwrap",
+		"price": 39,
+		"category": "Rakkle Apparel",
+		"defname": "RS_ChestWrap"
+	},
+	{
+		"abr": "rakkleidolcostume",
+		"price": 350,
+		"category": "Rakkle Apparel",
+		"defname": "RS_IdolCostume"
+	},
+	{
+		"abr": "rakkleknitsweater",
+		"price": 400,
+		"category": "Rakkle Apparel",
+		"defname": "RS_KnitSweater"
+	},
+	{
+		"abr": "rakklemaidcostume",
+		"price": 331,
+		"category": "Rakkle Apparel",
+		"defname": "RS_MaidCostume"
+	},
+	{
+		"abr": "rakklemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Rakkle"
+	},
+	{
+		"abr": "rakkleobedienceterminal",
+		"price": 107,
+		"category": "Bionic",
+		"defname": "RS_ObedienceTerminal"
+	},
+	{
+		"abr": "rakklesnakeskin",
+		"price": 8,
+		"category": "Manufactured",
+		"defname": "RS_SnakeSkin"
+	},
+	{
+		"abr": "rakklestaridoldress",
+		"price": 508,
+		"category": "Rakkle Apparel",
+		"defname": "RS_StarIdol"
+	},
+	{
+		"abr": "rakklethermostat",
+		"price": 517,
+		"category": "Bionic",
+		"defname": "RS_Thermostat"
+	},
+	{
+		"abr": "rawfish",
+		"price": 3,
+		"category": "Meat",
+		"defname": "RttR_RawFish"
+	},
+	{
+		"abr": "razorwhip",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "RttR_Razorwhip"
+	},
+	{
+		"abr": "razorwhipdragonscales",
+		"price": 7,
+		"category": "Leathers",
+		"defname": "RttR_RazorwhipDragonScales"
+	},
+	{
+		"abr": "razorwhipegg(fert.)",
+		"price": 167,
+		"category": "Eggs (fert.)",
+		"defname": "RttR_EggRazorwhipFertilized"
+	},
+	{
+		"abr": "razorwhipspikes",
+		"price": 2,
+		"category": "Manufactured",
+		"defname": "RttR_RazorwhipSpikes"
+	},
+	{
+		"abr": "retractablescalpel",
+		"price": 163,
+		"category": "Prosthetic",
+		"defname": "RetractableScalpel"
+	},
+	{
+		"abr": "rumblehorn",
+		"price": 1417,
+		"category": "Animal",
+		"defname": "RttR_Rumblehorn"
+	},
+	{
+		"abr": "rumblehorndragonscales",
+		"price": 6,
+		"category": "Leathers",
+		"defname": "RttR_RumblehornDragonScales"
+	},
+	{
+		"abr": "rumblehornegg(fert.)",
+		"price": 167,
+		"category": "Eggs (fert.)",
+		"defname": "RttR_EggRumblehornFertilized"
+	},
+	{
+		"abr": "s.shelminthic",
+		"price": 30,
+		"category": "Drugs",
+		"defname": "RS_helminthic"
+	},
+	{
+		"abr": "saltingbarrel",
+		"price": 84,
+		"category": "Production",
+		"defname": "SaltingBarrel"
+	},
+	{
+		"abr": "scauldron",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "RttR_Scauldron"
+	},
+	{
+		"abr": "scauldrondragonscales",
+		"price": 4,
+		"category": "Leathers",
+		"defname": "RttR_ScauldronDragonScales"
+	},
+	{
+		"abr": "scauldronegg(fert.)",
+		"price": 167,
+		"category": "Eggs (fert.)",
+		"defname": "RttR_EggScauldronFertilized"
+	},
+	{
+		"abr": "scrapshrapnel",
+		"price": 400,
+		"category": "Ranged weapons",
+		"defname": "GI_Scrapmetal"
+	},
+	{
+		"abr": "severedhead",
+		"price": 20,
+		"category": "Drugs",
+		"defname": "IH_Head"
+	},
+	{
+		"abr": "silverbar",
+		"price": 167,
+		"category": "Raw resources",
+		"defname": "SilverBar"
+	},
+	{
+		"abr": "simplefinger",
+		"price": 5,
+		"category": "Simple parts",
+		"defname": "SimpleFinger"
+	},
+	{
+		"abr": "simpletoe",
+		"price": 5,
+		"category": "Simple parts",
+		"defname": "SimpleToe"
+	},
+	{
+		"abr": "skrill",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "RttR_Skrill"
+	},
+	{
+		"abr": "skrilldragonscales",
+		"price": 4,
+		"category": "Leathers",
+		"defname": "RttR_SkrillDragonScales"
+	},
+	{
+		"abr": "skrillegg(fert.)",
+		"price": 167,
+		"category": "Eggs (fert.)",
+		"defname": "RttR_EggSkrillFertilized"
+	},
 	],
-	"total": 7642
+	"total": 7827
 }

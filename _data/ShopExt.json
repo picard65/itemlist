@@ -45215,6 +45215,100 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0
+    },
+    {
+      "description": "Everything Timmy cooks turns into Dark matter.\n(Kijin Race 2.0)",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Kijin Race 2.0",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "IncompetentCook",
+      "name": "incompetentcook",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "A Giants with giantism is said to grow up to 30 feet. Not only his heights, but his skin grows thicker. To compensate for such growth, Timmy must eat more.\n(The GiantRace)",
+      "stats": [
+        "x40% incoming damage multiplier"
+      ],
+      "conflicts": [
+        "tough",
+        "gourmand"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "The GiantRace",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "tough",
+          "gourmand"
+        ],
+        "stats": [
+          "x40% incoming damage multiplier"
+        ]
+      },
+      "defName": "Giantism",
+      "name": "giantism",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy was titled a great warrior after striking down a dangerous beast single-handedly.\n(The GiantRace)",
+      "stats": [
+        "+5.0 melee hit chance",
+        "+10.0 melee dodge chance"
+      ],
+      "conflicts": [
+        "wimp"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "The GiantRace",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "wimp"
+        ],
+        "stats": [
+          "+5.0 melee hit chance",
+          "+10.0 melee dodge chance"
+        ]
+      },
+      "defName": "MonsterHunter",
+      "name": "monsterhunter",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
     }
   ],
   "races": [
@@ -49334,29 +49428,136 @@
     {
       "data": {
         "stats": [
-          "+70.00 Mass",
-          "+100% Flammability",
-          "-60.0C Minimum comfortable temperature",
-          "+200.0C Maximum comfortable temperature",
-          "+0% Psychic sensitivity",
-          "+0% Toxic sensitivity",
-          "+0 Meat amount",
-          "+0 Leather amount",
-          "+0 Carrying capacity",
-          "+0.00% Social impact",
-          "+0.0% Armor - Blunt",
-          "+0.0% Armor - Sharp",
-          "+0.0% Armor - Heat"
+          "+60.00 Mass",
+          "+20% Flammability",
+          "+$1500 Market value",
+          "+120% Immunity gain speed",
+          "+5.00 Move speed",
+          "+200% Hunger rate multiplier",
+          "+200% Eating speed",
+          "+2.0 Cooking speed",
+          "+45.0C Maximum comfortable temperature",
+          "+150 Carrying capacity",
+          "+10.0 Melee dodge chance",
+          "+150% Global work speed",
+          "+3 Honor value",
+          "+50 Leather amount"
         ],
-        "mod": "Zombieland",
+        "mod": "Kijin Race 2.0",
         "karmaType": null,
         "customName": false
       },
-      "description": "A zombie\n(Zombieland)",
-      "defName": "Zombie",
+      "description": "Kijins are ogres who were evolved alikes of humans. Their huge bodies and muscles have shrunk, but the muscles are more dense and stronger. They still have to eat a lot to keep themselves up.\n(Kijin Race 2.0)",
+      "defName": "Alien_Kijin",
       "enabled": true,
-      "name": "Zombie",
-      "price": 1
+      "name": "Kijin",
+      "price": 2500
+    },
+    {
+      "data": {
+        "stats": [
+          "+95.00 Mass",
+          "+$3500 Market value",
+          "+100% Flammability",
+          "+6.00 Move speed",
+          "+30% Mental break threshold",
+          "+40.0C Maximum comfortable temperature",
+          "+24.0C Minimum comfortable temperature",
+          "+100% Immunity gain speed",
+          "+90 Carrying capacity",
+          "+80 Meat amount",
+          "+65 Leather amount",
+          "+80% Pain shock threshold",
+          "+100% Psychic sensitivity",
+          "+70% Eating speed",
+          "+2.0 Melee dodge chance",
+          "+1.8 Melee hit chance",
+          "+110% Aiming time",
+          "+1.0 Shooting accuracy",
+          "+150.00% Negotiation ability",
+          "+120% Sell price multiplier",
+          "+130.00% Social impact",
+          "+100% Mechanoid shredding efficiency",
+          "+100% Mechanoid shredding speed",
+          "+100% Smelting speed",
+          "+130% General labor speed",
+          "+300% Butchery efficiency",
+          "+200% Butchery speed",
+          "+140.00% Food poison chance",
+          "+0.6 Cooking speed",
+          "+120% Rest rate multiplier",
+          "+40% Plant work speed",
+          "+80% Research speed",
+          "+100% Medical tend quality",
+          "+100% Drug synthesis speed",
+          "+100% Medical surgery success chance",
+          "+120% Mining speed",
+          "+90% Mining yield"
+        ],
+        "mod": "Rakkle the rattle snake Race mod",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The Rakkle is an artificial species created by humans by improving reptile native life found on a planet in the middle of the system.\n(Rakkle the rattle snake Race mod)",
+      "defName": "Rakkle",
+      "enabled": true,
+      "name": "Rakkle",
+      "price": 5833
+    },
+    {
+      "data": {
+        "stats": [
+          "+100.00 Mass",
+          "+$3800 Market value",
+          "+100% Flammability",
+          "+4.80 Move speed",
+          "+1% Mental break threshold",
+          "+22.0C Maximum comfortable temperature",
+          "-26.0C Minimum comfortable temperature",
+          "+130% Immunity gain speed",
+          "+90 Carrying capacity",
+          "+70% Pain shock threshold",
+          "+0% Psychic sensitivity",
+          "+400% Eating speed",
+          "+50 Leather amount",
+          "+75% Incoming damage multiplier",
+          "+75% Toxic sensitivity",
+          "-0.1 Melee dodge chance",
+          "+1.0 Melee hit chance",
+          "+80% Aiming time",
+          "+0.9 Shooting accuracy",
+          "+10% Hunting stealth",
+          "+20.00% Negotiation ability",
+          "+50% Sell price multiplier",
+          "+50.00% Social impact",
+          "+50% Mechanoid shredding efficiency",
+          "+200% Mechanoid shredding speed",
+          "+40% Smelting speed",
+          "+100% General labor speed",
+          "+250% Construction speed",
+          "+85% Butchery efficiency",
+          "+200% Butchery speed",
+          "+180.00% Food poison chance",
+          "+2.0 Cooking speed",
+          "+150% Rest rate multiplier",
+          "+300% Plant work speed",
+          "+85% Plant harvest yield",
+          "+10% Research speed",
+          "+40% Medical tend quality",
+          "+60% Drug synthesis speed",
+          "+10% Medical surgery success chance",
+          "+300% Mining speed",
+          "+85% Mining yield"
+        ],
+        "mod": "The GiantRace",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A gigantic creature that averages a height of 16 feet. Requires more food and has lower intellects, but the thick skin and sheer mass results in devastating strength.\n(The GiantRace)",
+      "defName": "HC_Giant",
+      "enabled": true,
+      "name": "Giant",
+      "price": 6333
     }
   ]
 }

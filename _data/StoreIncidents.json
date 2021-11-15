@@ -181,11 +181,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "militaryaid",
-		"price": 700,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "raid",
 		"price": 1500,
 		"karmatype": "Bad"
@@ -396,5 +391,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 79
+	"total": 78
 }

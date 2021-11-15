@@ -27,7 +27,7 @@
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
-    "version": "9.0.0"
+    "version": "9.0.1"
   },
   {
     "author": "jecrell and contributors",
@@ -46,6 +46,12 @@
     "name": "Allow Tool",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Imranfish",
+    "name": "XML Extensions",
+    "steamId": "2574315206",
+    "version": "1.6.3"
   },
   {
     "author": "Alias",
@@ -80,8 +86,8 @@
   {
     "author": "void",
     "name": "Character Editor",
-    "steamId": null,
-    "version": null
+    "steamId": "1874644848",
+    "version": "1.3.842.0"
   },
   {
     "author": "EdB",
@@ -108,6 +114,12 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki and  Smash Phil",
+    "name": "Vanilla Achievements Expanded",
+    "steamId": "2288125657",
+    "version": "1.3.7862.41411"
+  },
+  {
     "author": "Oskar Potocki,  Trunken and  Sarg Bjornson",
     "name": "Vanilla Weapons Expanded",
     "steamId": null,
@@ -123,13 +135,13 @@
     "author": "Andreas Pardeike",
     "name": "Achtung!",
     "steamId": "730936602",
-    "version": "3.2.3.0"
+    "version": "3.3.9.0"
   },
   {
     "author": "Torann",
     "name": "A RimWorld of Magic",
     "steamId": "1201382956",
-    "version": "2.6.0.3"
+    "version": "2.6.2.1"
   },
   {
     "author": "Kure",
@@ -172,12 +184,6 @@
     "name": "Pocket Dimensions",
     "steamId": "2307817213",
     "version": "1.0.11"
-  },
-  {
-    "author": "Georodin",
-    "name": "[SYR] Set Up Camp - 1.3",
-    "steamId": "2554129670",
-    "version": "1.0.0.0"
   },
   {
     "author": "Kentington and Thain",
@@ -525,7 +531,7 @@
     "author": "Lanilor",
     "name": "Simply More Bridges (Continued)",
     "steamId": "2012484790",
-    "version": "1.0.28.0"
+    "version": "1.0.29.0"
   },
   {
     "author": "targhetti",
@@ -579,7 +585,7 @@
     "author": "VinaLx",
     "name": "ResearchPal - Forked",
     "steamId": "2351393394",
-    "version": "1.3.0.1"
+    "version": "1.3.0.2"
   },
   {
     "author": "1trickPonyta",
@@ -693,7 +699,7 @@
     "author": "Andreas Pardeike",
     "name": "Camera+",
     "steamId": "867467808",
-    "version": "2.2.0.0"
+    "version": "2.2.1.0"
   },
   {
     "author": "Fluffy",
@@ -768,10 +774,10 @@
     "version": null
   },
   {
-    "author": "Sarg,  AFriend,  milon,  Skullywag and kaptain_kavern",
+    "author": "Sarg Bjornson and  AFriend",
     "name": "Alpha Animals",
     "steamId": "1541721856",
-    "version": "1.3.7862.41411"
+    "version": "1.0.0.0"
   },
   {
     "author": "Geminingen",
@@ -828,12 +834,6 @@
     "version": null
   },
   {
-    "author": "PorousBoat",
-    "name": "Blood and Bones",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "cucumpear",
     "name": "CCP's Stone Tweaks Vanilla",
     "steamId": null,
@@ -849,7 +849,7 @@
     "author": "CrashM",
     "name": "CM Color Coded Mood Bar [1.1+]",
     "steamId": "2006605356",
-    "version": "1.3.3096.1"
+    "version": "1.3.3136.1"
   },
   {
     "author": "ZeroPhoenix",
@@ -891,7 +891,7 @@
     "author": "Dubwise",
     "name": "Dubs Mint Menus",
     "steamId": "1446523594",
-    "version": "1.3.916"
+    "version": "1.0.0"
   },
   {
     "author": "xrushha",
@@ -1137,7 +1137,7 @@
     "author": "zymex",
     "name": "Project RimFactory Revived",
     "steamId": "2033979700",
-    "version": "2.6.1.2"
+    "version": "2.6.3"
   },
   {
     "author": "zymex",
@@ -1183,15 +1183,15 @@
   },
   {
     "author": "Dubwise",
-    "name": "Rimatomics",
+    "name": "Dubs Rimatomics",
     "steamId": "1127530465",
-    "version": "1.7.2439"
+    "version": "1.7.7368"
   },
   {
     "author": "Dubwise",
     "name": "Rimefeller",
     "steamId": "1321849735",
-    "version": "1.2.1128"
+    "version": "1.2.7364"
   },
   {
     "author": "Vanilla Expanded Team and Co.",
@@ -1335,13 +1335,13 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.1.4.3"
+    "version": "6.1.6.0"
   },
   {
     "author": "swemoney",
     "name": "Toolkit - Channel Points",
     "steamId": "1916651243",
-    "version": "1.2.0"
+    "version": "1.3.1"
   },
   {
     "author": "Smash Phil",
@@ -1389,7 +1389,7 @@
     "author": "Oskar Potocki,  Kentington,  Sarg Bjornson,  erdelf,  Kikohi,  Chowder and  Taranchuk",
     "name": "Vanilla Factions Expanded - Mechanoids",
     "steamId": "2329011599",
-    "version": "1.0.1.1"
+    "version": "1.0.1.2"
   },
   {
     "author": "legodude17",
@@ -1564,5 +1564,269 @@
     "name": "No Research 1.3",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "avilmask",
+    "name": "Non uno Pinata (don't drop items)",
+    "steamId": "1778821244",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "Armored Implants",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SalmonToastie and  Taranchuk",
+    "name": "Joint Battles",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Vanilla Expanded Team and Co.",
+    "name": "Rim-Effect: Extended Cut",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "rooki1",
+    "name": "Rimsenal - Augmented Vanilla Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "explodoboy",
+    "name": "Science Never Stops: Ambition of the Cosmic",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "explodoboy",
+    "name": "SNS AOTC: True Pinnacle of Creation",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Neronix17 and KinKade",
+    "name": "[O21] Star Trek [DevBuild]",
+    "steamId": "2641394975",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Neronix17",
+    "name": "[O21] Mechadroids",
+    "steamId": "2209025387",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Neronix17",
+    "name": "[O21] Forgotten Realms",
+    "steamId": "2184183669",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Project_Syulipia",
+    "name": "[Syulipia]SlimeMOD",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "爱猫的九号线",
+    "name": "Ability: Insect Mastery(能力：虫类掌控）",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "sulusdacor",
+    "name": "[sd] Advanced Powergeneration (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "gregorycurrie",
+    "name": "Animal Genetics",
+    "steamId": "2226725974",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Roo",
+    "name": "Anty the war ant race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ROO",
+    "name": "Anty Faction limite Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ROO",
+    "name": "Anty Weapon Race limite Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Epicguru (James B)",
+    "name": "Better Transhumanists",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "chromiumboy",
+    "name": "ExtraPsycasts (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ogam,  Taranchuck and  Venomancer777",
+    "name": "Forgelings race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Syrchalis",
+    "name": "[SYR] Individuality",
+    "steamId": "1497105115",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "TrashedDT",
+    "name": "Industrialisation",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lizard953694",
+    "name": "No Penned Animals",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Chairheir",
+    "name": "Oddities: Weapons Module",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Hob Took",
+    "name": "Mortar Accuracy",
+    "steamId": "1729446857",
+    "version": "1.3.2"
+  },
+  {
+    "author": "Mario55770",
+    "name": "Questionable Ethics Enhanced",
+    "steamId": "2566962342",
+    "version": "1.5.2"
+  },
+  {
+    "author": "Sihv",
+    "name": "Rim of Madness - Bones",
+    "steamId": "1180573408",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "PorousBoat",
+    "name": "Blood and Bones",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Vanilla Expanded Team and Co.",
+    "name": "Rim-Effect: Asari and Reapers",
+    "steamId": "2651149728",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Vanilla Expanded Team and Co.",
+    "name": "Rim-Effect: Drell",
+    "steamId": "2651150217",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Captain Muscles (Nathan Harbour)",
+    "name": "Semi Random Research",
+    "steamId": "2375902187",
+    "version": "1.0.5"
+  },
+  {
+    "author": "PinoChemicali and  Scherub",
+    "name": "Skilled Stonecutting [1.3]",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "erdelf",
+    "name": "ShowModDesignators",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nimrag",
+    "name": "The Human Hive",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and  Sarg Bjornson",
+    "name": "Vanilla Fishing Expanded",
+    "steamId": "1914064942",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
+    "name": "Vanilla Ideology Expanded - Memes and Structures",
+    "steamId": "2636329500",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki,  Sarg Bjornson and  legodude17",
+    "name": "Vanilla Ideology Expanded - Relics and Artifacts",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ハグ",
+    "name": "VFEM - No Hopper Necessary",
+    "steamId": "2647654863",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Energistics",
+    "name": "Start Without Tech",
+    "steamId": "2550777561",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Syrchalis",
+    "name": "[SYR] Set Up Camp",
+    "steamId": "1470065926",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Neronix17",
+    "name": "[O21] Dragons Not Included",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SalmonToastie",
+    "name": "Forgotten Realms - Minotaur",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Remote Tech",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "yrtwof",
+    "name": "Rimpedia",
+    "steamId": "2145524536",
+    "version": "1.0.0.0"
   }
 ]

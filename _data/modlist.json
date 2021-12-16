@@ -24,6 +24,12 @@
     "version": null
   },
   {
+    "author": "notfood",
+    "name": "PatchOperationHighlander",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
@@ -141,7 +147,7 @@
     "author": "Torann",
     "name": "A RimWorld of Magic",
     "steamId": "1201382956",
-    "version": "2.6.2.1"
+    "version": "2.6.3.3"
   },
   {
     "author": "Kure",
@@ -214,12 +220,6 @@
     "name": "ZiTools objects seeker",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Sierra",
-    "name": "RimTraits - Medieval Talents",
-    "steamId": "1916352291",
-    "version": "1.0.0.0"
   },
   {
     "author": "Rainbeau Flambe (original) & Kiame Vivacity",
@@ -345,7 +345,7 @@
     "author": "Mlie",
     "name": "Ding On Game Loaded",
     "steamId": "2425530959",
-    "version": "1.0.3.0"
+    "version": "1.0.5.0"
   },
   {
     "author": "tikubonn",
@@ -490,12 +490,6 @@
     "name": "Visible Raid Points",
     "steamId": "2562730174",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Grimm",
-    "name": "Un-Limited",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "MarvinKosh",
@@ -652,12 +646,6 @@
     "name": "I Clearly Have Enough! (Continued)",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "arof and Syrchalis",
-    "name": "[SYR] Harvest Yield (1.3)",
-    "steamId": "2561160220",
-    "version": "1.0.0.0"
   },
   {
     "author": "Smuffle",
@@ -1050,10 +1038,10 @@
     "version": null
   },
   {
-    "author": "WexMan",
-    "name": "Mines",
-    "steamId": null,
-    "version": null
+    "author": "StatistNo1, Rebel_Rabbit and Cain",
+    "name": "Mines 2.0",
+    "steamId": "2503894706",
+    "version": "0.0.0.0"
   },
   {
     "author": "Razar1",
@@ -1089,7 +1077,7 @@
     "author": "Nemonian",
     "name": "Moyo-From the depth",
     "steamId": "2182305386",
-    "version": "1.3"
+    "version": "1.3.1"
   },
   {
     "author": "Gloomylynx Nukafrog",
@@ -1137,7 +1125,7 @@
     "author": "zymex",
     "name": "Project RimFactory Revived",
     "steamId": "2033979700",
-    "version": "2.6.3"
+    "version": "2.6.4"
   },
   {
     "author": "zymex",
@@ -1224,7 +1212,7 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Sarg",
+    "author": "Sarg Bjornson and  Ben Lubar",
     "name": "RimBees",
     "steamId": "1558161673",
     "version": "1.0.0.0"
@@ -1320,40 +1308,10 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "hodlhodl",
-    "name": "ToolkitCore",
-    "steamId": "2018368654",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "hodlhodl",
-    "name": "Twitch Toolkit",
-    "steamId": "1718525787",
-    "version": "2.0.10.0"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "ToolkitUtils",
-    "steamId": "2009500580",
-    "version": "6.1.6.0"
-  },
-  {
-    "author": "swemoney",
-    "name": "Toolkit - Channel Points",
-    "steamId": "1916651243",
-    "version": "1.3.1"
-  },
-  {
     "author": "Smash Phil",
     "name": "Trade Ships Drop Spot",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "hodlhodl",
-    "name": "TwitchToolkit - Lootboxes",
-    "steamId": "1720021578",
-    "version": "1.0.0.0"
   },
   {
     "author": "RelaxedOtter",
@@ -1386,7 +1344,7 @@
     "version": "1.1.0"
   },
   {
-    "author": "Oskar Potocki,  Kentington,  Sarg Bjornson,  erdelf,  Kikohi,  Chowder and  Taranchuk",
+    "author": "Oskar Potocki,  Kentington,  Sarg Bjornson,  erdelf,  Kikohi,  Chowder,  Taranchuk and  ISOREX",
     "name": "Vanilla Factions Expanded - Mechanoids",
     "steamId": "2329011599",
     "version": "1.0.1.2"
@@ -1551,7 +1509,7 @@
     "author": "Mlie",
     "name": "Choose Biome Commonality",
     "steamId": "2582875043",
-    "version": "1.0.1.0"
+    "version": "1.0.2.0"
   },
   {
     "author": "PotatoRamen",
@@ -1719,7 +1677,7 @@
     "author": "Mario55770",
     "name": "Questionable Ethics Enhanced",
     "steamId": "2566962342",
-    "version": "1.5.2"
+    "version": "1.5.5"
   },
   {
     "author": "Sihv",
@@ -1744,12 +1702,6 @@
     "name": "Rim-Effect: Drell",
     "steamId": "2651150217",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Captain Muscles (Nathan Harbour)",
-    "name": "Semi Random Research",
-    "steamId": "2375902187",
-    "version": "1.0.5"
   },
   {
     "author": "PinoChemicali and  Scherub",
@@ -1794,12 +1746,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Energistics",
-    "name": "Start Without Tech",
-    "steamId": "2550777561",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Syrchalis",
     "name": "[SYR] Set Up Camp",
     "steamId": "1470065926",
@@ -1828,5 +1774,245 @@
     "name": "Rimpedia",
     "steamId": "2145524536",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Demi,  어리연,  Nemonian and  gguake",
+    "name": "Paniel the Automata",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Troopersmith1 - Linq- deathrat",
+    "name": "Death Rattle Continued [1.2+]",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Chance2000w",
+    "name": "Clockwork And Steam",
+    "steamId": "1736127702",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "sumghai",
+    "name": "MedPod",
+    "steamId": "2153065191",
+    "version": "1.3.3"
+  },
+  {
+    "author": "Squirting Elephant",
+    "name": "Planetary Drill",
+    "steamId": "2010740880",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "dracoix",
+    "name": "ZARS Production Spots",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "PartyCowboy",
+    "name": "Thinking Spot",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki,  xrushha and  legodude17",
+    "name": "Vanilla Factions Expanded - Ancients",
+    "steamId": "2654846754",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Energistics",
+    "name": "Start Without Tech",
+    "steamId": "2550777561",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Dametri",
+    "name": "[D] Ignorance Is Bliss",
+    "steamId": "2554423472",
+    "version": "1.3.0.2"
+  },
+  {
+    "author": "Sierra",
+    "name": "RimTraits - Medieval Talents",
+    "steamId": "1916352291",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sierra",
+    "name": "RimFantasy - Gemstones",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sierra",
+    "name": "RimFantasy Addon - Heroic Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sierra",
+    "name": "RimFantasy - Temperature Regulation",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sierra",
+    "name": "RimFantasy - Crystallic Lighting",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sierra",
+    "name": "RimFantasy - Arcane Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sierra",
+    "name": "RimFantasy - Arcane Defences",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sierra",
+    "name": "RimFantasy - Arcane Batons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "tikubonn",
+    "name": "Anesthetic Gun MOD",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Torann",
+    "name": "Custom Death Randomness (Continued)",
+    "steamId": "2574056954",
+    "version": "1.2.2"
+  },
+  {
+    "author": "pdxthehunted",
+    "name": "SRTS Expanded Medieval Tweaks and Translation",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lennoxicon",
+    "name": "Apitecture Plus!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Spdskatr",
+    "name": "1.3 SS Researchable Stat Upgrades (Reupload)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and  Sarg Bjornson",
+    "name": "RimWorld - Witcher Monster Hunt",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Syrchalis",
+    "name": "[SYR] Harvest Yield",
+    "steamId": "1461790308",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Grimm",
+    "name": "Un-Limited",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nowano",
+    "name": "Craftable VFE - Viking Weapons and Armours",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Fishbrains",
+    "name": "TechBlock",
+    "steamId": "1970774610",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Seti",
+    "name": "Anima Bionics",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "Mechanoid Master Blaster (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Neronix17",
+    "name": "[O21] Outer Rim Galaxies",
+    "steamId": "2681363470",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "SeoHyeon",
+    "name": "Optimization: Meats - C# Edition",
+    "steamId": "2542931556",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Fortified_home",
+    "name": "Fort's Insectoid armor",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "LegendaryMinuteman",
+    "name": "More Archotech Implants",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "hodlhodl",
+    "name": "ToolkitCore",
+    "steamId": "2018368654",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "Twitch Toolkit",
+    "steamId": "1718525787",
+    "version": "2.0.10.0"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "TwitchToolkit - Lootboxes",
+    "steamId": "1720021578",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "6.1.6.0"
+  },
+  {
+    "author": "swemoney",
+    "name": "Toolkit - Channel Points",
+    "steamId": "1916651243",
+    "version": "1.3.1"
+  },
+  {
+    "author": "Captain Muscles (Nathan Harbour)",
+    "name": "Semi Random Research",
+    "steamId": "2375902187",
+    "version": "1.0.5"
   }
 ]

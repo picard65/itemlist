@@ -40921,7 +40921,7 @@
 		"defname": "FT_AutoCannon"
 	},
 	{
-		"abr": "autopistol\wrubberbullets",
+		"abr": "autopistolwrubberbullets",
 		"price": 293,
 		"category": "Ranged weapons",
 		"defname": "SM_Gun_AutopistolRubber"
@@ -41437,7 +41437,7 @@
 		"defname": "B52a"
 	},
 	{
-		"abr": "bolt-actionrifle\wriflegrenades",
+		"abr": "bolt-actionriflewriflegrenades",
 		"price": 508,
 		"category": "Ranged weapons",
 		"defname": "SM_Gun_RifleGrenade"
@@ -46993,7 +46993,7 @@
 		"defname": "HINF_PulseCarbine"
 	},
 	{
-		"abr": "pumpshotgun\wbeanbagshells",
+		"abr": "pumpshotgunwbeanbagshells",
 		"price": 467,
 		"category": "Ranged weapons",
 		"defname": "SM_Gun_BBShotgun"
@@ -47353,7 +47353,7 @@
 		"defname": "ResearchPad"
 	},
 	{
-		"abr": "revolver\wrubberbullets",
+		"abr": "revolverwrubberbullets",
 		"price": 265,
 		"category": "Ranged weapons",
 		"defname": "SM_Gun_Revolver"
@@ -47629,7 +47629,7 @@
 		"defname": "HINF_Shock_Rifle"
 	},
 	{
-		"abr": "shotgun\wdragonbreathshells",
+		"abr": "shotgunwdragonbreathshells",
 		"price": 433,
 		"category": "Ranged weapons",
 		"defname": "SM_Gun_DBShotgun"

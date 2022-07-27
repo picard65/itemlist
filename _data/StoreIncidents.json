@@ -381,14 +381,9 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "immortality",
-		"price": 100000,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "alphaasteroid",
 		"price": 1000,
-		"karmatype": "Neutral"
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "aeorofleetmigration",
@@ -528,7 +523,7 @@
 	{
 		"abr": "veemeteoriteshower",
 		"price": 600,
-		"karmatype": "Neutral"
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "animalpodcrash",
@@ -581,5 +576,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 116
+	"total": 115
 }

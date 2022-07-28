@@ -61862,7 +61862,7 @@
       },
       "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
       "defName": "Human",
-      "enabled": false,
+      "enabled": true,
       "name": "human",
       "price": 2917
     },
@@ -61887,7 +61887,7 @@
       },
       "description": "A baseline orassan, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Orassia planets. A mammalian humanoid feline race. Evolving in cold caves and life on space ships make it so they don't mind the dark or being inside for long periods of time.\n(Orassans)",
       "defName": "Alien_Orassan",
-      "enabled": false,
+      "enabled": true,
       "name": "orassan",
       "price": 3167
     },
@@ -61912,7 +61912,7 @@
       },
       "description": "A hybrid with DNA from a human and an orassan. Typically created through careful genetic engineering in a lab, or the \"natural\" way from individuals with closely regulated gene mods, these hybrids combine some of the best traits from their parent species. The particular traits and physical characteristics that are being inherited are typically chosen by the parents having the child, but they almost always have two feline ears and a feline tail, both with fur sharing the same color as the hair on their head.\n(Orassans)",
       "defName": "Alien_OrassanHumanHybrid",
-      "enabled": false,
+      "enabled": true,
       "name": "neko",
       "price": 3167
     },
@@ -62075,7 +62075,7 @@
       },
       "description": "Elegant mono-gender race. Native to the planet Thessia, Asari are often considered the most influential and respected sentient species in the galaxy, and are known for their, diplomacy and biotic aptitude. Asari can often use biotic powers without the need of biotic amplifiers.\n(Rim-Effect: Asari and Reapers)",
       "defName": "RE_Asari",
-      "enabled": false,
+      "enabled": true,
       "name": "asari",
       "price": 3333
     },
@@ -62097,7 +62097,7 @@
       },
       "description": "An omnivorous, reptile-like race that was rescued from their dying homeworld by the hanar. Since then, the drell have remained loyal to them for their camaraderie and have fit comfortably into galactic civilization. Their culture allows Drell to separate their mind from their body, helping them through hard times and work. They are predisposed to Kepral's syndrome, a lethal condition which can develop if Drell stays in cold temperatures too long.\n(Rim-Effect: Drell)",
       "defName": "RE_Drell",
-      "enabled": false,
+      "enabled": true,
       "name": "drell",
       "price": 3333
     },
@@ -62119,7 +62119,7 @@
       },
       "description": "A blue-skinned, red-eyed, near human sentient species native to the planet Csilla in the Unknown Regions.",
       "defName": "O21_OR_Chiss",
-      "enabled": false,
+      "enabled": true,
       "name": "Chiss",
       "price": 2917
     },
@@ -62141,7 +62141,7 @@
       },
       "description": "A subspecies of Zabrak, native to the planet Dathomir. The males have a similar appearance to Iridonians with much more vibrant skin tones while the females are practically human apart from their pale white skin. Both cover themselves in tattoos of varying kinds representing their tribal heritage.",
       "defName": "O21_OR_Dathomirian",
-      "enabled": false,
+      "enabled": true,
       "name": "Dathomirian",
       "price": 2917
     },
@@ -62163,7 +62163,7 @@
       },
       "description": "A tall hairy humanoid species native to the planet Kashyyyk, notable hunters and exceptionally strong warriors. Their fur makes them comfortable in extreme temperatures without any protective clothing.",
       "defName": "O21_OR_Wookiee",
-      "enabled": false,
+      "enabled": true,
       "name": "wookiee",
       "price": 2917
     },
@@ -62185,7 +62185,7 @@
       },
       "description": "A humanoid aquatic species from the planet Mon Cala, they share their homeworld with the Quarren.",
       "defName": "O21_OR_MonCalamari",
-      "enabled": false,
+      "enabled": true,
       "name": "Mon Calamari",
       "price": 2917
     },
@@ -62207,7 +62207,7 @@
       },
       "description": "A humanoid aquatic species from the planet Mon Cala, they share their homeworld with the Mon Calamari",
       "defName": "O21_OR_Quarren",
-      "enabled": false,
+      "enabled": true,
       "name": "Quarren",
       "price": 2917
     },
@@ -62229,7 +62229,7 @@
       },
       "description": "A barely sentient amphibious species native to the planet Naboo. Unluckily for the rest of the Galaxy, the ability to speak does not make one intelligent.",
       "defName": "O21_OR_Gungan",
-      "enabled": false,
+      "enabled": true,
       "name": "gungan",
       "price": 2917
     },
@@ -62251,7 +62251,7 @@
       },
       "description": "An ancient race that once ruled the Infinite Empire, creating such wonders of the galaxy as the Star Forge.",
       "defName": "O21_OR_Rakata",
-      "enabled": false,
+      "enabled": true,
       "name": "rakata",
       "price": 2917
     },
@@ -62273,7 +62273,7 @@
       },
       "description": "Jawas were a sentient species of meter-tall furry humanoids native to the Outer Rim desert world of Tatooine. Jawas who migrated from Tatooine were referred to as Offworld Jawas.",
       "defName": "O21_OR_Jawa",
-      "enabled": false,
+      "enabled": true,
       "name": "Jawa",
       "price": 2917
     },
@@ -62295,7 +62295,7 @@
       },
       "description": "Tusken Raiders, less formally referred to as Sand People or simply as Tuskens, were a culture of nomadic sentients indigenous to the desert planet Tatooine, where they were often hostile to local settlers. Tusken children were called Uli-ah. The name of Tusken Raiders was acquired much later, due to a period of concerted attacks on the settlement called Fort Tusken around eight decades before 19 BBY.",
       "defName": "O21_OR_Tusken",
-      "enabled": false,
+      "enabled": true,
       "name": "Tusken",
       "price": 2917
     },
@@ -62321,7 +62321,7 @@
       },
       "description": "HK-47 was a Hunter-Killer assassin droid and Jedi hunter constructed by the Dark Lord of the Sith, Darth Revan, shortly after the end of the Mandalorian Wars in 3960 BBY. In the wake of widespread destruction caused by the Mass Shadow Generator, a superweapon used during the final battle of that conflict, Revan was inspired to seek more subtle methods of defeating his enemies. HK-47 was sent throughout the galaxy on his missions and successfully assassinated countless targets whom Revan had deemed threats to galactic stability and peace. However, HK-47 was badly crippled and captured on a mission in Mandalorian space shortly before Revan himself was captured by the Jedi Order.",
       "defName": "O21_OR_HK47Droid",
-      "enabled": false,
+      "enabled": true,
       "name": "HK-47 Assassin Droid",
       "price": 3333
     },
@@ -62347,7 +62347,7 @@
       },
       "description": "The HK-50 series assassin droid was a HK series assassin/protocol droid model designed by Revan after the Mandalorian Wars. Like their predecessors, these droids possessed incredible linguistic skills and highly sadistic tendencies. The primary function of the HK-50 droids, as they stated it, was to \"facilitate communications and terminate hostilities.\" In accordance with the usual perceptions of HK model assassin droid, the best way to terminate hostilities was to kill everything present. HK-50 units were identical in appearance to HK-47, with the primary exception being that they are \"a rather poor shade of durasteel\" in color instead of HK-47's rusty red.",
       "defName": "O21_OR_HK50Droid",
-      "enabled": false,
+      "enabled": true,
       "name": "HK-50 Assassin Droid",
       "price": 3333
     },
@@ -62373,7 +62373,7 @@
       },
       "description": "The HK-51 series assassin droid was a model of Hunter-Killer series assassin droid that was manufactured by the Czerka Corporation shortly before the end of the Great Galactic War.",
       "defName": "O21_OR_HK51Droid",
-      "enabled": false,
+      "enabled": true,
       "name": "HK-51 Assassin Droid",
       "price": 3333
     },
@@ -62399,7 +62399,7 @@
       },
       "description": "A standard model of battle droid used widely as a baseline military model. They are cheap and easy to produce compared to other models so they are often also used as a labour force outside of combat.",
       "defName": "O21_OR_BattleDroid",
-      "enabled": false,
+      "enabled": true,
       "name": "B1 Battle Droid",
       "price": 2500
     },
@@ -62425,7 +62425,7 @@
       },
       "description": "A stealthy model of battle droid capable of much more flexible movement, even imitating humanoids to a degree along with a high melee proficiency which the standard models lack almost entirely. They are much more difficult to produce.",
       "defName": "O21_OR_CommandoDroid",
-      "enabled": false,
+      "enabled": true,
       "name": "BX Commando Droid",
       "price": 3333
     },
@@ -62451,7 +62451,7 @@
       },
       "description": "An advanced form of battle droid designed with heavy weapons and a shield generator in mind. [Info: They cannot roll to move quickly, this is a planned feature but is low priority currently.]",
       "defName": "O21_OR_DestroyerDroid",
-      "enabled": false,
+      "enabled": true,
       "name": "destroyer droid",
       "price": 1667
     },
@@ -62477,7 +62477,7 @@
       },
       "description": "An advanced assassin and bodyguard droid model, proficient in melee combat but not so much with ranged.",
       "defName": "O21_OR_MagnaGuardDroid",
-      "enabled": false,
+      "enabled": true,
       "name": "MagnaGuard Droid",
       "price": 1667
     },
@@ -62504,7 +62504,7 @@
       },
       "description": "An advanced battle droid model that is larger, tougher and generally better than the standard Battle Droid. Their advantages come at the cost of significantly more materials.",
       "defName": "O21_OR_SuperBattleDroid",
-      "enabled": false,
+      "enabled": true,
       "name": "B2 Super Battle Droid",
       "price": 1667
     },
@@ -62531,7 +62531,7 @@
       },
       "description": "A superior model of tactical droid, capable of much more complex calculations than the standard series.",
       "defName": "O21_OR_SuperTacticalDroid",
-      "enabled": false,
+      "enabled": true,
       "name": "Super Tactical Droid",
       "price": 1250
     },
@@ -62557,7 +62557,7 @@
       },
       "description": "A droid capable of quick battlefield decisions, they aren't very useful for anything else but their intelligence is highly valued.",
       "defName": "O21_OR_TacticalDroid",
-      "enabled": false,
+      "enabled": true,
       "name": "T-Series Tactical Droid",
       "price": 3333
     },
@@ -62579,7 +62579,7 @@
       },
       "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
       "defName": "O21_OR_CloneTrooper",
-      "enabled": false,
+      "enabled": true,
       "name": "human",
       "price": 2917
     },
@@ -62601,7 +62601,7 @@
       },
       "description": "A sentient species native to the planet Abednedo in the Colonies region of the Galaxy.",
       "defName": "O21_OR_Abednedo",
-      "enabled": false,
+      "enabled": true,
       "name": "Abednedo",
       "price": 2917
     },
@@ -62623,7 +62623,7 @@
       },
       "description": "A sentient humanoid species from the planet Ando, they vary genetically in that some of them have 2 eyes and others have 4 eyes.",
       "defName": "O21_OR_Aqualish",
-      "enabled": false,
+      "enabled": true,
       "name": "Aqualish",
       "price": 2917
     },
@@ -62645,7 +62645,7 @@
       },
       "description": "A sentient humanoid species native to the planet Bith, to outside species they are hard to tell apart being so visually similar to one another.",
       "defName": "O21_OR_Bith",
-      "enabled": false,
+      "enabled": true,
       "name": "Bith",
       "price": 2917
     },
@@ -62667,7 +62667,7 @@
       },
       "description": "A species of sentient humanoids from the planet Cerea, they are physically very similar to humans other than their enlarged conical head containing a binary brain.",
       "defName": "O21_OR_Cerean",
-      "enabled": false,
+      "enabled": true,
       "name": "Cerean",
       "price": 2917
     },
@@ -62690,7 +62690,7 @@
       },
       "description": "A sentient humanoid species from the planet Devaron. They have a strong sexual dimorphism where the females look like they could be an entirely different species, lacking the horns and vivid skin colours of the males, instead having vestigial bumbs where horns would be. Their skin is practically immune to fire, and they can tolerate extremely high temperatures.",
       "defName": "O21_OR_Devaronian",
-      "enabled": false,
+      "enabled": true,
       "name": "Devaronian",
       "price": 2917
     },
@@ -62712,7 +62712,7 @@
       },
       "description": "A humanoid sentient species native to the planet Duro, they share a distant ancestor with the Neimoidians.",
       "defName": "O21_OR_Duros",
-      "enabled": false,
+      "enabled": true,
       "name": "Duros",
       "price": 2917
     },
@@ -62734,7 +62734,7 @@
       },
       "description": "A horned sentient species of humanoid from the moon Iktotch.",
       "defName": "O21_OR_Iktotchi",
-      "enabled": false,
+      "enabled": true,
       "name": "Iktotchi",
       "price": 2917
     },
@@ -62756,7 +62756,7 @@
       },
       "description": "Iridonians are a race of Zabrak, horned sentient humanoids. They are native to the planet Iridonia.",
       "defName": "O21_OR_Iridonian",
-      "enabled": false,
+      "enabled": true,
       "name": "Iridonian",
       "price": 2917
     },
@@ -62778,7 +62778,7 @@
       },
       "description": "A sentient species from the planet Ithor. They have a unique set of twin mouths on the opposite sides of their necks. Their throat structure prevented them speaking Galactic Basic without assisstance from devices that can translate as they speak. Another quirk of their unique throat is that they can expell air violently in a rough direction, causing a concussive wave capable of damaging others.",
       "defName": "O21_OR_Ithorian",
-      "enabled": false,
+      "enabled": true,
       "name": "Ithorian",
       "price": 2917
     },
@@ -62800,7 +62800,7 @@
       },
       "description": "A near-human species native to the planet Mirial. They typically have green skin and geometric tattoos on their faces symbolizing personal achievement.",
       "defName": "O21_OR_Mirialan",
-      "enabled": false,
+      "enabled": true,
       "name": "Mirialan",
       "price": 2917
     },
@@ -62822,7 +62822,7 @@
       },
       "description": "A humanoid species native to the planet of Neimoidia, they share a common ancestor with the Duros species.",
       "defName": "O21_OR_Neimoidian",
-      "enabled": false,
+      "enabled": true,
       "name": "Neimoidian",
       "price": 2917
     },
@@ -62844,7 +62844,7 @@
       },
       "description": "A humanoid sentient species native to the planet Kintan. There are three subspecies varying mostly in colouring, with small physical differences.",
       "defName": "O21_OR_Nikto",
-      "enabled": false,
+      "enabled": true,
       "name": "Nikto",
       "price": 2917
     },
@@ -62866,7 +62866,7 @@
       },
       "description": "A sentient species of aquatic beings native to the planet Manaan, they are most comfortable underwater but are capable of surviving on land.",
       "defName": "O21_OR_Selkath",
-      "enabled": false,
+      "enabled": true,
       "name": "Selkath",
       "price": 2917
     },
@@ -62888,7 +62888,7 @@
       },
       "description": "A race of red-skinned humanoids native to the planet Korriban before resettling on Ziost. They have distinct bone spurs and facial tentacles, and are one of few species naturally drawn to the dark side of the Force.",
       "defName": "O21_OR_Sith",
-      "enabled": false,
+      "enabled": true,
       "name": "Sith",
       "price": 2917
     },
@@ -62910,7 +62910,7 @@
       },
       "description": "A sentient humanoid species, distinct for their large montrals head tails and large variety of skin pigmentation. They are native to the planet Shili in the Expansion Region of the Galaxy.",
       "defName": "O21_OR_Togruta",
-      "enabled": false,
+      "enabled": true,
       "name": "Togruta",
       "price": 2917
     },
@@ -62932,7 +62932,7 @@
       },
       "description": "A large bipedal reptilian sentient humanoid species from the planet Trandosha. They were commonly known as great hunters and famous for their ability to regenerate limbs and heal effectively.",
       "defName": "O21_OR_Trandoshan",
-      "enabled": false,
+      "enabled": true,
       "name": "Trandoshan",
       "price": 2917
     },
@@ -62954,7 +62954,7 @@
       },
       "description": "A near-human species distinct in their pair of long appendages protruding from their heads called lekku. They are native to the planet Ryloth in the Outer Rim Territories. Females of the species were often exported as slaves around the Galaxy.",
       "defName": "O21_OR_Twilek",
-      "enabled": false,
+      "enabled": true,
       "name": "Twi'lek",
       "price": 2917
     },
@@ -63013,7 +63013,7 @@
       },
       "description": "This dryad caste bears a strong resemblance to humans, some individuals are even capable of verbal communication. However, in the vast majority of cases, they are not intelligent, and even rare manifestations of personality are an illusion created by their behavior pattern. Their caste is universal, thanks to which they can always significantly help the settlement.\n\nIn general, dryads are mammal-like creatures that have a symbiotic relationship with the Gauranlen tree. They reproduce together with their tree, which contains a hidden dryad queen. Dryads can morph into various specialized castes.\n(WVC - kemomimilike)",
       "defName": "Alien_RoyalDryad_WVC",
-      "enabled": false,
+      "enabled": true,
       "name": "<color=#ffcea2>Royal dryad</color>",
       "price": 20000
     },
@@ -63062,7 +63062,7 @@
       },
       "description": "Valkyries - an ancient race created to resist the mechanoids. Despite all the genetic changes, they are almost indistinguishable from humans in appearance, with the exception of the not rare presence of tails, horns, additional pairs of ears and other minor distinguishing features. How and by whom they were created has long been lost in time, but representatives of this race can still be found today in the expanses of the rimworld.<color=#a2c8ff>\n\nAccording to the original idea, mutations were supposed to be a replacement for the degradation of organs and not be so obvious. However, with the change of generations, less \"human\" and more \"alien\" representatives of this race began to appear, some of which are only indirectly related to the Valkyries.\n\nOne of the significant genetic deviations was the complete degeneration of the male half of this race, which is why this race consists entirely of girls and was called the Valkyries. But despite this, the representatives of the Valkyries race have full compatibility with non-genetically modified humans, thanks to which they have not become extinct.</color>\n\nWith age, even the laziest Valkyrie has a very good \"natural preparation\" of the body, which is why these girls are always very dangerous in close combat.\n(WVC - kemomimilike)",
       "defName": "Alien_Valkyrie_WVC",
-      "enabled": false,
+      "enabled": true,
       "name": "valkyrieancient",
       "price": 21330
     },
@@ -63115,7 +63115,7 @@
       },
       "description": "Equipment: Living Form - small humanoid helpers. They are miniature copies of the Valkyries, their bodies are subject to the same mutations and aberrations. They were created to simplify the life of the Valkyries, helping to treat wounds, cooking and psychological assistance. The fate of the ELFs was similar, after the closure of the project, they dispersed around the world.<color=#a2adff>\n\nELFs are considered adults from the age of 6, and their height does not exceed 1 meter. They are incapable of reproduction and new ELFs are reared in \"mechanical eggs\". To create them, the Valkyrie gene is used. Most organs are created with mechanites. Their bodies are small and light, and they can also hover in the air, but only for a short period of time.</color>\n\nDespite the difficulties of creating ELFs, they meet no less than the Valkyries, however, they cannot answer who creates them and where they come from. According to one of the assumptions, the Mechanoids use them for their own purposes, and some unsuccessful or decommissioned copies fall into the wild.\n(WVC - kemomimilike)",
       "defName": "Alien_ELF_WVC",
-      "enabled": false,
+      "enabled": true,
       "name": "valkyrieelf",
       "price": 21330
     },
@@ -63173,7 +63173,7 @@
       },
       "description": "A rare subspecies of Valkyrie that hybridizes with Gauranlen sprouts.\n\nUsually mutations change Valkyries slightly, an additional tail, an eye, or unusual abilities. In the case of the Dryad Mother, the mutation brought about significant changes in both body structure and brain structure, creating separate subspecies.<color=#f5ffa2>\n\nDryad mothers do not experience emotions, and the reproductive system has been modified so that they are able to \"give birth\" to small mammalian creatures - dryads. Dryads \"born\" by the Mother are different from the usual, although they have a direct relationship. They are something like a biomass that has no mind and is controlled directly by the Mother. The process of birth itself has nothing to do with how it occurs in mammals, since the biomass simply falls away from the Mother like shed skin. The mucus of the bomass itself accumulates on the body of the Dryad along with sweat, or rather it is. The biomass covering the entire body of the Mother exists in synbiosis with her, protecting her from the effects of the external environment. The disadvantage is the flammability of biomass.</color>\n\nDespite her size, the Dryad Mother is very heavy, which limits her mobility, however, despite the fact that she is slow, she can still deftly dodge blows.\n\nAlso on their heads, along with their hair, leaves grow like those of the Gauranlen tree, so leaves can fall from the Mother's head. Sometimes, instead of leaves of Gauranlen, a seed may fall from it.\n(WVC - kemomimilike)",
       "defName": "Alien_DryadMother_WVC",
-      "enabled": false,
+      "enabled": true,
       "name": "dryadmother",
       "price": 21330
     },
@@ -63225,7 +63225,7 @@
       },
       "description": "Herrschers is a mechanoid-enhanced version of the Valkyries, more precisely, it is an interpretation of the Valkyries by mechanoids. Like their not-so-distant cousins ​​ELFs, Herrschers were artificially created by machines. The versions of Herrscher you see today have little to do with those invincible hybrids of machine and organics, but they are able to think and make decisions for themselves. As with the Valkyries, knowledge of the Herrscher's past has been lost, and how they got free remains a mystery.\n\n<color=#cca2ff>Herrschers are not too different from Valkyries. They are subject to the same diseases, mutations, abnormalities and are one of the closest sub-races to the original. The main difference is the skin of the Herrschers. If Valkyries skin becomes like stone. Herrscher's skin resembles plasteel, which affects not only survivability but also allows them to fight with crushing force with their bare hands.</color>\n(WVC - kemomimilike)",
       "defName": "Alien_Herrscher_HoS_WVC",
-      "enabled": false,
+      "enabled": true,
       "name": "herrscher",
       "price": 21330
     },
@@ -63247,7 +63247,7 @@
       },
       "description": "An offshoot of humans bred by the Goa'uld to be used as living incubators for their larva, while making use of themselves as slaves and warriors fighting on their side.",
       "defName": "SG_Jaffa",
-      "enabled": false,
+      "enabled": true,
       "name": "Jaffa",
       "price": 2917
     },
@@ -63299,7 +63299,7 @@
       },
       "description": "Herrschers is a mechanoid-enhanced version of the Valkyries, more precisely, it is an interpretation of the Valkyries by mechanoids. Like their not-so-distant cousins ​​ELFs, Herrschers were artificially created by machines. The versions of Herrscher you see today have little to do with those invincible hybrids of machine and organics, but they are able to think and make decisions for themselves. As with the Valkyries, knowledge of the Herrscher's past has been lost, and how they got free remains a mystery.\n\n<color=#cca2ff>Herrschers are not too different from Valkyries. They are subject to the same diseases, mutations, abnormalities and are one of the closest sub-races to the original. The main difference is the skin of the Herrschers. If Valkyries skin becomes like stone. Herrscher's skin resembles plasteel, which affects not only survivability but also allows them to fight with crushing force with their bare hands.</color>\n(WVC - kemomimilike)",
       "defName": "Alien_Herrscher_WVC",
-      "enabled": false,
+      "enabled": true,
       "name": "<color=#cca2ff>Herrscher</color>",
       "price": 10000
     },
@@ -63321,7 +63321,7 @@
       },
       "description": "A species of sentient humanoids native to the planet Oba Diah, distinguised by their unsettlingly large heads and undersized faces.",
       "defName": "O21_OR_Pyke",
-      "enabled": false,
+      "enabled": true,
       "name": "Pyke",
       "price": 2917
     },
@@ -63347,7 +63347,7 @@
       },
       "description": "TODO",
       "defName": "O21_OR_KXSecurityDroid",
-      "enabled": false,
+      "enabled": true,
       "name": "KX Security Droid",
       "price": 2500
     },
@@ -63374,7 +63374,7 @@
       },
       "description": "A zombie\n(Zombieland)",
       "defName": "Zombie",
-      "enabled": false,
+      "enabled": true,
       "name": "Zombie",
       "price": 1
     }

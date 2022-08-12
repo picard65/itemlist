@@ -43879,66 +43879,6 @@
 		"defname": "WVC_NodeYellowTail"
 	},
 	{
-		"abr": "ammunitionbench",
-		"price": 216,
-		"category": "Production",
-		"defname": "LTS_AmmunitionBench"
-	},
-	{
-		"abr": "archotechammo",
-		"price": 2,
-		"category": "Ammunition",
-		"defname": "AmmoArchotech"
-	},
-	{
-		"abr": "explosiveammo",
-		"price": 1,
-		"category": "Ammunition",
-		"defname": "AmmoExplosive"
-	},
-	{
-		"abr": "industrialammo",
-		"price": 1,
-		"category": "Ammunition",
-		"defname": "AmmoIndustrial"
-	},
-	{
-		"abr": "largekit",
-		"price": 212,
-		"category": "Kits",
-		"defname": "LTS_KitLarge"
-	},
-	{
-		"abr": "medievalammo",
-		"price": 1,
-		"category": "Ammunition",
-		"defname": "AmmoMedieval"
-	},
-	{
-		"abr": "mediumkit",
-		"price": 142,
-		"category": "Kits",
-		"defname": "LTS_KitMedium"
-	},
-	{
-		"abr": "primitiveammo",
-		"price": 1,
-		"category": "Ammunition",
-		"defname": "AmmoPrimitive"
-	},
-	{
-		"abr": "smallkit",
-		"price": 73,
-		"category": "Kits",
-		"defname": "LTS_KitSmall"
-	},
-	{
-		"abr": "spacerammo",
-		"price": 1,
-		"category": "Ammunition",
-		"defname": "AmmoSpacer"
-	},
-	{
 		"abr": "bobeene",
 		"price": 917,
 		"category": "Animals",
@@ -52753,6 +52693,12 @@
 		"defname": "YR_AP_WhiteMoon"
 	},
 	{
+		"abr": "yuranbigcherrybox",
+		"price": 2000,
+		"category": "Manufactured",
+		"defname": "YR_TreeBox"
+	},
+	{
 		"abr": "yuranbigribbon",
 		"price": 170,
 		"category": "Yuran hat",
@@ -52873,65 +52819,11 @@
 		"defname": "Yuran_Race_Miko"
 	},
 	{
-		"abr": "yuranmyeong-wol",
-		"price": 203,
-		"category": "Yuran Apparel",
-		"defname": "YR_AP_WhiteSee"
-	},
-	{
-		"abr": "yurannaginata",
-		"price": 442,
-		"category": "Melee weapons",
-		"defname": "YR_WP_Naginata"
-	},
-	{
-		"abr": "yuranrabbitstatue(crafting)",
-		"price": 2,
+		"abr": "yuranmiraclepill",
+		"price": 4333,
 		"category": "Manufactured",
-		"defname": "YR_ManekiUsagi_Craft"
-	},
-	{
-		"abr": "yuranrabbitstatue(goodharvest)",
-		"price": 2,
-		"category": "Manufactured",
-		"defname": "YR_ManekiUsagi_Plant"
-	},
-	{
-		"abr": "yuranrabbitstatue(immunity)",
-		"price": 2,
-		"category": "Manufactured",
-		"defname": "YR_ManekiUsagi_Immunity"
-	},
-	{
-		"abr": "yuranrabbitstatue(recovery)",
-		"price": 2,
-		"category": "Manufactured",
-		"defname": "YR_ManekiUsagi_Heal"
-	},
-	{
-		"abr": "yuranrabbitstatue(stable)",
-		"price": 2,
-		"category": "Manufactured",
-		"defname": "YR_ManekiUsagi_Stability"
-	},
-	{
-		"abr": "yuransewingmachine",
-		"price": 312,
-		"category": "Production",
-		"defname": "YR_P_sewingmachine"
-	},
-	{
-		"abr": "yuranshrine",
-		"price": 304,
-		"category": "Misc",
-		"defname": "YR_Shine"
-	},
-	{
-		"abr": "yuransmallribbon",
-		"price": 170,
-		"category": "Yuran hat",
-		"defname": "YR_AP_Ribbon_Small"
+		"defname": "YR_PsychicAmplifier_Evol"
 	}
 	],
-	"total": 8835
+	"total": 8826
 }

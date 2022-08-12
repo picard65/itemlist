@@ -63128,7 +63128,7 @@
       },
       "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
       "defName": "Human",
-      "enabled": true,
+      "enabled": false,
       "name": "human",
       "price": 2917
     },
@@ -63153,7 +63153,7 @@
       },
       "description": "A baseline orassan, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Orassia planets. A mammalian humanoid feline race. Evolving in cold caves and life on space ships make it so they don't mind the dark or being inside for long periods of time.\n(Orassans)",
       "defName": "Alien_Orassan",
-      "enabled": true,
+      "enabled": false,
       "name": "orassan",
       "price": 3167
     },
@@ -63178,7 +63178,7 @@
       },
       "description": "A hybrid with DNA from a human and an orassan. Typically created through careful genetic engineering in a lab, or the \"natural\" way from individuals with closely regulated gene mods, these hybrids combine some of the best traits from their parent species. The particular traits and physical characteristics that are being inherited are typically chosen by the parents having the child, but they almost always have two feline ears and a feline tail, both with fur sharing the same color as the hair on their head.\n(Orassans)",
       "defName": "Alien_OrassanHumanHybrid",
-      "enabled": true,
+      "enabled": false,
       "name": "neko",
       "price": 3167
     },
@@ -63201,7 +63201,7 @@
       },
       "description": "A holographic projection operated by a mind located elsewhere. Despite its humanlike appearance, the avatar could belong to a machine persona with frighteningly alien goals.\n\nIf the projection is destroyed, its emitter will need a day to reestablish coherence, but the mind itself suffers no permanent harm.\n(Save Our Ship 2)",
       "defName": "SoSHologramRace",
-      "enabled": true,
+      "enabled": false,
       "name": "hologram",
       "price": 1
     },
@@ -63259,7 +63259,7 @@
       },
       "description": "They are bioweapons recreated after Mechanoids by the Anties.\n\nDreadnaughts are possessed only the most advanced Hives and are stationed at the last lines of defense.\n\nThey are equipped with low-angle intercepting systems. Unlike low-angle shields, they deny both incoming and outgoing projectiles.(Dlc) \n\nIf the dreadnaughts are seen on the battlefront, it means child's play is over.\n(Anty the war ant race)",
       "defName": "AT_dreadnought",
-      "enabled": true,
+      "enabled": false,
       "name": "Anty Dreadnought",
       "price": 5000
     },
@@ -63315,7 +63315,7 @@
       },
       "description": "Anties are genetically engineered beings by a private company to replace dying soldiers on the battle field.\n\nEverything has gone south when the company has let their guard down to celebrate their recent progress. Due to a mistake made by one of the employees, the Anties have been set free from the lab and ended up in space.\n\nTheir personalities are gentle by nature, but they were made to know only but war. On each planet they end up, they burn everything down to ash, using themselves as the main source of the fuel.\n\nAnty is hermaphrodite, has no externally exposed reproductive organs, but has both a scrotum and ovaries in the abdomen.\n\nAnty's gender is indicated based on her reproductive system, which was a little more developed prior to consuming the Nutritional jelly.\n\nThe average height of common anty ergates and queen ants is 140cm, while soldier ants are 170cm. Depending on needs or the type of hive, it can transform or grow up to 200cm.\n(Anty the war ant race)",
       "defName": "Anty",
-      "enabled": true,
+      "enabled": false,
       "name": "Anty",
       "price": 1333
     },
@@ -63341,7 +63341,7 @@
       },
       "description": "Elegant mono-gender race. Native to the planet Thessia, Asari are often considered the most influential and respected sentient species in the galaxy, and are known for their, diplomacy and biotic aptitude. Asari can often use biotic powers without the need of biotic amplifiers.\n(Rim-Effect: Asari and Reapers)",
       "defName": "RE_Asari",
-      "enabled": true,
+      "enabled": false,
       "name": "asari",
       "price": 3333
     },
@@ -63363,7 +63363,7 @@
       },
       "description": "An omnivorous, reptile-like race that was rescued from their dying homeworld by the hanar. Since then, the drell have remained loyal to them for their camaraderie and have fit comfortably into galactic civilization. Their culture allows Drell to separate their mind from their body, helping them through hard times and work. They are predisposed to Kepral's syndrome, a lethal condition which can develop if Drell stays in cold temperatures too long.\n(Rim-Effect: Drell)",
       "defName": "RE_Drell",
-      "enabled": true,
+      "enabled": false,
       "name": "drell",
       "price": 3333
     },
@@ -63385,7 +63385,7 @@
       },
       "description": "A blue-skinned, red-eyed, near human sentient species native to the planet Csilla in the Unknown Regions.",
       "defName": "O21_OR_Chiss",
-      "enabled": true,
+      "enabled": false,
       "name": "Chiss",
       "price": 2917
     },
@@ -63407,7 +63407,7 @@
       },
       "description": "A subspecies of Zabrak, native to the planet Dathomir. The males have a similar appearance to Iridonians with much more vibrant skin tones while the females are practically human apart from their pale white skin. Both cover themselves in tattoos of varying kinds representing their tribal heritage.",
       "defName": "O21_OR_Dathomirian",
-      "enabled": true,
+      "enabled": false,
       "name": "Dathomirian",
       "price": 2917
     },
@@ -63429,7 +63429,7 @@
       },
       "description": "A tall hairy humanoid species native to the planet Kashyyyk, notable hunters and exceptionally strong warriors. Their fur makes them comfortable in extreme temperatures without any protective clothing.",
       "defName": "O21_OR_Wookiee",
-      "enabled": true,
+      "enabled": false,
       "name": "wookiee",
       "price": 2917
     },
@@ -63451,7 +63451,7 @@
       },
       "description": "A humanoid aquatic species from the planet Mon Cala, they share their homeworld with the Quarren.",
       "defName": "O21_OR_MonCalamari",
-      "enabled": true,
+      "enabled": false,
       "name": "Mon Calamari",
       "price": 2917
     },
@@ -63473,7 +63473,7 @@
       },
       "description": "A humanoid aquatic species from the planet Mon Cala, they share their homeworld with the Mon Calamari",
       "defName": "O21_OR_Quarren",
-      "enabled": true,
+      "enabled": false,
       "name": "Quarren",
       "price": 2917
     },
@@ -63495,7 +63495,7 @@
       },
       "description": "A barely sentient amphibious species native to the planet Naboo. Unluckily for the rest of the Galaxy, the ability to speak does not make one intelligent.",
       "defName": "O21_OR_Gungan",
-      "enabled": true,
+      "enabled": false,
       "name": "gungan",
       "price": 2917
     },
@@ -63517,7 +63517,7 @@
       },
       "description": "An ancient race that once ruled the Infinite Empire, creating such wonders of the galaxy as the Star Forge.",
       "defName": "O21_OR_Rakata",
-      "enabled": true,
+      "enabled": false,
       "name": "rakata",
       "price": 2917
     },
@@ -63539,7 +63539,7 @@
       },
       "description": "Jawas were a sentient species of meter-tall furry humanoids native to the Outer Rim desert world of Tatooine. Jawas who migrated from Tatooine were referred to as Offworld Jawas.",
       "defName": "O21_OR_Jawa",
-      "enabled": true,
+      "enabled": false,
       "name": "Jawa",
       "price": 2917
     },
@@ -63561,7 +63561,7 @@
       },
       "description": "Tusken Raiders, less formally referred to as Sand People or simply as Tuskens, were a culture of nomadic sentients indigenous to the desert planet Tatooine, where they were often hostile to local settlers. Tusken children were called Uli-ah. The name of Tusken Raiders was acquired much later, due to a period of concerted attacks on the settlement called Fort Tusken around eight decades before 19 BBY.",
       "defName": "O21_OR_Tusken",
-      "enabled": true,
+      "enabled": false,
       "name": "Tusken",
       "price": 2917
     },
@@ -63587,7 +63587,7 @@
       },
       "description": "HK-47 was a Hunter-Killer assassin droid and Jedi hunter constructed by the Dark Lord of the Sith, Darth Revan, shortly after the end of the Mandalorian Wars in 3960 BBY. In the wake of widespread destruction caused by the Mass Shadow Generator, a superweapon used during the final battle of that conflict, Revan was inspired to seek more subtle methods of defeating his enemies. HK-47 was sent throughout the galaxy on his missions and successfully assassinated countless targets whom Revan had deemed threats to galactic stability and peace. However, HK-47 was badly crippled and captured on a mission in Mandalorian space shortly before Revan himself was captured by the Jedi Order.",
       "defName": "O21_OR_HK47Droid",
-      "enabled": true,
+      "enabled": false,
       "name": "HK-47 Assassin Droid",
       "price": 3333
     },
@@ -63613,7 +63613,7 @@
       },
       "description": "The HK-50 series assassin droid was a HK series assassin/protocol droid model designed by Revan after the Mandalorian Wars. Like their predecessors, these droids possessed incredible linguistic skills and highly sadistic tendencies. The primary function of the HK-50 droids, as they stated it, was to \"facilitate communications and terminate hostilities.\" In accordance with the usual perceptions of HK model assassin droid, the best way to terminate hostilities was to kill everything present. HK-50 units were identical in appearance to HK-47, with the primary exception being that they are \"a rather poor shade of durasteel\" in color instead of HK-47's rusty red.",
       "defName": "O21_OR_HK50Droid",
-      "enabled": true,
+      "enabled": false,
       "name": "HK-50 Assassin Droid",
       "price": 3333
     },
@@ -63639,7 +63639,7 @@
       },
       "description": "The HK-51 series assassin droid was a model of Hunter-Killer series assassin droid that was manufactured by the Czerka Corporation shortly before the end of the Great Galactic War.",
       "defName": "O21_OR_HK51Droid",
-      "enabled": true,
+      "enabled": false,
       "name": "HK-51 Assassin Droid",
       "price": 3333
     },
@@ -63665,7 +63665,7 @@
       },
       "description": "A standard model of battle droid used widely as a baseline military model. They are cheap and easy to produce compared to other models so they are often also used as a labour force outside of combat.",
       "defName": "O21_OR_BattleDroid",
-      "enabled": true,
+      "enabled": false,
       "name": "B1 Battle Droid",
       "price": 2500
     },
@@ -63691,7 +63691,7 @@
       },
       "description": "A stealthy model of battle droid capable of much more flexible movement, even imitating humanoids to a degree along with a high melee proficiency which the standard models lack almost entirely. They are much more difficult to produce.",
       "defName": "O21_OR_CommandoDroid",
-      "enabled": true,
+      "enabled": false,
       "name": "BX Commando Droid",
       "price": 3333
     },
@@ -63717,7 +63717,7 @@
       },
       "description": "An advanced form of battle droid designed with heavy weapons and a shield generator in mind. [Info: They cannot roll to move quickly, this is a planned feature but is low priority currently.]",
       "defName": "O21_OR_DestroyerDroid",
-      "enabled": true,
+      "enabled": false,
       "name": "destroyer droid",
       "price": 1667
     },
@@ -63743,7 +63743,7 @@
       },
       "description": "An advanced assassin and bodyguard droid model, proficient in melee combat but not so much with ranged.",
       "defName": "O21_OR_MagnaGuardDroid",
-      "enabled": true,
+      "enabled": false,
       "name": "MagnaGuard Droid",
       "price": 1667
     },
@@ -63770,7 +63770,7 @@
       },
       "description": "An advanced battle droid model that is larger, tougher and generally better than the standard Battle Droid. Their advantages come at the cost of significantly more materials.",
       "defName": "O21_OR_SuperBattleDroid",
-      "enabled": true,
+      "enabled": false,
       "name": "B2 Super Battle Droid",
       "price": 1667
     },
@@ -63797,7 +63797,7 @@
       },
       "description": "A superior model of tactical droid, capable of much more complex calculations than the standard series.",
       "defName": "O21_OR_SuperTacticalDroid",
-      "enabled": true,
+      "enabled": false,
       "name": "Super Tactical Droid",
       "price": 1250
     },
@@ -63823,7 +63823,7 @@
       },
       "description": "A droid capable of quick battlefield decisions, they aren't very useful for anything else but their intelligence is highly valued.",
       "defName": "O21_OR_TacticalDroid",
-      "enabled": true,
+      "enabled": false,
       "name": "T-Series Tactical Droid",
       "price": 3333
     },
@@ -63867,7 +63867,7 @@
       },
       "description": "A sentient species native to the planet Abednedo in the Colonies region of the Galaxy.",
       "defName": "O21_OR_Abednedo",
-      "enabled": true,
+      "enabled": false,
       "name": "Abednedo",
       "price": 2917
     },
@@ -63889,7 +63889,7 @@
       },
       "description": "A sentient humanoid species from the planet Ando, they vary genetically in that some of them have 2 eyes and others have 4 eyes.",
       "defName": "O21_OR_Aqualish",
-      "enabled": true,
+      "enabled": false,
       "name": "Aqualish",
       "price": 2917
     },
@@ -63911,7 +63911,7 @@
       },
       "description": "A sentient humanoid species native to the planet Bith, to outside species they are hard to tell apart being so visually similar to one another.",
       "defName": "O21_OR_Bith",
-      "enabled": true,
+      "enabled": false,
       "name": "Bith",
       "price": 2917
     },
@@ -63933,7 +63933,7 @@
       },
       "description": "A species of sentient humanoids from the planet Cerea, they are physically very similar to humans other than their enlarged conical head containing a binary brain.",
       "defName": "O21_OR_Cerean",
-      "enabled": true,
+      "enabled": false,
       "name": "Cerean",
       "price": 2917
     },
@@ -63956,7 +63956,7 @@
       },
       "description": "A sentient humanoid species from the planet Devaron. They have a strong sexual dimorphism where the females look like they could be an entirely different species, lacking the horns and vivid skin colours of the males, instead having vestigial bumbs where horns would be. Their skin is practically immune to fire, and they can tolerate extremely high temperatures.",
       "defName": "O21_OR_Devaronian",
-      "enabled": true,
+      "enabled": false,
       "name": "Devaronian",
       "price": 2917
     },
@@ -63978,7 +63978,7 @@
       },
       "description": "A humanoid sentient species native to the planet Duro, they share a distant ancestor with the Neimoidians.",
       "defName": "O21_OR_Duros",
-      "enabled": true,
+      "enabled": false,
       "name": "Duros",
       "price": 2917
     },
@@ -64000,7 +64000,7 @@
       },
       "description": "A horned sentient species of humanoid from the moon Iktotch.",
       "defName": "O21_OR_Iktotchi",
-      "enabled": true,
+      "enabled": false,
       "name": "Iktotchi",
       "price": 2917
     },
@@ -64022,7 +64022,7 @@
       },
       "description": "Iridonians are a race of Zabrak, horned sentient humanoids. They are native to the planet Iridonia.",
       "defName": "O21_OR_Iridonian",
-      "enabled": true,
+      "enabled": false,
       "name": "Iridonian",
       "price": 2917
     },
@@ -64044,7 +64044,7 @@
       },
       "description": "A sentient species from the planet Ithor. They have a unique set of twin mouths on the opposite sides of their necks. Their throat structure prevented them speaking Galactic Basic without assisstance from devices that can translate as they speak. Another quirk of their unique throat is that they can expell air violently in a rough direction, causing a concussive wave capable of damaging others.",
       "defName": "O21_OR_Ithorian",
-      "enabled": true,
+      "enabled": false,
       "name": "Ithorian",
       "price": 2917
     },
@@ -64066,7 +64066,7 @@
       },
       "description": "A near-human species native to the planet Mirial. They typically have green skin and geometric tattoos on their faces symbolizing personal achievement.",
       "defName": "O21_OR_Mirialan",
-      "enabled": true,
+      "enabled": false,
       "name": "Mirialan",
       "price": 2917
     },
@@ -64088,7 +64088,7 @@
       },
       "description": "A humanoid species native to the planet of Neimoidia, they share a common ancestor with the Duros species.",
       "defName": "O21_OR_Neimoidian",
-      "enabled": true,
+      "enabled": false,
       "name": "Neimoidian",
       "price": 2917
     },
@@ -64110,7 +64110,7 @@
       },
       "description": "A humanoid sentient species native to the planet Kintan. There are three subspecies varying mostly in colouring, with small physical differences.",
       "defName": "O21_OR_Nikto",
-      "enabled": true,
+      "enabled": false,
       "name": "Nikto",
       "price": 2917
     },
@@ -64132,7 +64132,7 @@
       },
       "description": "A sentient species of aquatic beings native to the planet Manaan, they are most comfortable underwater but are capable of surviving on land.",
       "defName": "O21_OR_Selkath",
-      "enabled": true,
+      "enabled": false,
       "name": "Selkath",
       "price": 2917
     },
@@ -64154,7 +64154,7 @@
       },
       "description": "A race of red-skinned humanoids native to the planet Korriban before resettling on Ziost. They have distinct bone spurs and facial tentacles, and are one of few species naturally drawn to the dark side of the Force.",
       "defName": "O21_OR_Sith",
-      "enabled": true,
+      "enabled": false,
       "name": "Sith",
       "price": 2917
     },
@@ -64176,7 +64176,7 @@
       },
       "description": "A sentient humanoid species, distinct for their large montrals head tails and large variety of skin pigmentation. They are native to the planet Shili in the Expansion Region of the Galaxy.",
       "defName": "O21_OR_Togruta",
-      "enabled": true,
+      "enabled": false,
       "name": "Togruta",
       "price": 2917
     },
@@ -64198,7 +64198,7 @@
       },
       "description": "A large bipedal reptilian sentient humanoid species from the planet Trandosha. They were commonly known as great hunters and famous for their ability to regenerate limbs and heal effectively.",
       "defName": "O21_OR_Trandoshan",
-      "enabled": true,
+      "enabled": false,
       "name": "Trandoshan",
       "price": 2917
     },
@@ -64220,7 +64220,7 @@
       },
       "description": "A near-human species distinct in their pair of long appendages protruding from their heads called lekku. They are native to the planet Ryloth in the Outer Rim Territories. Females of the species were often exported as slaves around the Galaxy.",
       "defName": "O21_OR_Twilek",
-      "enabled": true,
+      "enabled": false,
       "name": "Twi'lek",
       "price": 2917
     },
@@ -64279,7 +64279,7 @@
       },
       "description": "This dryad caste bears a strong resemblance to humans, some individuals are even capable of verbal communication. However, in the vast majority of cases, they are not intelligent, and even rare manifestations of personality are an illusion created by their behavior pattern. Their caste is universal, thanks to which they can always significantly help the settlement.\n\nIn general, dryads are mammal-like creatures that have a symbiotic relationship with the Gauranlen tree. They reproduce together with their tree, which contains a hidden dryad queen. Dryads can morph into various specialized castes.\n(WVC - kemomimilike)",
       "defName": "Alien_RoyalDryad_WVC",
-      "enabled": true,
+      "enabled": false,
       "name": "<color=#ffcea2>Royal dryad</color>",
       "price": 20000
     },
@@ -64328,7 +64328,7 @@
       },
       "description": "Valkyries - an ancient race created to resist the mechanoids. Despite all the genetic changes, they are almost indistinguishable from humans in appearance, with the exception of the not rare presence of tails, horns, additional pairs of ears and other minor distinguishing features. How and by whom they were created has long been lost in time, but representatives of this race can still be found today in the expanses of the rimworld.<color=#a2c8ff>\n\nAccording to the original idea, mutations were supposed to be a replacement for the degradation of organs and not be so obvious. However, with the change of generations, less \"human\" and more \"alien\" representatives of this race began to appear, some of which are only indirectly related to the Valkyries.\n\nOne of the significant genetic deviations was the complete degeneration of the male half of this race, which is why this race consists entirely of girls and was called the Valkyries. But despite this, the representatives of the Valkyries race have full compatibility with non-genetically modified humans, thanks to which they have not become extinct.</color>\n\nWith age, even the laziest Valkyrie has a very good \"natural preparation\" of the body, which is why these girls are always very dangerous in close combat.\n(WVC - kemomimilike)",
       "defName": "Alien_Valkyrie_WVC",
-      "enabled": true,
+      "enabled": false,
       "name": "valkyrieancient",
       "price": 21330
     },
@@ -64381,7 +64381,7 @@
       },
       "description": "Equipment: Living Form - small humanoid helpers. They are miniature copies of the Valkyries, their bodies are subject to the same mutations and aberrations. They were created to simplify the life of the Valkyries, helping to treat wounds, cooking and psychological assistance. The fate of the ELFs was similar, after the closure of the project, they dispersed around the world.<color=#a2adff>\n\nELFs are considered adults from the age of 6, and their height does not exceed 1 meter. They are incapable of reproduction and new ELFs are reared in \"mechanical eggs\". To create them, the Valkyrie gene is used. Most organs are created with mechanites. Their bodies are small and light, and they can also hover in the air, but only for a short period of time.</color>\n\nDespite the difficulties of creating ELFs, they meet no less than the Valkyries, however, they cannot answer who creates them and where they come from. According to one of the assumptions, the Mechanoids use them for their own purposes, and some unsuccessful or decommissioned copies fall into the wild.\n(WVC - kemomimilike)",
       "defName": "Alien_ELF_WVC",
-      "enabled": true,
+      "enabled": false,
       "name": "valkyrieelf",
       "price": 21330
     },
@@ -64439,7 +64439,7 @@
       },
       "description": "A rare subspecies of Valkyrie that hybridizes with Gauranlen sprouts.\n\nUsually mutations change Valkyries slightly, an additional tail, an eye, or unusual abilities. In the case of the Dryad Mother, the mutation brought about significant changes in both body structure and brain structure, creating separate subspecies.<color=#f5ffa2>\n\nDryad mothers do not experience emotions, and the reproductive system has been modified so that they are able to \"give birth\" to small mammalian creatures - dryads. Dryads \"born\" by the Mother are different from the usual, although they have a direct relationship. They are something like a biomass that has no mind and is controlled directly by the Mother. The process of birth itself has nothing to do with how it occurs in mammals, since the biomass simply falls away from the Mother like shed skin. The mucus of the bomass itself accumulates on the body of the Dryad along with sweat, or rather it is. The biomass covering the entire body of the Mother exists in synbiosis with her, protecting her from the effects of the external environment. The disadvantage is the flammability of biomass.</color>\n\nDespite her size, the Dryad Mother is very heavy, which limits her mobility, however, despite the fact that she is slow, she can still deftly dodge blows.\n\nAlso on their heads, along with their hair, leaves grow like those of the Gauranlen tree, so leaves can fall from the Mother's head. Sometimes, instead of leaves of Gauranlen, a seed may fall from it.\n(WVC - kemomimilike)",
       "defName": "Alien_DryadMother_WVC",
-      "enabled": true,
+      "enabled": false,
       "name": "dryadmother",
       "price": 21330
     },
@@ -64491,7 +64491,7 @@
       },
       "description": "Herrschers is a mechanoid-enhanced version of the Valkyries, more precisely, it is an interpretation of the Valkyries by mechanoids. Like their not-so-distant cousins ​​ELFs, Herrschers were artificially created by machines. The versions of Herrscher you see today have little to do with those invincible hybrids of machine and organics, but they are able to think and make decisions for themselves. As with the Valkyries, knowledge of the Herrscher's past has been lost, and how they got free remains a mystery.\n\n<color=#cca2ff>Herrschers are not too different from Valkyries. They are subject to the same diseases, mutations, abnormalities and are one of the closest sub-races to the original. The main difference is the skin of the Herrschers. If Valkyries skin becomes like stone. Herrscher's skin resembles plasteel, which affects not only survivability but also allows them to fight with crushing force with their bare hands.</color>\n(WVC - kemomimilike)",
       "defName": "Alien_Herrscher_HoS_WVC",
-      "enabled": true,
+      "enabled": false,
       "name": "herrscher",
       "price": 21330
     },
@@ -64513,7 +64513,7 @@
       },
       "description": "An offshoot of humans bred by the Goa'uld to be used as living incubators for their larva, while making use of themselves as slaves and warriors fighting on their side.",
       "defName": "SG_Jaffa",
-      "enabled": true,
+      "enabled": false,
       "name": "Jaffa",
       "price": 2917
     },
@@ -64565,7 +64565,7 @@
       },
       "description": "Herrschers is a mechanoid-enhanced version of the Valkyries, more precisely, it is an interpretation of the Valkyries by mechanoids. Like their not-so-distant cousins ​​ELFs, Herrschers were artificially created by machines. The versions of Herrscher you see today have little to do with those invincible hybrids of machine and organics, but they are able to think and make decisions for themselves. As with the Valkyries, knowledge of the Herrscher's past has been lost, and how they got free remains a mystery.\n\n<color=#cca2ff>Herrschers are not too different from Valkyries. They are subject to the same diseases, mutations, abnormalities and are one of the closest sub-races to the original. The main difference is the skin of the Herrschers. If Valkyries skin becomes like stone. Herrscher's skin resembles plasteel, which affects not only survivability but also allows them to fight with crushing force with their bare hands.</color>\n(WVC - kemomimilike)",
       "defName": "Alien_Herrscher_WVC",
-      "enabled": true,
+      "enabled": false,
       "name": "<color=#cca2ff>Herrscher</color>",
       "price": 10000
     },
@@ -64587,7 +64587,7 @@
       },
       "description": "A species of sentient humanoids native to the planet Oba Diah, distinguised by their unsettlingly large heads and undersized faces.",
       "defName": "O21_OR_Pyke",
-      "enabled": true,
+      "enabled": false,
       "name": "Pyke",
       "price": 2917
     },
@@ -64613,7 +64613,7 @@
       },
       "description": "TODO",
       "defName": "O21_OR_KXSecurityDroid",
-      "enabled": true,
+      "enabled": false,
       "name": "KX Security Droid",
       "price": 2500
     },
@@ -64671,7 +64671,7 @@
       },
       "description": "They are bioweapons recreated after Mechanoids by the Anties.\n\\Hive guard are possessed only the most advanced Hives and are stationed at the last lines of defense.\n\nThey are equipped with High-angle intercepting systems. Unlike High-angle shields, they deny both incoming and outgoing projectiles.(Dlc) \n\nIf the Hive guard are seen on the battlefront, it means child's play is over.\n(Anty the war ant race)",
       "defName": "AT_Hiveguard",
-      "enabled": true,
+      "enabled": false,
       "name": "Anty Hive guard",
       "price": 5000
     },
@@ -64703,7 +64703,7 @@
       },
       "description": "A form of mechanized infantry, produced during an ancient time on this rimworld. These units are very strong, powerful war machines but are subsequently slow and have limited battery to them.\n(Android tiers)",
       "defName": "M7Mech",
-      "enabled": true,
+      "enabled": false,
       "name": "M7 Mechanised infantry",
       "price": 30000
     },
@@ -64735,9 +64735,9 @@
       },
       "description": "A prototype M7 mechanized infantry, equipped with a limited SkyCore unit and SkyMind radio. These units are very strong, powerful war machines and allow digital consciousness to move on battlefields but are subsequently slow and have limited internal storage capacity to them.\n(Android tiers)",
       "defName": "M8Mech",
-      "enabled": true,
+      "enabled": false,
       "name": "M8 Mechanised infantry",
-      "price": 35000
+      "price": 30000
     },
     {
       "data": {
@@ -64769,7 +64769,7 @@
       },
       "description": "A lost android, shunned from their transcendant community. The tech used to make them is beyond human comprehension, boasting near unlimited power and requiring little sustinence to operate. They deem all races other than themselves to be somewhat below them and believe that living on a rimworld is a fate worse than death.\n(Android tiers - Gynoids Reborn)",
       "defName": "Android5Tier",
-      "enabled": true,
+      "enabled": false,
       "name": "T5 Android",
       "price": 13333
     },
@@ -64803,7 +64803,7 @@
       },
       "description": "The most advanced form of android conceivable; this tier is able to efficiently hold the consciousness of any AI uploaded onto it, with advanced locomotive abilities and manipulation; this android vastly suprasses most humans.\n(Android tiers - Gynoids Reborn)",
       "defName": "Android4Tier",
-      "enabled": true,
+      "enabled": false,
       "name": "T4 Android",
       "price": 10000
     },
@@ -64836,7 +64836,7 @@
       },
       "description": "A Prototype android exclusive to this rimworld; developed by a secret R/D Laboratory, away from the eye of the rest of the planet and cosmos. This android features highly advanced locomotive and motor abilities, perfectly mimicing that of an average human. Although clunky and somewhat slow - this android features a modular component design, allowing for upgrades to be made to current parts at any point.\n(Android tiers - Gynoids Reborn)",
       "defName": "Android3Tier",
-      "enabled": true,
+      "enabled": false,
       "name": "T3 Android",
       "price": 8000
     },
@@ -64872,7 +64872,7 @@
       },
       "description": "As simple as sentient robotics can get. This design is the bare skeletal amount of components needed to create full autonomous functionality. Obviously not the best but it works well when needed.\n(Android tiers - Gynoids Reborn)",
       "defName": "Android1Tier",
-      "enabled": true,
+      "enabled": false,
       "name": "T1 Android",
       "price": 2333
     },
@@ -64908,7 +64908,7 @@
       },
       "description": "A somewhat advanced android, capable of almost perfectly storing an AI consciousness and with reasonable levels of motor skills. A good all round android that is uses extensively on glitterworlds for basic maintenance and cleaning.\n(Android tiers - Gynoids Reborn)",
       "defName": "Android2Tier",
-      "enabled": true,
+      "enabled": false,
       "name": "T2 Android",
       "price": 4167
     },
@@ -64944,7 +64944,7 @@
       },
       "description": "A special serie of T2 designed for infiltration missions, his slightly modified T2 exoskeleton is covered with a synthetic rubber skin which prevent him to rust, have a better social impact and to be EMP/solar flare proof, he is however more flammable.\n(Android tiers - TX Series)",
       "defName": "ATPP_Android2TX",
-      "enabled": true,
+      "enabled": false,
       "name": "TX2 Android",
       "price": 5833
     },
@@ -64977,7 +64977,7 @@
       },
       "description": "A special serie of T3 designed for infiltration missions, his slightly modified T3 exoskeleton is covered with living tissues which prevent him to rust, have a better social impact and to be EMP/solar flare proof, he is however more flammable.\n(Android tiers - TX Series)",
       "defName": "ATPP_Android3TX",
-      "enabled": true,
+      "enabled": false,
       "name": "TX3 Android",
       "price": 9667
     },
@@ -65011,7 +65011,7 @@
       },
       "description": "A special serie of T4 designed for infiltration missions, his slightly modified T4 exoskeleton is covered with living tissues which prevent him to rust, have a better social impact and to be EMP/solar flare proof, he is however more flammable.\n(Android tiers - TX Series)",
       "defName": "ATPP_Android4TX",
-      "enabled": true,
+      "enabled": false,
       "name": "TX4 Android",
       "price": 11667
     },
@@ -65047,7 +65047,7 @@
       },
       "description": "A prototype android designed to be used exclusively on the battlefield as heavy infantry, very resistant and inflicts severe melee damage, however quite slow due to its armor and he is unable to perform advanced tasks because of its limited processor essentially optimized for combat.\n(Android tiers - TX Series)",
       "defName": "ATPP_Android2KTX",
-      "enabled": true,
+      "enabled": false,
       "name": "TX2K Android",
       "price": 9167
     },
@@ -65083,7 +65083,7 @@
       },
       "description": "A prototype android (without skin) designed to be used exclusively on the battlefield as heavy infantry, very resistant and inflicts severe melee damage, however quite slow due to its armor and he is unable to perform advanced tasks because of its limited processor essentially optimized for combat.\n(Android tiers - TX Series)",
       "defName": "ATPP_Android2KITX",
-      "enabled": true,
+      "enabled": false,
       "name": "TX2KI Android",
       "price": 9167
     },
@@ -65119,7 +65119,7 @@
       },
       "description": "A serie of TX2 refurbished to be used as infantry on battlefields rather than T2, mainly due to the fear inspired on their organic enemies due to their particular appearance.\n(Android tiers - TX Series)",
       "defName": "ATPP_Android2ITX",
-      "enabled": true,
+      "enabled": false,
       "name": "TX2I Android",
       "price": 5833
     },
@@ -65152,7 +65152,7 @@
       },
       "description": "A serie of TX3 refurbished to be used as infantry on battlefields rather than T3, mainly due to the fear inspired on their organic enemies due to their particular appearance.\n(Android tiers - TX Series)",
       "defName": "ATPP_Android3ITX",
-      "enabled": true,
+      "enabled": false,
       "name": "TX3I Android",
       "price": 9667
     },
@@ -65186,7 +65186,7 @@
       },
       "description": "A serie of TX4 refurbished to be used as infantry on battlefields rather than T4, mainly due to the fear inspired on their organic enemies due to their particular appearance.\n(Android tiers - TX Series)",
       "defName": "ATPP_Android4ITX",
-      "enabled": true,
+      "enabled": false,
       "name": "TX4I Android",
       "price": 11667
     },
@@ -65229,7 +65229,7 @@
       },
       "description": "Mincho is a slime-like race fully comprised of mintchoco ice cream.\n\nICEcRIM Co. created slime using mintchoco flavor ice cream with variant mechanite as an advertisement toy. However, due to an accidental mix-up during the final production stage, the wrong kind of variant, that was supposed to be disposed of due to critical defects, was used.\n\nMincho mimics human beings out of pure affection. They wish the humans to love them and \"consume\" them.\n\nDue to the simplicity of body composition, they are capable of regenerating even severed heads, resilient against diseases, and endures most fatal wounds.\n\nDifferences in the nerve system made them also immune to pain and psychic waves.\n\nHowever, Mincho is not capable of thinking, slow to learn and work, and weak against heat. \n\nWhen they are killed somehow (perhaps by having their core destroyed) they will turn into a lump of mintchoco ice cream.\n(Mincho, The Mint Choco Slime ~ HAR ver.)",
       "defName": "Mincho_ThingDef",
-      "enabled": true,
+      "enabled": false,
       "name": "mincho",
       "price": 3333
     },
@@ -65263,7 +65263,7 @@
       },
       "description": "Genetically modified giant sentient bee-ings. Originally created by humans as a terraforming bio-tool for the proliferation of angiosperms, these flightless bees are found on countless terraformed rimworlds.\n Apini are often wiped out by the point a planet reaches urbworld status. \n They possess some mamalian DNA, such as complex lung structure. Apini will also happily intergrate themselves into human \"hives\" if they feel like they have purpose.\n(Apini Playable Race, Continued!)",
       "defName": "Apini",
-      "enabled": true,
+      "enabled": false,
       "name": "apini",
       "price": 1667
     },
@@ -65297,7 +65297,7 @@
       },
       "description": "An azure offshoot of the Apini, Azuri are simple-minded ravenous insectoids with a swarm like structure. They propagate by laying their eggs in hapless Apini, eventually killing the host bee in the process.\nNoone knows where the Azuri originated from, but it is well known how they spread across the rim. Many an urbworld (with a government based on a basic set of ethics) have reached a level of development where the primitive Apini are an obstruction. However removing them would be considered genocide of sapient beings. To circumvent ethical laws, some leaders will stealthily import live Azuri eggs. \nThe Azuri are like wildfire; they will destroy all Apini hives they come across, hunting down any stragglers. Unfortunately, they do not prepare like Apini, often dying of starvation and cold (usually after they run out of to kill).\n\n“No, that's the beautiful part. When wintertime rolls around, the Azuri simply freeze to death”\n(Apini Playable Race, Continued!)",
       "defName": "Azuri",
-      "enabled": true,
+      "enabled": false,
       "name": "azuri",
       "price": 2500
     },
@@ -65331,7 +65331,7 @@
       },
       "description": "What happens if you want to terraform a planet that has very poor or even no soil? What if there are hostile flora and fauna? The Apini terraform and survive by planting and harvesting flowers. You would need to create a race that was better at fighting and able to use an alternate food source.A more hearty alternative for planets where the Apini can't survive long enough to terraform the planet.And so with a slight change to the Apini DNA, splicing in Vulture/Carrior bee genes, the Necropini were born. Stronger and more resistant than normal Apini, and with the ability to make “meat honey”;the Necropini (or Death Bees) were created to terraform worlds that normal Apini would not survive on.\n(Apini Playable Race, Continued!)",
       "defName": "Necropini",
-      "enabled": true,
+      "enabled": false,
       "name": "necropini",
       "price": 1667
     },
@@ -65359,7 +65359,7 @@
       },
       "description": "Xenohuman race with crystalline skin and brains with a natural affinity for psycasting. Crystalloids have an unknown origin, with only a handful of traits that resemble anything from Earth (Despite the fact many other xenohuman races do). Inhabiting rimworlds on the edges of known space, Crystalloids are typically part of an ominous and mysterious psionic faction called the \"Collective\". Crystalloids can live for an extremely long time.\n(Crystalloid)",
       "defName": "Alien_Crystalloid",
-      "enabled": true,
+      "enabled": false,
       "name": "crystalloid",
       "price": 3333
     },
@@ -65386,7 +65386,7 @@
       },
       "description": "Xenohuman variant race, born from Crystalloids from unknown conditions. Valkyries are a strong, combat oriented, and carnivorous all-female race with the same psionic capabilities as Crystalloids. Valkyries are hated by the Crystalloid Collective, who actively seeks to exterminate them. The ones who flee from the clutches of the Collective often find refuge in human communities.\n(Crystalloid)",
       "defName": "Alien_CrystalValkyrie",
-      "enabled": true,
+      "enabled": false,
       "name": "valkyrie",
       "price": 3333
     },
@@ -65412,7 +65412,7 @@
       },
       "description": "The legacy of a fallen empire, with a distant link to the humanoid races of earth and beyond. Other than the fact that they began to awaken over the past century, no one knows much else about what they are, where they are from or fundamentals behind their technology, which seems to bridge the gap between science and magic.\n(Forsakens)",
       "defName": "Alien_Forsaken",
-      "enabled": true,
+      "enabled": false,
       "name": "forsaken",
       "price": 3167
     },
@@ -65440,7 +65440,7 @@
       },
       "description": "Kijins are ogres who were evolved alikes of humans. Their huge bodies and muscles have shrunk, but the muscles are more dense and stronger. They still have to eat a lot to keep themselves up.\n(Kijin Race 2.0)",
       "defName": "Alien_Kijin",
-      "enabled": true,
+      "enabled": false,
       "name": "Kijin",
       "price": 2500
     },
@@ -65467,7 +65467,7 @@
       },
       "description": "A robust race of fighters, the Logann boast an uncanny regeneration factor.\n(Logann Race (Continued))",
       "defName": "Alien_Wolvx",
-      "enabled": true,
+      "enabled": false,
       "name": "Logann",
       "price": 3333
     },
@@ -65507,7 +65507,7 @@
       },
       "description": "An all-female race of humans spliced with fox genes. Originally, they were Glitterworld designermates from the planet Aolara, but an internal war forced them to leave their homeworld. Now they are spread among the rim.\n(Kurin HAR Edition)",
       "defName": "Kurin_Race",
-      "enabled": true,
+      "enabled": false,
       "name": "Kurin",
       "price": 5833
     },
@@ -65539,7 +65539,7 @@
       },
       "description": "A mutant of the catgirl species that has developed a semblance of intelligence.\n(Monstergirl Races)",
       "defName": "MG_Catgirl",
-      "enabled": true,
+      "enabled": false,
       "name": "Catgirl",
       "price": 2500
     },
@@ -65571,7 +65571,7 @@
       },
       "description": "A mutant of the wolfgirl species that has developed a semblance of intelligence.\n(Monstergirl Races)",
       "defName": "MG_Wolfgirl",
-      "enabled": true,
+      "enabled": false,
       "name": "Wolfgirl",
       "price": 2500
     },
@@ -65603,7 +65603,7 @@
       },
       "description": "A mutant of the foxgirl species that has developed a semblance of intelligence.\n(Monstergirl Races)",
       "defName": "MG_Foxgirl",
-      "enabled": true,
+      "enabled": false,
       "name": "Foxgirl",
       "price": 2500
     },
@@ -65635,7 +65635,7 @@
       },
       "description": "A Cowgirl that has developed a semblance of intelligence.\n(Monstergirl Races)",
       "defName": "MG_Cowgirl",
-      "enabled": true,
+      "enabled": false,
       "name": "Cowgirl",
       "price": 2917
     },
@@ -65667,7 +65667,7 @@
       },
       "description": "A Harpy that has developed a semblance of intelligence.\n(Monstergirl Races)",
       "defName": "MG_Harpy",
-      "enabled": true,
+      "enabled": false,
       "name": "Harpy",
       "price": 2667
     },
@@ -65699,7 +65699,7 @@
       },
       "description": "A mutant accumulation of slimy liquid that has developed a semblance of intelligence.\n(Monstergirl Races)",
       "defName": "MG_Slime",
-      "enabled": true,
+      "enabled": false,
       "name": "Slime",
       "price": 3000
     },
@@ -65731,7 +65731,7 @@
       },
       "description": "A Baphomet that has developed a semblance of intelligence.\n(Monstergirl Races)",
       "defName": "MG_Baphomet",
-      "enabled": true,
+      "enabled": false,
       "name": "Baphomet",
       "price": 3083
     },
@@ -65763,7 +65763,7 @@
       },
       "description": "A Centaur that has developed a semblance of intelligence.\n(Monstergirl Races)",
       "defName": "MG_Centaur",
-      "enabled": true,
+      "enabled": false,
       "name": "Centaur",
       "price": 2917
     },
@@ -65795,7 +65795,7 @@
       },
       "description": "A mutant of the Forest Fairy species that has developed a semblance of intelligence./n A fragile existence that withers in a toxic environment.\n(Monstergirl Races)",
       "defName": "MG_ForestFairy",
-      "enabled": true,
+      "enabled": false,
       "name": "ForestFairy",
       "price": 3000
     },
@@ -65827,7 +65827,7 @@
       },
       "description": "A mutant of the Ice Fairy species that has developed a semblance of intelligence./n A fragile existence that cannot survive warm temperatures.\n(Monstergirl Races)",
       "defName": "MG_IceFairy",
-      "enabled": true,
+      "enabled": false,
       "name": "IceFairy",
       "price": 3000
     },
@@ -65860,7 +65860,7 @@
       },
       "description": "A mutant of the Dragon species that has developed a semblance of intelligence.\n(Monstergirl Races)",
       "defName": "MG_Dragon",
-      "enabled": true,
+      "enabled": false,
       "name": "Dragon",
       "price": 3667
     },
@@ -65893,7 +65893,7 @@
       },
       "description": "A mutant of the Thrumbogirl species that has developed a semblance of intelligence.\n(Monstergirl Races)",
       "defName": "MG_Thrumbogirl",
-      "enabled": true,
+      "enabled": false,
       "name": "Thrumbogirl",
       "price": 3667
     },
@@ -65925,7 +65925,7 @@
       },
       "description": "A small friendly gelatinous being.\nMoonjellies are quick and nimble, and exceptionally skilled with medicine.\nBut be warned, their delicate bodies make them poor combatants and very vulnerable to danger.\n(Moonjelly Race)",
       "defName": "Moonjelly_Race",
-      "enabled": true,
+      "enabled": false,
       "name": "Moonjelly",
       "price": 3333
     },
@@ -65958,7 +65958,7 @@
       },
       "description": "A humanoid race living in cities under the sea. Having traits similar to sea creatures, their blood contains substances that can be used for various medical uses.\n\nDescendants of glitterworld explorers who settled in the deep sea, generations of body modifications has led to their current form. Spreading far and wide into the rim, they built many cities and prospered. Until now.\n(Moyo-From the depth)",
       "defName": "Alien_Moyo",
-      "enabled": true,
+      "enabled": false,
       "name": "Moyo",
       "price": 5333
     },
@@ -65995,7 +65995,7 @@
       },
       "description": "It is a human like a rodent gene. Although the origin is unknown, it is a monarchy society based on agricultural society. There are more female objects than males, and it is difficult to distinguish the gender of the object when viewed from the outside.\n(NewRatkinPlus)",
       "defName": "Ratkin",
-      "enabled": true,
+      "enabled": false,
       "name": "Ratkin",
       "price": 3333
     },
@@ -66033,7 +66033,7 @@
       },
       "description": "It is a human like a rodent gene. Although the origin is unknown, it is a monarchy society based on agricultural society. There are more female objects than males, and it is difficult to distinguish the gender of the object when viewed from the outside.\n(NewRatkinPlus)",
       "defName": "Ratkin_Su",
-      "enabled": true,
+      "enabled": false,
       "name": "Ratkin subject",
       "price": 3333
     },
@@ -66067,7 +66067,7 @@
       },
       "description": "The mysterious horned and feathered humanoid found on some rim worlds, Oni are often sought out by Glitterworlds for their beauty as a sort of exotic pet. Worse still some are kept as livestock for their feathers, pelts and horns, all having pratical and decorative uses. Oni live in temperate areas and rarely employ clothing due to the uncomfortable sensation on their feathered bodies.\n(Oni of the Rim)",
       "defName": "AOni",
-      "enabled": true,
+      "enabled": false,
       "name": "Oni",
       "price": 6000
     },
@@ -66115,7 +66115,7 @@
       },
       "description": "The ancient ancestors of the current Oni that can be found on some rim worlds. They have been mysteriously appearing with no traceable origins, but their descendant race welcomes them into their tribes without question.\n(Oni of the Rim)",
       "defName": "Alien_AncestralAOni",
-      "enabled": true,
+      "enabled": false,
       "name": "Ancestral Oni",
       "price": 9333
     },
@@ -66141,7 +66141,7 @@
       },
       "description": "A bloodthirsty vulpine near-human.\n(Revia Race)",
       "defName": "ReviaRaceAlien",
-      "enabled": true,
+      "enabled": false,
       "name": "Revia",
       "price": 5833
     },
@@ -66196,7 +66196,7 @@
       },
       "description": "A gigantic creature that averages a height of 16 feet. Requires more food and has lower intellects, but the thick skin and sheer mass results in devastating strength.\n(The GiantRace)",
       "defName": "HC_Giant",
-      "enabled": true,
+      "enabled": false,
       "name": "Giant",
       "price": 6333
     },
@@ -66219,7 +66219,7 @@
       },
       "description": "A sentient alien race organized in Hive-like societies.\n(The Mantodean insectoid race)",
       "defName": "Alien_Mantodean",
-      "enabled": true,
+      "enabled": false,
       "name": "Mantodean",
       "price": 833
     },
@@ -66270,7 +66270,7 @@
       },
       "description": "This pawn is automaton designed by PnL Industry.\n(Paniel the Automata)",
       "defName": "Paniel_Race",
-      "enabled": true,
+      "enabled": false,
       "name": "Paniel",
       "price": 3333
     },
@@ -66313,7 +66313,7 @@
       },
       "description": "stuffed by psychene love, sewed by red string.\n\nLittle is known about Luno except that they lives and moves with the energy they call as ‘Lunatic’. Some say they are haunted, others say it was a resurrection of the dead, but they don't talk about their identity. It is possible to turn a common stuffed doll as a Luno by certain acts, but some dolls suddenly became conscious of themselves one day. They are commonly born with their own complex family names, and say it is their father's name. Someone in the rimworld began to call them who were born with this phenomenon as Luno(Luna+Doll), which was literally cemented in their names.\n\n\nLunos eat psychite drugs, inhumane meat, and doll ingredients to fill the hunger. It doesn't seem to them that the side effects of psychite drugs are working. No one knows how they 'eat' it without a digestive system. in addition, no one has seen them excrete, either.\n(Luno by PotatoRamen)",
       "defName": "Race_Luno",
-      "enabled": true,
+      "enabled": false,
       "name": "luno",
       "price": 2167
     },
@@ -66342,7 +66342,7 @@
       },
       "description": "The first in an experimental line of mechadroids designed by a colonist in the inner rim. They use parts of disassembled mechanoids and as such share many of the same strengths and weaknesses. They have since developed their own personalities, settlements and culture, creating more of their kind.\n((O21) Mechadroids)",
       "defName": "O21_Alien_MechadroidAlpha",
-      "enabled": true,
+      "enabled": false,
       "name": "Alpha-Series Mechadroid",
       "price": 2917
     },
@@ -66372,7 +66372,7 @@
       },
       "description": "A later design of Mechadroid, presumed to be created by the Alphas once they developed their own settlements as a means to protect themselves better.\n((O21) Mechadroids)",
       "defName": "O21_Alien_MechadroidDelta",
-      "enabled": true,
+      "enabled": false,
       "name": "Delta-Series Mechadroid",
       "price": 3333
     },
@@ -66405,7 +66405,7 @@
       },
       "description": "A later design of Mechadroid, presumed to be created at some point by the Alphas as a form of leader, or maybe just as a smarter version of themselves to handle their advancement.\n((O21) Mechadroids)",
       "defName": "O21_Alien_MechadroidGamma",
-      "enabled": true,
+      "enabled": false,
       "name": "Gamma-Series Mechadroid",
       "price": 3333
     },
@@ -66427,7 +66427,7 @@
       },
       "description": "The Queen and most important member of any Hive\n(The Human Hive)",
       "defName": "HiveQueen",
-      "enabled": true,
+      "enabled": false,
       "name": "Hive Queen",
       "price": 10000
     },
@@ -66451,7 +66451,7 @@
       },
       "description": "A small creature, about half the size of a normal human, and very weak. They are, however, very cheap and easy to maintain\n(The Human Hive)",
       "defName": "Hivelet",
-      "enabled": true,
+      "enabled": false,
       "name": "Hivelet",
       "price": 167
     },
@@ -66474,7 +66474,7 @@
       },
       "description": "A standard, baseline Hive creature. Very similar to a human\n(The Human Hive)",
       "defName": "Hiveling",
-      "enabled": true,
+      "enabled": false,
       "name": "Hiveling",
       "price": 333
     },
@@ -66499,7 +66499,7 @@
       },
       "description": "Something went wrong when creating this creature, and now its filled with volitile chemicals, which cause this creature to explode when it dies. They also have a faster move speed than regular hivelings, making for perfect suicide units. However, due to being full of toxic chemicals, they are fragile, get ill easily and dont heal very fast.\n(The Human Hive)",
       "defName": "Nukelet",
-      "enabled": true,
+      "enabled": false,
       "name": "Boomlet",
       "price": 167
     },
@@ -66547,7 +66547,7 @@
       },
       "description": "Quickly made unstable violet creatures, unable to eat and will easily starve, causing an explosion upon death\n(The Human Hive)",
       "defName": "Unstablet",
-      "enabled": true,
+      "enabled": false,
       "name": "Unstablet",
       "price": 17
     },
@@ -66573,7 +66573,7 @@
       },
       "description": "By augmenting a hiveling at an early stage with steel and plasteel, it is tranformed into an exceptionally deadly Warriorling\n(The Human Hive)",
       "defName": "Warriorling",
-      "enabled": true,
+      "enabled": false,
       "name": "Warriorling",
       "price": 1333
     },
@@ -66596,7 +66596,7 @@
       },
       "description": "Minotaurs are giant humanoids with fur-covered bodies and bull-like heads. Minotaurs are surprisingly carnivores. They love to dwell within maze-like caverns or ruins, where their innate sense of direction prevented them from getting lost. They lure travelers into their ruins where they have an advantage over their unfortunate victims.\n(Forgotten Realms - Minotaur)",
       "defName": "FR_Alien_Minotaur",
-      "enabled": true,
+      "enabled": false,
       "name": "Minotaur",
       "price": 3583
     },
@@ -66631,7 +66631,7 @@
       },
       "description": "A vat-grown underling created by the Folia to act as guards and raiders.\nVery combat proficient, these fungal organisms' toxic touch lets them defeat even strong foes in hand-to-hand combat.\nTheir skill in any other labor, however, leave much to be desired.\n+ Shooting Accuracy and Speed \n+Dodge Change\n+ No food debuffs\n+ Fast injury recovery\n- very slow worker\n(Folia Race)",
       "defName": "Deathkap_Race",
-      "enabled": true,
+      "enabled": false,
       "name": "Deathkap",
       "price": 3333
     },
@@ -66658,7 +66658,7 @@
       },
       "description": "One of the regal and imposing Folia. Their plant-infused DNA lets them thrive in harsh temperatures and suppliment their diet with sunlight.\nThese xenohumans deign to involve themselves in hard labour, preferring to delegate tasks to their vat-grown underlings.\n+ Great at trade deals\n+ Low food needs\n+ Access to tech to grow worker units\n~ Huge social imapact\n- often unwilling to do many work types\n(Folia Race)",
       "defName": "Folia_Race",
-      "enabled": true,
+      "enabled": false,
       "name": "Folia",
       "price": 3333
     },
@@ -66687,7 +66687,7 @@
       },
       "description": "A vat-grown underling created by the Folia to perform menial tasks.\nSlow learning, yet hard working and hardy, these plant-based grunts are effective workers.\n+ Bonus work speed\n+ low break threshold\n- Slow learning\n- Dumb\n(Folia Race)",
       "defName": "Potatoid_Race",
-      "enabled": true,
+      "enabled": false,
       "name": "Potatoid",
       "price": 3333
     },
@@ -66726,7 +66726,7 @@
       },
       "description": "A subspecies of the Moyo race, usually babies born after a Moyo is fertilized by a creature infected with the deep-sea virus. And because the symbiotic virus affects, most of them have strange personalities, but not intrinsically bad.\n(Moyo-Light in the Abyss)",
       "defName": "Alien_RedMoyo",
-      "enabled": true,
+      "enabled": false,
       "name": "Red Moyo",
       "price": 5333
     },
@@ -66766,7 +66766,7 @@
       },
       "description": "A basic mechanent, or a \"human-class mechanoid\". Often used by glitterworld societies or advanced urbworlds as a menial labor force - they are capable of sub-sentience and certain emotions. Their creation is illegal on some core-worlds.\n\nBeing mechanical in nature - mechanents do not need to rest, and just like mechanoids, they can be susceptible to psychic tampering.\n(Rim-Robots!)",
       "defName": "Mechanent",
-      "enabled": true,
+      "enabled": false,
       "name": "mechanent",
       "price": 7500
     },
@@ -66809,7 +66809,7 @@
       },
       "description": "The vessel of an AI persona. A relatively new creation originating from advanced glitterworld laboratories - they have all the capabilities of a baseline human. They are illegal on most planets, due to fearing the potential of such advanced AI - because of this most try to hide from society and pass as normal humans.\n\nDespite being synthetic in nature - personae still need to rest, but they don't need fuel - being able to last for years on their internal reactor without refueling, and they can heal internal damage due to lattice dust distribution systems. They can experience everything from psychic tampering, to complex emotions.\n(Rim-Robots!)",
       "defName": "Personae_",
-      "enabled": true,
+      "enabled": false,
       "name": "persona",
       "price": 9167
     },
@@ -66854,7 +66854,7 @@
       },
       "description": "The Half-Dragons have been a space faring race for quite a long time, contrary to popular belief these noble yet somewhat savage folk are not genetically engineered. They are easily spotted by their physical differences with humans thanks to their colorful scales, draconic eyes, horns and even tails! Thanks to their physical differences and strong scales people of this race proved themselves to be excellent melee combatants. It was easy to find them serving various empires outside of their own as front line fighters.\n\n      Sadly due to their hardy nature and exotic looks many Half-Dragons end up captured and forced into gladiatorial combat. There are other reasons they are highly sought after; unique biological traits that are wholly unique to them. One of which allows to combine a specialized ore with their blood that activates various powerful abilities.\n\n      A point of debate of many scholars is how such a openly savage race had made it to spaceflight, much less a force that roams about the galaxy. This is in large part thanks to a rare sub group of Half-Dragons that lead their kind in political, cultural and scientific endeavors. These \"albino's\" are almost the polar opposites of their more common brutish brethren. Despite a strong imperial nation and a sense of loyalty to their own, those that find themselves able to escape their gladiatorial slavery often form up as pirates. These pirates tend to be ruthless and a general nuisance in the galaxy.\n(Half dragons)",
       "defName": "HalfDragon",
-      "enabled": true,
+      "enabled": false,
       "name": "Half-Dragon",
       "price": 5000
     },
@@ -66906,7 +66906,7 @@
       },
       "description": "Not yet a skeleton, something woke it up too early. Its mind is fuzzy but its will is strong.\n(Wa! Skeleton! (Continued))",
       "defName": "DRSKT_Race_Zombie",
-      "enabled": true,
+      "enabled": false,
       "name": "Zombie",
       "price": 2167
     },
@@ -66964,7 +66964,7 @@
       },
       "description": "Yuran is an Ain race with the appearance of a rabbit, and its origin is not known precisely.\nAs a minority race with a small population, there are genetic problems and males do not exist. It continues.\nCentering on the Miko with special abilities that are passed on through blood lineage, they live in a small village-sized village and have faith in the large cherry tree in their hometown.\n(Yuran race)",
       "defName": "Yuran_Race",
-      "enabled": true,
+      "enabled": false,
       "name": "Yuran",
       "price": 2000
     },
@@ -67022,7 +67022,7 @@
       },
       "description": "Miko serves and manages the village as a kind of duty for Yuran belonging to a family of special lineage.\n(Yuran race)",
       "defName": "Yuran_Race_Miko",
-      "enabled": true,
+      "enabled": false,
       "name": "Yuran Miko",
       "price": 2000
     },
@@ -67044,7 +67044,7 @@
       },
       "description": "The Andorians were a warp-capable humanoid species from the moon Andoria, capital of the Andorian Empire, in the Alpha Quadrant. In 2161, their homeworld became a founding member of the United Federation of Planets.",
       "defName": "O21_Trek_Andorian",
-      "enabled": true,
+      "enabled": false,
       "name": "Andorian",
       "price": 2917
     },
@@ -67066,7 +67066,7 @@
       },
       "description": "The Bajorans (also known as the \"Bajora\") were a humanoid species native to the planet Bajor in the Alpha Quadrant. The Bajorans had one of the oldest and richest cultures in the quadrant, though in the 24th century, they suffered greatly at the hands of the Cardassian Union. With their liberation from the Cardassians and the discovery of the Bajoran wormhole in 2369, the Bajorans were thrust onto the interstellar stage.",
       "defName": "O21_Trek_Bajoran",
-      "enabled": true,
+      "enabled": false,
       "name": "Bajoran",
       "price": 2917
     },
@@ -67088,7 +67088,7 @@
       },
       "description": "The Bolians were a humanoid species who were native to the planet Bolarus IX.",
       "defName": "O21_Trek_Bolian",
-      "enabled": true,
+      "enabled": false,
       "name": "Bolian",
       "price": 2917
     },
@@ -67110,7 +67110,7 @@
       },
       "description": "The Cardassians were a humanoid species from the Alpha Quadrant. They were native to the planet Cardassia Prime, capital world of the Cardassian Union. Known throughout the Alpha Quadrant for being extremely ruthless, the Cardassians became one of the greatest enemies of the United Federation of Planets and the Klingon Empire, when the Cardassian Union joined the Dominion in 2373. Cardassians had a xenophobic attitude towards other species, which was well established throughout the quadrant after the Setlik III massacre during the Cardassian Border Wars, as well as when Cardassian atrocities during the Occupation of Bajor were revealed after they withdrew from the planet Bajor in 2369.",
       "defName": "O21_Trek_Cardassian",
-      "enabled": true,
+      "enabled": false,
       "name": "Cardassian",
       "price": 2917
     },
@@ -67132,7 +67132,7 @@
       },
       "description": "The Klingons (tlhIngan in Klingonese) were a humanoid warrior species that originated from the planet Qo'noS (pronounced Kronos), an M-class planet in the Beta Quadrant. One of the major powers of the galaxy, the Klingons were a proud, tradition-bound people who valued honor and combat. The aggressive Klingon culture had made them an interstellar military power to be respected and feared.",
       "defName": "O21_Trek_Klingon",
-      "enabled": true,
+      "enabled": false,
       "name": "Klingon",
       "price": 2917
     },
@@ -67154,7 +67154,7 @@
       },
       "description": "The Orions were a warp-capable humanoid species from the Alpha Quadrant. This species originated from the planet Orion.",
       "defName": "O21_Trek_Orion",
-      "enabled": true,
+      "enabled": false,
       "name": "Orion",
       "price": 2917
     },
@@ -67176,7 +67176,7 @@
       },
       "description": "The Romulans were a humanoid race from the planet Romulus. The Romulans were biological cousins of Vulcans, descended from those who rejected Surak's reforms during the Time of Awakening. By the 24th century, the Romulan Star Empire was one of the major powers in the galaxy. After a supernova destroyed the Romulan sun, a Romulan Free State existed.",
       "defName": "O21_Trek_Romulan",
-      "enabled": true,
+      "enabled": false,
       "name": "Romulan",
       "price": 2917
     },
@@ -67198,7 +67198,7 @@
       },
       "description": "The Trill, or Trills, were a humanoid species native to the planet Trill. A small percentage of the Trill population co-existed with a sentient symbiotic organism known as a symbiont inside their bodies. The resulting joined Trills had personalities which were a synthesis of the two beings including the memories, and to some extent the personalities, of the previous hosts of the symbiont. This way, the joined being gained all the skills and occupations of the previous hosts. As late as 2367, the fact that some Trills exist as a joined symbiotic species was widely unknown, even to Federation scientists.",
       "defName": "O21_Trek_Trill",
-      "enabled": true,
+      "enabled": false,
       "name": "Trill",
       "price": 2917
     },
@@ -67220,7 +67220,7 @@
       },
       "description": "The Vulcans, or Vulcanians, were a warp-capable humanoid species from the planet Vulcan. They were widely renowned for their strict adherence to logic and reason as well as their remarkable stoicism.\nIn 2161, their homeworld became a founding member of the United Federation of Planets. Vulcans were known by the Borg as Species 3259.",
       "defName": "O21_Trek_Vulcan",
-      "enabled": true,
+      "enabled": false,
       "name": "Vulcan",
       "price": 2917
     },
@@ -67245,7 +67245,7 @@
       },
       "description": "A race of humanoids that resemble spiders and are typically found in the Underdark.\n(Forgotten Realms)",
       "defName": "O21_FR_Chitine",
-      "enabled": true,
+      "enabled": false,
       "name": "Chitine",
       "price": 3333
     },
@@ -67269,7 +67269,7 @@
       },
       "description": "Drow, also known as dark elves, deep elves, night elves, or sometimes \"The Ones Who Went Below\" on the surface, were a dark-skinned sub-race of elves that predominantly lived in the Underdark. They were hated and feared due to their cruelty, though some non-evil and an even smaller number of good drow existed.\n(Forgotten Realms)",
       "defName": "O21_FR_DarkElf",
-      "enabled": true,
+      "enabled": false,
       "name": "Dark Elf",
       "price": 3333
     },
@@ -67292,7 +67292,7 @@
       },
       "description": "Dwarves, sometimes called the Stout Folk, were a natural humanoid race common throughout parts of Toril as well as Abeir. Dwarves were a tough, tradition-abiding folk known for their strong martial traditions and beautiful craftsmanship.\n(Forgotten Realms)",
       "defName": "O21_FR_Dwarf",
-      "enabled": true,
+      "enabled": false,
       "name": "Dwarf",
       "price": 2917
     },
@@ -67317,7 +67317,7 @@
       },
       "description": "A race of reclusive giant-kin, usually they prefer to avoid contact with other sentient races making them a very rare sight.\n(Forgotten Realms)",
       "defName": "O21_FR_Firbolg",
-      "enabled": true,
+      "enabled": false,
       "name": "Firbolg",
       "price": 3333
     },
@@ -67340,7 +67340,7 @@
       },
       "description": "The gith were a race of humanoids who had been enslaved by mind flayers for countless generations. Some sages claimed that they were once descended from humans, while others maintained that their original race was in fact unknown. After breaking free from their enslavement, philosophical differences led to a bitter internal conflict, which divided the gith into two main different races at constant odds with each other: the githyanki and the githzerai.\n(Forgotten Realms)",
       "defName": "O21_FR_Gith",
-      "enabled": true,
+      "enabled": false,
       "name": "Gith",
       "price": 3333
     },
@@ -67364,7 +67364,7 @@
       },
       "description": "Goblins were a race of small and numerous goblinoids common throughout Toril, often living in underground caverns near the surface known as lairs. The race was often, though not always, dominated by other goblinoids, most commonly hobgoblins. Goblins may have, in fact, been initially created by this related race to serve as scouts and infiltrators.\n(Forgotten Realms)",
       "defName": "O21_FR_Goblin",
-      "enabled": true,
+      "enabled": false,
       "name": "Goblin",
       "price": 3333
     },
@@ -67388,7 +67388,7 @@
       },
       "description": "Also known as Hin, or the \"quick folk\" amongst themselves, Halflings are small humanoid creatures, very similar in appearance to Humans, but around half their size.\n(Forgotten Realms)",
       "defName": "O21_FR_Halfling",
-      "enabled": true,
+      "enabled": false,
       "name": "Halfling",
       "price": 2917
     },
@@ -67411,7 +67411,7 @@
       },
       "description": "Half-orcs were humanoids born of both human and orc ancestry by a multitude of means. Having the combined physical power of their orcish ancestors with the agility of their humans ones, half-orcs were formidable individuals. Though they were often shunned in both human and orcish society for different reasons, half-orcs have proven themselves from time to time as worthy heroes and dangerous villains. Their existence implied an interesting backstory that most would not like to dwell on.\n(Forgotten Realms)",
       "defName": "O21_FR_HalfOrc",
-      "enabled": true,
+      "enabled": false,
       "name": "Half-Orc",
       "price": 3333
     },
@@ -67435,7 +67435,7 @@
       },
       "description": "Hobgoblins are a larger, stronger, smarter, and more menacing form of goblinoids than goblins, but not as powerful as bugbears. It is believed they may have created the latter two races.\n(Forgotten Realms)",
       "defName": "O21_FR_Hobgoblin",
-      "enabled": true,
+      "enabled": false,
       "name": "Hobgoblin",
       "price": 3333
     },
@@ -67459,7 +67459,7 @@
       },
       "description": "Illithids or \"Mind Flayers\" were humanoid in appearance but with an octopus-like, ridged head with four tentacles surrounding a lamprey-like mouth. They were warm-blooded amphibians, whose blood had a silvery-white color.\n\nTheir hands had long, reddish fingers and lacked the index finger, and their feet were two-toed and webbed. Illithid eyes were extremely sensitive to bright light, and they considered it painful, a characteristic that some githyanki scholars attributed to the fact that their alien anatomy focused light in a strange way. Their vision was also more sensitive to the recognition of geometric patterns than that of other humanoids.\n(Forgotten Realms)",
       "defName": "O21_FR_Illithid",
-      "enabled": true,
+      "enabled": false,
       "name": "Illithid",
       "price": 3333
     },
@@ -67482,7 +67482,7 @@
       },
       "description": "Killoren were a relatively new and uncommon race of fey. It was unknown whether they were created by a deity or were spontaneously created by nature itself.\n(Forgotten Realms)",
       "defName": "O21_FR_Killoren",
-      "enabled": true,
+      "enabled": false,
       "name": "Killoren",
       "price": 3333
     },
@@ -67509,7 +67509,7 @@
       },
       "description": "Aggressive, xenophobic, yet industrious small humanoid creatures, kobolds are noted for their skill at building traps and preparing ambushes.\n(Forgotten Realms)",
       "defName": "O21_FR_Kobold",
-      "enabled": true,
+      "enabled": false,
       "name": "Kobold",
       "price": 2500
     },
@@ -67533,7 +67533,7 @@
       },
       "description": "Moon elves, also known as Teu-tel-quessir in the elven language or as silver elves, were the most common of all the elven subraces. More tolerant of humans than other elves, moon elves were the ancestors of most half-elves.\n(Forgotten Realms)",
       "defName": "O21_FR_MoonElf",
-      "enabled": true,
+      "enabled": false,
       "name": "Moon Elf",
       "price": 3333
     },
@@ -67555,7 +67555,7 @@
       },
       "description": "Orcs were a race of humanoids that had been a threat to the civilized cultures of Toril, particularly Faerûn, for as long as any could remember. This changed somewhat in the years preceding and immediately after the Spellplague, when a horde of mountain orcs under the command of King Obould Many-Arrows unified into a single kingdom, one that was remarkably civilized.\n(Forgotten Realms)",
       "defName": "O21_FR_Orc",
-      "enabled": true,
+      "enabled": false,
       "name": "Orc",
       "price": 3333
     },
@@ -67582,7 +67582,7 @@
       },
       "description": "The sun elves, also sometimes known as gold elves, sometimes as high elves due to their stereotypically elitist ways, and Ar-tel-quessir in their own language were a subrace of high elves historically rare in Faerûn due to the Retreat, in which the majority abandoned the continent for Evermeet, although during the Era of Upheaval they began returning to the mainland. Haughty and arrogant, sun elves typically felt themselves superior to most other races, including other Tel-quessir.\n(Forgotten Realms)",
       "defName": "O21_FR_SunElf",
-      "enabled": true,
+      "enabled": false,
       "name": "Sun Elf",
       "price": 3333
     },
@@ -67605,7 +67605,7 @@
       },
       "description": "Tabaxi also known as jaguar people or cat-men, were a race of feline humanoids native to the jungles of Maztica.\n(Forgotten Realms)",
       "defName": "O21_FR_Tabaxi",
-      "enabled": true,
+      "enabled": false,
       "name": "Tabaxi",
       "price": 3333
     },
@@ -67630,7 +67630,7 @@
       },
       "description": "Tieflings were human-based planetouched, native outsiders that were infused with the touch of the fiendish planes, most often through descent from fiends—demons, Yugoloths, devils, evil deities, and others who had bred with humans. Tieflings were known for their cunning and personal allure, which made them excellent deceivers as well as inspiring leaders when prejudices were laid aside.\n(Forgotten Realms)",
       "defName": "O21_FR_Tiefling",
-      "enabled": true,
+      "enabled": false,
       "name": "Tiefling",
       "price": 3333
     },
@@ -67660,7 +67660,7 @@
       },
       "description": "The warforged were built to fight in the Last War. The first warforged were mindless automatons, but House Cannith devoted vast resources to improving these steel soldiers. An unexpected breakthrough produced fully sentient soldiers, blending organic and inorganic materials. Warforged are made from wood and metal, but they can feel pain and emotion. Built as weapons, they must now find a purpose beyond the war. A warforged can be a steadfast ally, a cold-hearted killing machine, or a visionary in search of purpose and meaning.\n(Forgotten Realms)",
       "defName": "O21_FR_Warforged",
-      "enabled": true,
+      "enabled": false,
       "name": "Warforged",
       "price": 4167
     },
@@ -67684,7 +67684,7 @@
       },
       "description": "Wood elves, also known as copper elves, or Or-tel-quessir were the most populous of the elven races. Wood elves saw themselves as guardians of the Tel-quessir forest homes that were largely abandoned after the Crown Wars and before the Retreat, but unlike most elves they did not view themselves as a people apart from the rest of Faerûn.\n(Forgotten Realms)",
       "defName": "O21_FR_WoodElf",
-      "enabled": true,
+      "enabled": false,
       "name": "Wood Elf",
       "price": 3333
     },
@@ -67706,7 +67706,7 @@
       },
       "description": "A large ape like race, prone to aggression and displays of strength.",
       "defName": "O21_Halo_Brute",
-      "enabled": true,
+      "enabled": false,
       "name": "Brute",
       "price": 2917
     },
@@ -67728,7 +67728,7 @@
       },
       "description": "A saurian race known for their honor and prowess as warriors.",
       "defName": "O21_Halo_Elite",
-      "enabled": true,
+      "enabled": false,
       "name": "Elite",
       "price": 2917
     },
@@ -67750,7 +67750,7 @@
       },
       "description": "An short statured intelligent and cowardly race often seen as outwardly unintelligent due to their hyperactive temperment.",
       "defName": "O21_Halo_Grunt",
-      "enabled": true,
+      "enabled": false,
       "name": "Grunt",
       "price": 2917
     },
@@ -67772,7 +67772,7 @@
       },
       "description": "An avian/reptile race with incredible eyesight and weak bodies.",
       "defName": "O21_Halo_Jackal",
-      "enabled": true,
+      "enabled": false,
       "name": "Jackal",
       "price": 2917
     }

@@ -39,7 +39,7 @@
     "author": "jecrell and contributors",
     "name": "JecsTools (Unofficial)",
     "steamId": "2195729899",
-    "version": "1.3.0.3"
+    "version": "1.3.0.4"
   },
   {
     "author": "Vectorial1024",
@@ -261,7 +261,7 @@
     "author": "Neronix17",
     "name": "Tabula Rasa",
     "steamId": "1660622094",
-    "version": "2.5.8240.19075"
+    "version": "2.5.8254.23319"
   },
   {
     "author": "Sam",
@@ -2530,18 +2530,6 @@
     "name": "[LTS]Maintenance",
     "steamId": "2803673873",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "LimeTreeSnake",
-    "name": "[LTS]Ammunition - Framework",
-    "steamId": "2803605634",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "LimeTreeSnake",
-    "name": "[LTS]Ammo",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "explodoboy",

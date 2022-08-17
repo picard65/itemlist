@@ -50065,12 +50065,6 @@
 		"defname": "Oni_Kurabu"
 	},
 	{
-		"abr": "onimeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_AOni"
-	},
-	{
 		"abr": "onipelt",
 		"price": 12,
 		"category": "Leathers",
@@ -52823,7 +52817,643 @@
 		"price": 4333,
 		"category": "Manufactured",
 		"defname": "YR_PsychicAmplifier_Evol"
+	},
+	{
+		"abr": "ammunitionbench",
+		"price": 216,
+		"category": "Production",
+		"defname": "LTS_AmmunitionBench"
+	},
+	{
+		"abr": "arcanetome:bookofgodcat",
+		"price": 5500,
+		"category": "Skill books",
+		"defname": "BookOfGodcat"
+	},
+	{
+		"abr": "archotechammo",
+		"price": 2,
+		"category": "Ammunition",
+		"defname": "AmmoArchotech"
+	},
+	{
+		"abr": "combatstyle:bushido",
+		"price": 4292,
+		"category": "Skill books",
+		"defname": "BookOfBushido"
+	},
+	{
+		"abr": "cosmicserum",
+		"price": 150,
+		"category": "Skill books",
+		"defname": "EBF_CosmicSerum"
+	},
+	{
+		"abr": "cyberneticarm",
+		"price": 2233,
+		"category": "Сybernetic",
+		"defname": "WVC_CyberneticArm"
+	},
+	{
+		"abr": "cyberneticdrillarm",
+		"price": 2233,
+		"category": "Сybernetic",
+		"defname": "WVC_CyberneticDrillArm"
+	},
+	{
+		"abr": "cyberneticear",
+		"price": 1142,
+		"category": "Сybernetic",
+		"defname": "WVC_CyberneticEar"
+	},
+	{
+		"abr": "cyberneticeye",
+		"price": 1508,
+		"category": "Сybernetic",
+		"defname": "WVC_CyberneticEye"
+	},
+	{
+		"abr": "cyberneticheart",
+		"price": 2142,
+		"category": "Сybernetic",
+		"defname": "WVC_CyberneticHeart"
+	},
+	{
+		"abr": "cyberneticjaw",
+		"price": 1525,
+		"category": "Сybernetic",
+		"defname": "WVC_CyberneticJaw"
+	},
+	{
+		"abr": "cybernetickidney",
+		"price": 1875,
+		"category": "Сybernetic",
+		"defname": "WVC_CyberneticKidney"
+	},
+	{
+		"abr": "cyberneticleg",
+		"price": 2250,
+		"category": "Сybernetic",
+		"defname": "WVC_CyberneticLeg"
+	},
+	{
+		"abr": "cyberneticliver",
+		"price": 1883,
+		"category": "Сybernetic",
+		"defname": "WVC_CyberneticLiver"
+	},
+	{
+		"abr": "cyberneticlung",
+		"price": 1842,
+		"category": "Сybernetic",
+		"defname": "WVC_CyberneticLung"
+	},
+	{
+		"abr": "cyberneticnose",
+		"price": 1100,
+		"category": "Сybernetic",
+		"defname": "WVC_CyberneticNose"
+	},
+	{
+		"abr": "cyberneticsilentjaw",
+		"price": 1525,
+		"category": "Сybernetic",
+		"defname": "WVC_CyberneticSilentJaw"
+	},
+	{
+		"abr": "cyberneticspine",
+		"price": 2192,
+		"category": "Сybernetic",
+		"defname": "WVC_CyberneticSpine"
+	},
+	{
+		"abr": "cyberneticstomach",
+		"price": 1858,
+		"category": "Сybernetic",
+		"defname": "WVC_CyberneticStomach"
+	},
+	{
+		"abr": "cybernetictail",
+		"price": 1883,
+		"category": "Сybernetic",
+		"defname": "WVC_CyberneticTail"
+	},
+	{
+		"abr": "cybernetictongue",
+		"price": 733,
+		"category": "Сybernetic",
+		"defname": "WVC_CyberneticTongue"
+	},
+	{
+		"abr": "darkstalker",
+		"price": 3325,
+		"category": "Melee",
+		"defname": "DarkStalker"
+	},
+	{
+		"abr": "dlunum",
+		"price": 3,
+		"category": "Exotic alloys",
+		"defname": "WVC_Resource_Dlunum"
+	},
+	{
+		"abr": "dlunumscarab",
+		"price": 350,
+		"category": "Animal",
+		"defname": "Bug_WVC_Resource_Dlunum"
+	},
+	{
+		"abr": "experimentalbionicarm",
+		"price": 2067,
+		"category": "Experimental bionic",
+		"defname": "WVC_AdvancedBionicArm"
+	},
+	{
+		"abr": "experimentalbionicdrillarm",
+		"price": 2067,
+		"category": "Experimental bionic",
+		"defname": "WVC_AdvancedBionicDrillArm"
+	},
+	{
+		"abr": "experimentalbionicear",
+		"price": 975,
+		"category": "Experimental bionic",
+		"defname": "WVC_AdvancedBionicEar"
+	},
+	{
+		"abr": "experimentalbioniceye",
+		"price": 1342,
+		"category": "Experimental bionic",
+		"defname": "WVC_AdvancedBionicEye"
+	},
+	{
+		"abr": "experimentalbionicheart",
+		"price": 1975,
+		"category": "Experimental bionic",
+		"defname": "WVC_AdvancedBionicHeart"
+	},
+	{
+		"abr": "experimentalbionicjaw",
+		"price": 1350,
+		"category": "Experimental bionic",
+		"defname": "WVC_AdvancedBionicJaw"
+	},
+	{
+		"abr": "experimentalbionickidney",
+		"price": 1700,
+		"category": "Experimental bionic",
+		"defname": "WVC_AdvancedBionicKidney"
+	},
+	{
+		"abr": "experimentalbionicleg",
+		"price": 2083,
+		"category": "Experimental bionic",
+		"defname": "WVC_AdvancedBionicLeg"
+	},
+	{
+		"abr": "experimentalbionicliver",
+		"price": 1717,
+		"category": "Experimental bionic",
+		"defname": "WVC_AdvancedBionicLiver"
+	},
+	{
+		"abr": "experimentalbioniclung",
+		"price": 1675,
+		"category": "Experimental bionic",
+		"defname": "WVC_AdvancedBionicLung"
+	},
+	{
+		"abr": "experimentalbionicnose",
+		"price": 933,
+		"category": "Experimental bionic",
+		"defname": "WVC_AdvancedBionicNose"
+	},
+	{
+		"abr": "experimentalbionicsilentjaw",
+		"price": 1350,
+		"category": "Experimental bionic",
+		"defname": "WVC_AdvancedBionicSilentJaw"
+	},
+	{
+		"abr": "experimentalbionicspine",
+		"price": 2017,
+		"category": "Experimental bionic",
+		"defname": "WVC_AdvancedBionicSpine"
+	},
+	{
+		"abr": "experimentalbionicstomach",
+		"price": 1683,
+		"category": "Experimental bionic",
+		"defname": "WVC_AdvancedBionicStomach"
+	},
+	{
+		"abr": "experimentalbionictail",
+		"price": 1717,
+		"category": "Experimental bionic",
+		"defname": "WVC_AdvancedBionicTail"
+	},
+	{
+		"abr": "experimentalbionictongue",
+		"price": 567,
+		"category": "Experimental bionic",
+		"defname": "WVC_AdvancedBionicTongue"
+	},
+	{
+		"abr": "explosiveammo",
+		"price": 1,
+		"category": "Ammunition",
+		"defname": "AmmoExplosive"
+	},
+	{
+		"abr": "feeolik",
+		"price": 3,
+		"category": "Exotic alloys",
+		"defname": "WVC_Resource_Feeolik"
+	},
+	{
+		"abr": "feeolikscarab",
+		"price": 317,
+		"category": "Animal",
+		"defname": "Bug_WVC_Resource_Feeolik"
+	},
+	{
+		"abr": "glorms",
+		"price": 4,
+		"category": "Exotic alloys",
+		"defname": "WVC_Resource_Glorms"
+	},
+	{
+		"abr": "glormsscarab",
+		"price": 367,
+		"category": "Animal",
+		"defname": "Bug_WVC_Resource_Glorms"
+	},
+	{
+		"abr": "goglu",
+		"price": 3,
+		"category": "Exotic alloys",
+		"defname": "WVC_Resource_Goglu"
+	},
+	{
+		"abr": "gogluscarab",
+		"price": 283,
+		"category": "Animal",
+		"defname": "Bug_WVC_Resource_Goglu"
+	},
+	{
+		"abr": "grelenum",
+		"price": 3,
+		"category": "Exotic alloys",
+		"defname": "WVC_Resource_Grelenum"
+	},
+	{
+		"abr": "grelenumscarab",
+		"price": 267,
+		"category": "Animal",
+		"defname": "Bug_WVC_Resource_Grelenum"
+	},
+	{
+		"abr": "heaven'sgate",
+		"price": 2725,
+		"category": "Melee",
+		"defname": "HeavenGate"
+	},
+	{
+		"abr": "industrialammo",
+		"price": 1,
+		"category": "Ammunition",
+		"defname": "AmmoIndustrial"
+	},
+	{
+		"abr": "largekit",
+		"price": 212,
+		"category": "Kits",
+		"defname": "LTS_KitLarge"
+	},
+	{
+		"abr": "lovium",
+		"price": 5,
+		"category": "Exotic alloys",
+		"defname": "WVC_Resource_Lovium"
+	},
+	{
+		"abr": "loviumscarab",
+		"price": 517,
+		"category": "Animal",
+		"defname": "Bug_WVC_Resource_Lovium"
+	},
+	{
+		"abr": "medievalammo",
+		"price": 1,
+		"category": "Ammunition",
+		"defname": "AmmoMedieval"
+	},
+	{
+		"abr": "mediumkit",
+		"price": 142,
+		"category": "Kits",
+		"defname": "LTS_KitMedium"
+	},
+	{
+		"abr": "mirzelium",
+		"price": 4,
+		"category": "Exotic alloys",
+		"defname": "WVC_Resource_Mirzelium"
+	},
+	{
+		"abr": "mirzeliumscarab",
+		"price": 450,
+		"category": "Animal",
+		"defname": "Bug_WVC_Resource_Mirzelium"
+	},
+	{
+		"abr": "monet",
+		"price": 3,
+		"category": "Exotic alloys",
+		"defname": "WVC_Resource_Monet"
+	},
+	{
+		"abr": "monetscarab",
+		"price": 267,
+		"category": "Animal",
+		"defname": "Bug_WVC_Resource_Monet"
+	},
+	{
+		"abr": "pinkush",
+		"price": 3,
+		"category": "Exotic alloys",
+		"defname": "WVC_Resource_Pinkush"
+	},
+	{
+		"abr": "pinkushscarab",
+		"price": 283,
+		"category": "Animal",
+		"defname": "Bug_WVC_Resource_Pinkush"
+	},
+	{
+		"abr": "piratehat",
+		"price": 94,
+		"category": "Headgear",
+		"defname": "EBF_PirateHat"
+	},
+	{
+		"abr": "primitiveammo",
+		"price": 1,
+		"category": "Ammunition",
+		"defname": "AmmoPrimitive"
+	},
+	{
+		"abr": "pururum",
+		"price": 2,
+		"category": "Exotic alloys",
+		"defname": "WVC_Resource_Pururum"
+	},
+	{
+		"abr": "pururumscarab",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Bug_WVC_Resource_Pururum"
+	},
+	{
+		"abr": "redil",
+		"price": 4,
+		"category": "Exotic alloys",
+		"defname": "WVC_Resource_Redil"
+	},
+	{
+		"abr": "redilscarab",
+		"price": 433,
+		"category": "Animal",
+		"defname": "Bug_WVC_Resource_Redil"
+	},
+	{
+		"abr": "repulsorfieldgenerator",
+		"price": 1008,
+		"category": "Utility",
+		"defname": "XFMParmor_AntiMParmor_ShieldSpawner"
+	},
+	{
+		"abr": "seeslim",
+		"price": 4,
+		"category": "Exotic alloys",
+		"defname": "WVC_Resource_Seeslim"
+	},
+	{
+		"abr": "seeslimscarab",
+		"price": 417,
+		"category": "Animal",
+		"defname": "Bug_WVC_Resource_Seeslim"
+	},
+	{
+		"abr": "skilum",
+		"price": 3,
+		"category": "Exotic alloys",
+		"defname": "WVC_Resource_Skilum"
+	},
+	{
+		"abr": "skilumscarab",
+		"price": 267,
+		"category": "Animal",
+		"defname": "Bug_WVC_Resource_Skilum"
+	},
+	{
+		"abr": "smallkit",
+		"price": 73,
+		"category": "Kits",
+		"defname": "LTS_KitSmall"
+	},
+	{
+		"abr": "spacerammo",
+		"price": 1,
+		"category": "Ammunition",
+		"defname": "AmmoSpacer"
+	},
+	{
+		"abr": "swarmur",
+		"price": 2,
+		"category": "Exotic alloys",
+		"defname": "WVC_Resource_Swarmur"
+	},
+	{
+		"abr": "swarmurscarab",
+		"price": 200,
+		"category": "Animal",
+		"defname": "Bug_WVC_Resource_Swarmur"
+	},
+	{
+		"abr": "torturearm",
+		"price": 2050,
+		"category": "Torture",
+		"defname": "WVC_TortureArm"
+	},
+	{
+		"abr": "tortureear",
+		"price": 967,
+		"category": "Torture",
+		"defname": "WVC_TortureEar"
+	},
+	{
+		"abr": "tortureeye",
+		"price": 1325,
+		"category": "Torture",
+		"defname": "WVC_TortureEye"
+	},
+	{
+		"abr": "tortureheart",
+		"price": 1967,
+		"category": "Torture",
+		"defname": "WVC_TortureHeart"
+	},
+	{
+		"abr": "torturejaw",
+		"price": 1342,
+		"category": "Torture",
+		"defname": "WVC_TortureJaw"
+	},
+	{
+		"abr": "torturekidney",
+		"price": 1692,
+		"category": "Torture",
+		"defname": "WVC_TortureKidney"
+	},
+	{
+		"abr": "tortureleg",
+		"price": 2067,
+		"category": "Torture",
+		"defname": "WVC_TortureLeg"
+	},
+	{
+		"abr": "tortureliver",
+		"price": 1708,
+		"category": "Torture",
+		"defname": "WVC_TortureLiver"
+	},
+	{
+		"abr": "torturelung",
+		"price": 1658,
+		"category": "Torture",
+		"defname": "WVC_TortureLung"
+	},
+	{
+		"abr": "torturenose",
+		"price": 917,
+		"category": "Torture",
+		"defname": "WVC_TortureNose"
+	},
+	{
+		"abr": "torturespine",
+		"price": 2008,
+		"category": "Torture",
+		"defname": "WVC_TortureSpine"
+	},
+	{
+		"abr": "torturestomach",
+		"price": 1675,
+		"category": "Torture",
+		"defname": "WVC_TortureStomach"
+	},
+	{
+		"abr": "torturetail",
+		"price": 1708,
+		"category": "Torture",
+		"defname": "WVC_TortureTail"
+	},
+	{
+		"abr": "torturetongue",
+		"price": 558,
+		"category": "Torture",
+		"defname": "WVC_TortureTongue"
+	},
+	{
+		"abr": "virum",
+		"price": 2,
+		"category": "Exotic alloys",
+		"defname": "WVC_Resource_Virum"
+	},
+	{
+		"abr": "virumscarab",
+		"price": 233,
+		"category": "Animal",
+		"defname": "Bug_WVC_Resource_Virum"
+	},
+	{
+		"abr": "volium",
+		"price": 2,
+		"category": "Exotic alloys",
+		"defname": "WVC_Resource_Volium"
+	},
+	{
+		"abr": "voliumscarab",
+		"price": 200,
+		"category": "Animal",
+		"defname": "Bug_WVC_Resource_Volium"
+	},
+	{
+		"abr": "vruum",
+		"price": 4,
+		"category": "Exotic alloys",
+		"defname": "WVC_Resource_Vruum"
+	},
+	{
+		"abr": "vruumscarab",
+		"price": 383,
+		"category": "Animal",
+		"defname": "Bug_WVC_Resource_Vruum"
+	},
+	{
+		"abr": "yinyangmark",
+		"price": 4,
+		"category": "Furniture",
+		"defname": "YR_TreeBase_Plus"
+	},
+	{
+		"abr": "yuranblackdressbox",
+		"price": 3667,
+		"category": "Manufactured",
+		"defname": "YR_ClothBox_AddonBlack"
+	},
+	{
+		"abr": "yuranblackdressforornaments",
+		"price": 1833,
+		"category": "Yuran Apparel",
+		"defname": "YR_AP_Addon_BlackDress"
+	},
+	{
+		"abr": "yurancorolla",
+		"price": 1333,
+		"category": "Yuran hat",
+		"defname": "YR_AP_Flower_AddonA"
+	},
+	{
+		"abr": "yuranhoodt-shirtforornaments",
+		"price": 1833,
+		"category": "Yuran Apparel",
+		"defname": "YR_AP_Addon_hoodshirt"
+	},
+	{
+		"abr": "yuranjeog-wol",
+		"price": 203,
+		"category": "Yuran Apparel",
+		"defname": "YR_AP_MiKo_B"
+	},
+	{
+		"abr": "yuranmonokatana",
+		"price": 1942,
+		"category": "Melee weapons",
+		"defname": "YR_WP_monokatana"
+	},
+	{
+		"abr": "yuranmyeong-wol",
+		"price": 203,
+		"category": "Yuran Apparel",
+		"defname": "YR_AP_WhiteSee"
+	},
+	{
+		"abr": "yurannaginata",
+		"price": 442,
+		"category": "Melee weapons",
+		"defname": "YR_WP_Naginata"
 	}
 	],
-	"total": 8826
+	"total": 8932
 }

@@ -159,7 +159,7 @@
     "author": "Torann",
     "name": "A RimWorld of Magic",
     "steamId": "1201382956",
-    "version": "2.5.7.6"
+    "version": "2.5.8.3"
   },
   {
     "author": "Kure",
@@ -369,7 +369,7 @@
     "author": "miyamiya",
     "name": "Compressed Raid",
     "steamId": "2377478084",
-    "version": "1.0.0.0"
+    "version": "1.3.2"
   },
   {
     "author": "K",
@@ -585,7 +585,7 @@
     "author": "Lanilor",
     "name": "Simply More Bridges (Continued)",
     "steamId": "2012484790",
-    "version": "1.3.4"
+    "version": "1.3.5"
   },
   {
     "author": "targhetti",
@@ -2455,7 +2455,7 @@
   },
   {
     "author": "Metalocif",
-    "name": "RWoM Custom Class - Technosoldier",
+    "name": "RWoM Custom Class Pack - Epic Battle Fantasy",
     "steamId": null,
     "version": null
   },
@@ -2530,6 +2530,18 @@
     "name": "[LTS]Maintenance",
     "steamId": "2803673873",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "LimeTreeSnake",
+    "name": "[LTS]Ammunition - Framework",
+    "steamId": "2803605634",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "LimeTreeSnake",
+    "name": "[LTS]Ammo",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "explodoboy",

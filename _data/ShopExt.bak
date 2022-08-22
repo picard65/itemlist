@@ -63422,9 +63422,9 @@
         "saint",
         "shadowwight"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -63744,8 +63744,8 @@
       },
       "defName": "TM_Possessed",
       "name": "possessed",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0
@@ -64486,8 +64486,8 @@
       },
       "defName": "TM_Possessor",
       "name": "spirit",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0
@@ -69622,7 +69622,7 @@
         "karmaType": null,
         "customName": false
       },
-      "description": "A basic mechanent, or a \"human-class mechanoid\". Often used by glitterworld societies or advanced urbworlds as a menial labor force - they are capable of sub-sentience and certain emotions. Their creation is illegal on some core-worlds.\n\nBeing mechanical in nature - mechanents do not need to rest, and just like mechanoids, they can be susceptible to psychic tampering.\n(Rim-Robots!)",
+      "description": "A basic mechanent, or a \"human-class mechanoid\". Often used by glitterworld societies or advanced urbworlds as a menial labor force - they are capable of sub-sentience and certain emotions. Their creation is illegal on some core-worlds.\n\nBeing mechanical in nature - mechanents do not need to rest, and just like mechanoids, they can be susceptible to psychic tampering.\n(Rim-Robots_)",
       "defName": "Mechanent",
       "enabled": false,
       "name": "mechanent",
@@ -69665,7 +69665,7 @@
         "karmaType": null,
         "customName": false
       },
-      "description": "The vessel of an AI persona. A relatively new creation originating from advanced glitterworld laboratories - they have all the capabilities of a baseline human. They are illegal on most planets, due to fearing the potential of such advanced AI - because of this most try to hide from society and pass as normal humans.\n\nDespite being synthetic in nature - personae still need to rest, but they don't need fuel - being able to last for years on their internal reactor without refueling, and they can heal internal damage due to lattice dust distribution systems. They can experience everything from psychic tampering, to complex emotions.\n(Rim-Robots!)",
+      "description": "The vessel of an AI persona. A relatively new creation originating from advanced glitterworld laboratories - they have all the capabilities of a baseline human. They are illegal on most planets, due to fearing the potential of such advanced AI - because of this most try to hide from society and pass as normal humans.\n\nDespite being synthetic in nature - personae still need to rest, but they don't need fuel - being able to last for years on their internal reactor without refueling, and they can heal internal damage due to lattice dust distribution systems. They can experience everything from psychic tampering, to complex emotions.\n(Rim-Robots_)",
       "defName": "Personae_",
       "enabled": false,
       "name": "persona",
@@ -69803,7 +69803,7 @@
           "+100% Butchery efficiency",
           "+100% Butchery speed",
           "+110.00% Food poison chance",
-          "+1.0 Cooking speed",
+          "+1.3 Cooking speed",
           "+125% Plant work speed",
           "+100% Global learning factor",
           "+100% Research speed",

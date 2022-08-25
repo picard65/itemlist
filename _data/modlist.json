@@ -159,7 +159,7 @@
     "author": "Torann",
     "name": "A RimWorld of Magic",
     "steamId": "1201382956",
-    "version": "2.5.8.5"
+    "version": "2.5.8.6"
   },
   {
     "author": "Kure",
@@ -1986,6 +1986,12 @@
     "version": null
   },
   {
+    "author": "Captain Muscles (Nathan Harbour)",
+    "name": "Semi Random Research",
+    "steamId": "2375902187",
+    "version": "1.0.5"
+  },
+  {
     "author": "MrKociak",
     "name": "More Archotech Garbage Reupload",
     "steamId": null,
@@ -2526,6 +2532,18 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "LimeTreeSnake",
+    "name": "[LTS]Ammunition - Framework",
+    "steamId": "2803605634",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "LimeTreeSnake",
+    "name": "[LTS]Ammo",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "explodoboy",
     "name": "Pawns Just Don't Die",
     "steamId": null,
@@ -2643,7 +2661,7 @@
     "author": "Dalrae",
     "name": "Wa! Skeleton! (Continued)",
     "steamId": "2159119022",
-    "version": "1.3.3"
+    "version": "1.3.4"
   },
   {
     "author": "Trinity",
@@ -2746,17 +2764,5 @@
     "name": "Toolkit - Channel Points",
     "steamId": "1916651243",
     "version": "1.3.1"
-  },
-  {
-    "author": "RSev",
-    "name": "Save Our Ship 2 - Archotech Gift Pool Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Paraworld",
-    "name": "Save Our Ship 2 - Anty Ships",
-    "steamId": null,
-    "version": null
   }
 ]

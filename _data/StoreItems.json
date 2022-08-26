@@ -53575,52 +53575,10 @@
 		"defname": "AnimalMindImplant"
 	},
 	{
-		"abr": "ammunitionbench",
-		"price": 216,
-		"category": "Production",
-		"defname": "LTS_AmmunitionBench"
-	},
-	{
-		"abr": "archotechammo",
-		"price": 2,
-		"category": "Ammunition",
-		"defname": "AmmoArchotech"
-	},
-	{
 		"abr": "blackapple",
 		"price": 2917,
 		"category": "Animal",
 		"defname": "XEHuman"
-	},
-	{
-		"abr": "explosiveammo",
-		"price": 1,
-		"category": "Ammunition",
-		"defname": "AmmoExplosive"
-	},
-	{
-		"abr": "industrialammo",
-		"price": 1,
-		"category": "Ammunition",
-		"defname": "AmmoIndustrial"
-	},
-	{
-		"abr": "largekit",
-		"price": 212,
-		"category": "Kits",
-		"defname": "LTS_KitLarge"
-	},
-	{
-		"abr": "medievalammo",
-		"price": 1,
-		"category": "Ammunition",
-		"defname": "AmmoMedieval"
-	},
-	{
-		"abr": "mediumkit",
-		"price": 142,
-		"category": "Kits",
-		"defname": "LTS_KitMedium"
 	},
 	{
 		"abr": "minchoflakvest",
@@ -53633,43 +53591,7 @@
 		"price": 1217,
 		"category": "Mincho apparel",
 		"defname": "Mincho_WeddingKnightlyVeil"
-	},
-	{
-		"abr": "primitiveammo",
-		"price": 1,
-		"category": "Ammunition",
-		"defname": "AmmoPrimitive"
-	},
-	{
-		"abr": "smallkit",
-		"price": 73,
-		"category": "Kits",
-		"defname": "LTS_KitSmall"
-	},
-	{
-		"abr": "futuristicgreatpyramid",
-		"price": 29800,
-		"category": "Misc",
-		"defname": "AM_FuturisticPyramid"
-	},
-	{
-		"abr": "futuristicobelisk",
-		"price": 1392,
-		"category": "Misc",
-		"defname": "AM_FuturisticObelisk"
-	},
-	{
-		"abr": "futuristicstele",
-		"price": 1392,
-		"category": "Misc",
-		"defname": "AM_FuturisticStele"
-	},
-	{
-		"abr": "grandgate",
-		"price": 1783,
-		"category": "Misc",
-		"defname": "AM_GrandGate"
 	}
 	],
-	"total": 8946
+	"total": 8939
 }

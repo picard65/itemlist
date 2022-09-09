@@ -1099,6 +1099,168 @@
   },
   {
     "data": {
+      "isShortcut": true,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "Twitch Toolkit"
+    },
+    "description": "Lets you wager coins to level up a skill of your choosing.\n(Twitch Toolkit)",
+    "name": "Level skill",
+    "usage": "!levelskill <skill> <coins>",
+    "userLevel": "Anyone",
+    "shortcut": true,
+    "defName": "LevelSkillShortcut"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "Twitch Toolkit"
+    },
+    "description": "Shows you the complete list of installed mods.\n(Twitch Toolkit)",
+    "name": "Installed mods",
+    "usage": "!installedmods",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "InstalledMods"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
+    "description": null,
+    "name": "Ability level",
+    "usage": "!abilitylevel",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "AbilityLevel"
+  },
+  {
+    "data": {
+      "isShortcut": true,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
+    "description": null,
+    "name": "Revive all",
+    "usage": "!reviveall",
+    "userLevel": "Anyone",
+    "shortcut": true,
+    "defName": "ReviveAllShortcut"
+  },
+  {
+    "data": {
+      "isShortcut": true,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
+    "description": null,
+    "name": "Revive any pawn",
+    "usage": "!reviveanypawn",
+    "userLevel": "Anyone",
+    "shortcut": true,
+    "defName": "ReviveAnyPawnShortcut"
+  },
+  {
+    "data": {
+      "isShortcut": true,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
+    "description": "Replaces a trait with a different trait.\n(ToolkitUtils)",
+    "name": "Replace trait",
+    "usage": "!replacetrait <old> <new>",
+    "userLevel": "Anyone",
+    "shortcut": true,
+    "defName": "ReplaceTraitShortcut"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
+    "description": "Makes your pawn insult a random pawn. If a viewer is specified, you'll insult them instead.\n(ToolkitUtils)",
+    "name": "Insult",
+    "usage": "!insult [target]",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "Insult"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
+    "description": null,
+    "name": "Marriage",
+    "usage": "!marry",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "Marriage"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
+    "description": null,
+    "name": "Divorce",
+    "usage": "!divorce",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "Divorce"
+  },
+  {
+    "data": {
       "isShortcut": false,
       "isBuy": false,
       "isBalance": false,

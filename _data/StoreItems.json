@@ -38042,7 +38042,7 @@
 	},
 	{
 		"abr": "warcasketautorifle",
-		"price": 2083,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VFEP_WarcasketGun_Autorifle"
 	},
@@ -38054,7 +38054,7 @@
 	},
 	{
 		"abr": "warcasketbroadsword",
-		"price": 2433,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "VFEP_WarcasketMeleeWeapon_Broadsword"
 	},
@@ -38066,7 +38066,7 @@
 	},
 	{
 		"abr": "warcasketchargeblaster",
-		"price": 3667,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VFEP_WarcasketGun_ChargeBlaster"
 	},
@@ -38078,7 +38078,7 @@
 	},
 	{
 		"abr": "warcasketchargelance",
-		"price": 3750,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VFEP_WarcasketGun_ChargeLance"
 	},
@@ -38090,19 +38090,19 @@
 	},
 	{
 		"abr": "warcasketcombatknife",
-		"price": 1450,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "VFEP_WarcasketMeleeWeapon_CombatKnife"
 	},
 	{
 		"abr": "warcasketcryptocannon",
-		"price": 6000,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VFEP_WarcasketGun_CryptoCannon"
 	},
 	{
 		"abr": "warcasketelectrolance",
-		"price": 3750,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VFEP_WarcasketGun_ElectroLance"
 	},
@@ -38120,7 +38120,7 @@
 	},
 	{
 		"abr": "warcasketgravityhammer",
-		"price": 5000,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "VFEP_WarcasketMeleeWeapon_GravityHammer"
 	},
@@ -38132,7 +38132,7 @@
 	},
 	{
 		"abr": "warcasketgrenadelauncher",
-		"price": 3150,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VFEP_WarcasketGun_GrenadeLauncher"
 	},
@@ -38144,7 +38144,7 @@
 	},
 	{
 		"abr": "warcaskethandheldcannon",
-		"price": 2250,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VFEP_WarcasketGun_HandheldCannon"
 	},
@@ -38156,13 +38156,13 @@
 	},
 	{
 		"abr": "warcasketheavyflamer",
-		"price": 4083,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VFEP_WarcasketGun_HeavyFlamer"
 	},
 	{
 		"abr": "warcasketlaserblaster",
-		"price": 5333,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VFEP_WarcasketGun_LaserBlaster"
 	},
@@ -38180,19 +38180,19 @@
 	},
 	{
 		"abr": "warcasketminigun",
-		"price": 3733,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VFEP_WarcasketGun_Minigun"
 	},
 	{
 		"abr": "warcasketplasmasword",
-		"price": 6000,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "VFEP_WarcasketMeleeWeapon_PlasmaSword"
 	},
 	{
 		"abr": "warcasketrailgun",
-		"price": 5333,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VFEP_WarcasketGun_Railgun"
 	},
@@ -38204,7 +38204,7 @@
 	},
 	{
 		"abr": "warcasketsalvagedlasereradicator",
-		"price": 6833,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VFEP_WarcasketGun_SalvagedLaserEradicator"
 	},
@@ -38222,13 +38222,13 @@
 	},
 	{
 		"abr": "warcasketslugthrower",
-		"price": 1833,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VFEP_WarcasketGun_Slugthrower"
 	},
 	{
 		"abr": "warcasketteargasgrenadelauncher",
-		"price": 2750,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VFEP_WarcasketGun_TearGasGrenadeLauncher"
 	},
@@ -38246,7 +38246,7 @@
 	},
 	{
 		"abr": "warcasketuraniumslugrifle",
-		"price": 2750,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VFEP_WarcasketGun_UraniumSlugRifle"
 	},
@@ -41768,19 +41768,19 @@
 	},
 	{
 		"abr": "ghost",
-		"price": 5050,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Ghost"
 	},
 	{
 		"abr": "ghostcentaur",
-		"price": 10433,
+		"price": -10,
 		"category": "Animal",
 		"defname": "GhostCentaur"
 	},
 	{
 		"abr": "ghosttitan",
-		"price": 10558,
+		"price": -10,
 		"category": "Animal",
 		"defname": "GhostTitan"
 	},
@@ -43148,7 +43148,7 @@
 	},
 	{
 		"abr": "mageball",
-		"price": 2000,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "GhostMSB"
 	},
@@ -43166,7 +43166,7 @@
 	},
 	{
 		"abr": "magelauncher",
-		"price": 4333,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "MageRifle"
 	},
@@ -44975,12 +44975,6 @@
 		"price": 2075,
 		"category": "PnL Shell",
 		"defname": "PN_Shell_AG"
-	},
-	{
-		"abr": "pnlapshell",
-		"price": 342,
-		"category": "PnL Shell",
-		"defname": "PN_Shell_AP"
 	},
 	{
 		"abr": "pnlautomaton™(combat)",
@@ -49249,12 +49243,6 @@
 		"defname": "PN_ApparelMaid"
 	},
 	{
-		"abr": "pnlhowitzer",
-		"price": 2783,
-		"category": "Security",
-		"defname": "PN_Artillery_Base_Core"
-	},
-	{
 		"abr": "pnlmachinegun",
 		"price": 1367,
 		"category": "Ranged weapons",
@@ -53453,7 +53441,1975 @@
 		"price": 167,
 		"category": "Teratogenic parts",
 		"defname": "AA_TheRecalcitrantEye"
+	},
+	{
+		"abr": "aerogel",
+		"price": 23,
+		"category": "Raw resources",
+		"defname": "TMaterials_Aerogel"
+	},
+	{
+		"abr": "aerogelscarab",
+		"price": 2333,
+		"category": "Animal",
+		"defname": "Bug_TMaterials_Aerogel"
+	},
+	{
+		"abr": "aerographene",
+		"price": 30,
+		"category": "Raw resources",
+		"defname": "TMaterials_Aerographene"
+	},
+	{
+		"abr": "aerographenescarab",
+		"price": 3000,
+		"category": "Animal",
+		"defname": "Bug_TMaterials_Aerographene"
+	},
+	{
+		"abr": "antigraincore",
+		"price": 6858,
+		"category": "Automaton core",
+		"defname": "PN_BrainCasingAntigrain"
+	},
+	{
+		"abr": "cicada",
+		"price": 2583,
+		"category": "Animal",
+		"defname": "MOW_Mech_Cicada"
+	},
+	{
+		"abr": "demolisher",
+		"price": 10475,
+		"category": "Animal",
+		"defname": "MOW_Mech_Demolisher"
+	},
+	{
+		"abr": "emmarksmanrifle",
+		"price": 2333,
+		"category": "Ranged weapons",
+		"defname": "MOW_Gun_EMMarksmanRifle"
+	},
+	{
+		"abr": "enforcer",
+		"price": 5058,
+		"category": "Animal",
+		"defname": "MOW_Mech_Enforcer"
+	},
+	{
+		"abr": "nitinol",
+		"price": 8,
+		"category": "Raw resources",
+		"defname": "TMaterials_AlloyNitinol"
+	},
+	{
+		"abr": "nitinolscarab",
+		"price": 833,
+		"category": "Animal",
+		"defname": "Bug_TMaterials_AlloyNitinol"
+	},
+	{
+		"abr": "photonicmetamaterial",
+		"price": 5,
+		"category": "Raw resources",
+		"defname": "TMaterials_MetamaterialPhotonic"
+	},
+	{
+		"abr": "photonicmetamaterialscarab",
+		"price": 500,
+		"category": "Animal",
+		"defname": "Bug_TMaterials_MetamaterialPhotonic"
+	},
+	{
+		"abr": "pnlautomaton™pro(combat)",
+		"price": 13375,
+		"category": "PnL automaton™",
+		"defname": "Packaged_PremiumAutomatonSoldier"
+	},
+	{
+		"abr": "pnlautomaton™pro(domestic)",
+		"price": 13375,
+		"category": "PnL automaton™",
+		"defname": "Packaged_PremiumAutomatonMaid"
+	},
+	{
+		"abr": "pnlautomaton™pro(engineer)",
+		"price": 13375,
+		"category": "PnL automaton™",
+		"defname": "Packaged_PremiumAutomatonWorker"
+	},
+	{
+		"abr": "pnlelitesecurityberet",
+		"price": 875,
+		"category": "PnL Headgear",
+		"defname": "PN_EliteSecurityHat"
+	},
+	{
+		"abr": "pnlelitesecurityuniform",
+		"price": 2567,
+		"category": "PnL Apparel",
+		"defname": "PN_EliteSecurityUniform"
+	},
+	{
+		"abr": "pnlotpcard",
+		"price": 2500,
+		"category": "PnL Industry",
+		"defname": "PN_OTPCard"
+	},
+	{
+		"abr": "pnlrailgunshell",
+		"price": 1792,
+		"category": "PnL Shell",
+		"defname": "PN_Shell_RG"
+	},
+	{
+		"abr": "pnlroyalheavyslugrifle",
+		"price": 6033,
+		"category": "Ranged weapons",
+		"defname": "PN_RoyalHeavySlug"
+	},
+	{
+		"abr": "pnlroyalmachinegun",
+		"price": 8033,
+		"category": "Ranged weapons",
+		"defname": "PN_RoyalMachinegun"
+	},
+	{
+		"abr": "pnlroyalmeisterhat",
+		"price": 2442,
+		"category": "Royal Headgear",
+		"defname": "PN_ApparelRoyalmeisterHat"
+	},
+	{
+		"abr": "pnlroyalmeisterhatw/monocle",
+		"price": 2442,
+		"category": "Royal Headgear",
+		"defname": "PN_ApparelRoyalmeisterHatWithMonocle"
+	},
+	{
+		"abr": "pnlroyalmeistermonocle",
+		"price": 2442,
+		"category": "Royal Headgear",
+		"defname": "PN_ApparelRoyalmeisterMonocle"
+	},
+	{
+		"abr": "pnlroyalmeisteruniform",
+		"price": 5233,
+		"category": "Royal Apparel",
+		"defname": "PN_ApparelRoyalmeister"
+	},
+	{
+		"abr": "pnlstormhammer",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "PN_RoyalHammer_Bladelink"
+	},
+	{
+		"abr": "pnlstormlance",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "PN_StormLance_Bladelink"
+	},
+	{
+		"abr": "pnlwarhammer",
+		"price": 942,
+		"category": "Melee weapons",
+		"defname": "PN_WarHammer"
+	},
+	{
+		"abr": "stymphalianbird",
+		"price": 1417,
+		"category": "Animals",
+		"defname": "MM_StymphalianBird"
+	},
+	{
+		"abr": "stymphalianbirdegg(fert.)",
+		"price": 15,
+		"category": "Eggs (fert.)",
+		"defname": "MM_EggStymphalianBirdFertilized"
+	},
+	{
+		"abr": "thespasmodiceye",
+		"price": 167,
+		"category": "Teratogenic parts",
+		"defname": "AA_TheSpasmodicEye"
+	},
+	{
+		"abr": "autocicadachargingstation",
+		"price": 1683,
+		"category": "Production",
+		"defname": "MOWM_Mech_CicadaStation"
+	},
+	{
+		"abr": "autodemolisherchargingstation",
+		"price": 3967,
+		"category": "Production",
+		"defname": "MOWM_Mech_DemolisherStation"
+	},
+	{
+		"abr": "autoenforcerchargingstation",
+		"price": 2625,
+		"category": "Production",
+		"defname": "MOWM_Mech_EnforcerStation"
+	},
+	{
+		"abr": "beamautopistol",
+		"price": 1833,
+		"category": "Ranged weapons",
+		"defname": "XCOM_Gun_BeamAutopistol"
+	},
+	{
+		"abr": "beamcannon",
+		"price": 6583,
+		"category": "Ranged weapons",
+		"defname": "XCOM_Gun_BeamCannon"
+	},
+	{
+		"abr": "beampistol",
+		"price": 1617,
+		"category": "Ranged weapons",
+		"defname": "XCOM_Gun_BeamPistol"
+	},
+	{
+		"abr": "bolter",
+		"price": 2083,
+		"category": "Misc",
+		"defname": "VFEP_Box_Bolter"
+	},
+	{
+		"abr": "bolter",
+		"price": 2083,
+		"category": "Ranged weapons",
+		"defname": "HP_WarcasketGun_Bolter"
+	},
+	{
+		"abr": "bolterrifle",
+		"price": 2083,
+		"category": "Misc",
+		"defname": "VFEP_Box_BolterRifle"
+	},
+	{
+		"abr": "bolterrifle",
+		"price": 2083,
+		"category": "Ranged weapons",
+		"defname": "HP_WarcasketGun_BolterRifle"
+	},
+	{
+		"abr": "bondingcore",
+		"price": 6667,
+		"category": "Items",
+		"defname": "BondingCore"
+	},
+	{
+		"abr": "chainsword",
+		"price": 2433,
+		"category": "Misc",
+		"defname": "VFEP_Box_ChainSword"
+	},
+	{
+		"abr": "chainsword",
+		"price": 1450,
+		"category": "Melee weapons",
+		"defname": "HP_WarcasketMeleeWeapon_ChainSword"
+	},
+	{
+		"abr": "heavybolter",
+		"price": 2083,
+		"category": "Misc",
+		"defname": "VFEP_Box_HeavyBolter"
+	},
+	{
+		"abr": "heavybolter",
+		"price": 3733,
+		"category": "Ranged weapons",
+		"defname": "VFEP_WarcasketGun_HeavyBolter"
+	},
+	{
+		"abr": "kal-90bullpup",
+		"price": 3117,
+		"category": "Ranged weapons",
+		"defname": "XCOM_Gun_BeamBullpup"
+	},
+	{
+		"abr": "meltagun",
+		"price": 2083,
+		"category": "Misc",
+		"defname": "VFEP_Box_MeltaGun"
+	},
+	{
+		"abr": "meltagun",
+		"price": 3750,
+		"category": "Ranged weapons",
+		"defname": "VFEP_WarcasketGun_MeltaGun"
+	},
+	{
+		"abr": "personaassaulthammer",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "JI_BondOrmbane"
+	},
+	{
+		"abr": "personaat45adisintegrator",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "Gun_BondAT45A"
+	},
+	{
+		"abr": "personaaugsdreamer",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "Gun_BondAUGS"
+	},
+	{
+		"abr": "personab350atech",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "Gun_BondB3500A"
+	},
+	{
+		"abr": "personachargelance",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "Gun_BondChargeLance"
+	},
+	{
+		"abr": "personachargelmg",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "VWE_Gun_BondChargeLMG"
+	},
+	{
+		"abr": "personachargeminigun",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "VWE_Gun_BondChargeMinigun"
+	},
+	{
+		"abr": "personachargepistol",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "VWE_Gun_BondChargePistol"
+	},
+	{
+		"abr": "personachargerifle",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "Gun_BondChargeRifle"
+	},
+	{
+		"abr": "personachargeshotgun",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "VWE_Gun_BondChargeShotgun"
+	},
+	{
+		"abr": "personachargesmg",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "VWE_Gun_BondChargeSMG"
+	},
+	{
+		"abr": "personachargesniperrifle",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "VWE_Gun_BondChargeSniperRifle"
+	},
+	{
+		"abr": "personafal450adivider",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "Gun_BondFAL450A"
+	},
+	{
+		"abr": "personahkcas42aphoenix",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "Gun_BondHKCAS42A"
+	},
+	{
+		"abr": "personajiamr",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "JI_BondGramr"
+	},
+	{
+		"abr": "personajimoltenpistol",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "JI_BondTrollsverd"
+	},
+	{
+		"abr": "personajimoltenrifle",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "JI_BondHrunting"
+	},
+	{
+		"abr": "personajisiegegun",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "JI_BondGrendel"
+	},
+	{
+		"abr": "personajisiegeshotgun",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "JI_BondFafnir"
+	},
+	{
+		"abr": "personajisuppressorcannon",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "JI_BondMuspell"
+	},
+	{
+		"abr": "personal45eghost",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "Gun_BondL45E"
+	},
+	{
+		"abr": "personalaserminigun",
+		"price": 5833,
+		"category": "Persona weapons",
+		"defname": "VWEL_Gun_BondLaserMinigun"
+	},
+	{
+		"abr": "personalaserpistol",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "VWEL_Gun_BondLaserPistol"
+	},
+	{
+		"abr": "personalaserrifle",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "VWEL_Gun_bondLaserRifle"
+	},
+	{
+		"abr": "personalasershotgun",
+		"price": 5333,
+		"category": "Persona weapons",
+		"defname": "VWEL_Gun_BondLaserShotgun"
+	},
+	{
+		"abr": "personalasersmg",
+		"price": 5667,
+		"category": "Persona weapons",
+		"defname": "VWEL_Gun_BondLaserSMG"
+	},
+	{
+		"abr": "personalasersniperrifle",
+		"price": 5833,
+		"category": "Persona weapons",
+		"defname": "VWEL_Gun_BondLaserSniperRifle"
+	},
+	{
+		"abr": "personalasersword",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "VWEL_BondLaserSword"
+	},
+	{
+		"abr": "personalnf35lshadow",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "Gun_bondLNF35L"
+	},
+	{
+		"abr": "personam168bspectre",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "Gun_BondM168B"
+	},
+	{
+		"abr": "personam340vwraith",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "Gun_BondM340V"
+	},
+	{
+		"abr": "personam34astalker",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "Gun_BondM34A"
+	},
+	{
+		"abr": "personam870cdisruptor",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "Gun_BondM870C"
+	},
+	{
+		"abr": "personaml237sdevastator",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "Gun_BondML237S"
+	},
+	{
+		"abr": "personamono-longbow",
+		"price": 11233,
+		"category": "Persona weapons",
+		"defname": "RA_MonoBowBladelink"
+	},
+	{
+		"abr": "personams700gtrace",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "Gun_BondMS700G"
+	},
+	{
+		"abr": "personaplasmascattergun",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "VFE_Gun_BondPlasmaScattergun"
+	},
+	{
+		"abr": "personaplasmabeamrifle",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "VFE_Gun_BondPlasmabeamRifle"
+	},
+	{
+		"abr": "personaplasmacutter",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "VFE_Gun_BondPlasmacutter"
+	},
+	{
+		"abr": "personaplasmapiercer",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "VFE_Gun_BondPlasmapiercer"
+	},
+	{
+		"abr": "personaplasmasaw",
+		"price": 3333,
+		"category": "Persona weapons",
+		"defname": "VFE_bondPlasmasaw"
+	},
+	{
+		"abr": "personarhsc120phawk",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "Gun_BondRHSC120P"
+	},
+	{
+		"abr": "personaroyalchargelance",
+		"price": 10883,
+		"category": "Persona weapons",
+		"defname": "RA_RoyalChargeLanceBladelink"
+	},
+	{
+		"abr": "personaroyalchargerifle",
+		"price": 10342,
+		"category": "Persona weapons",
+		"defname": "RA_RoyalChargeRifleBladelink"
+	},
+	{
+		"abr": "personascrsurvivalrifle",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "Gun_BondSCR"
+	},
+	{
+		"abr": "personaslz556bull",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "Gun_BondSLZ556S"
+	},
+	{
+		"abr": "personasurvivalknife",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "TE_BondEris"
+	},
+	{
+		"abr": "personatekineticlance",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "TE_BondKineticLance"
+	},
+	{
+		"abr": "personatekineticlongrifle",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "TE_BondKineticLongRifle"
+	},
+	{
+		"abr": "personatekineticpistol",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "TE_BondKineticPistol"
+	},
+	{
+		"abr": "personatekineticrifle",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "TE_BondKineticRifle"
+	},
+	{
+		"abr": "personatesingularityprojector",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "TE_BondStormCannon"
+	},
+	{
+		"abr": "personatethuddgun",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "TE_BondThuddGun"
+	},
+	{
+		"abr": "personateslagun",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "VWEL_Gun_BondTeslaGun"
+	},
+	{
+		"abr": "personatorchsword",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "MeleeWeapon_BondTorchSword"
+	},
+	{
+		"abr": "personavibrodaggers",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "YP_BondBingJu"
+	},
+	{
+		"abr": "personaypdualwieldshardpistols",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "YP_BondSeolHwa"
+	},
+	{
+		"abr": "personaypmicrowaveemmiter",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "YP_BondGeugGwang"
+	},
+	{
+		"abr": "personaypshardrifle",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "YP_BondSeoLi"
+	},
+	{
+		"abr": "personaypspikerifle",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "YP_BondSangAe"
+	},
+	{
+		"abr": "personaypswarmer",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "YP_BondSagPung"
+	},
+	{
+		"abr": "personaypvectorshot",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "YP_BondVectorShot"
+	},
+	{
+		"abr": "plasmacannon",
+		"price": 2083,
+		"category": "Misc",
+		"defname": "VFEP_Box_PlasmaCannon"
+	},
+	{
+		"abr": "plasmacannon",
+		"price": 3750,
+		"category": "Ranged weapons",
+		"defname": "VFEP_WarcasketGun_PlasmaCannon"
+	},
+	{
+		"abr": "plasmalance",
+		"price": 4917,
+		"category": "Ranged weapons",
+		"defname": "XCOM_Gun_BeamSniperRifle"
+	},
+	{
+		"abr": "plasmarifle",
+		"price": 2792,
+		"category": "Ranged weapons",
+		"defname": "XCOM_Gun_BeamRifle"
+	},
+	{
+		"abr": "powersword",
+		"price": 2433,
+		"category": "Misc",
+		"defname": "VFEP_Box_PowerSword"
+	},
+	{
+		"abr": "powersword",
+		"price": 1450,
+		"category": "Melee weapons",
+		"defname": "HP_WarcasketMeleeWeapon_PowerSword"
+	},
+	{
+		"abr": "shadowlance",
+		"price": 3817,
+		"category": "Ranged weapons",
+		"defname": "XCOM_Gun_BeamVektor"
+	},
+	{
+		"abr": "shoulder-mountedancientsecurityturretgun",
+		"price": 383,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedVFEA_Turret_AncientSecurityTurret"
+	},
+	{
+		"abr": "shoulder-mountedantiairautocannon",
+		"price": 3375,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedFT_TurretAA"
+	},
+	{
+		"abr": "shoulder-mountedantitankcannon",
+		"price": 3617,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedFT_TurretAT"
+	},
+	{
+		"abr": "shoulder-mountedartillery",
+		"price": 1050,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedVFES_Turret_Artillery"
+	},
+	{
+		"abr": "shoulder-mountedartillery",
+		"price": 883,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedFT_VFES_Turret_Artillery"
+	},
+	{
+		"abr": "shoulder-mountedautochargeblaster",
+		"price": 1342,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedVFE_Turret_AutoChargeBlaster"
+	},
+	{
+		"abr": "shoulder-mountedautochargelance",
+		"price": 1342,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedVFE_Turret_AutoChargeLance"
+	},
+	{
+		"abr": "shoulder-mountedautoinfernocannon",
+		"price": 1492,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedVFE_Turret_AutoInfernoCannon"
+	},
+	{
+		"abr": "shoulder-mountedautoteslablaster",
+		"price": 1808,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedVFE_Turret_AutoTesla"
+	},
+	{
+		"abr": "shoulder-mountedautocannon",
+		"price": 2025,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedTurret_Autocannon"
+	},
+	{
+		"abr": "shoulder-mountedautocannon",
+		"price": 650,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedFT_AutoCannon"
+	},
+	{
+		"abr": "shoulder-mountedauto-cannon",
+		"price": 12333,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedAMW_Turret_AutoCannon"
+	},
+	{
+		"abr": "shoulder-mountedautomatedexarch",
+		"price": 591467,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedSNS_Turret_EXARCH"
+	},
+	{
+		"abr": "shoulder-mountedautomatedlancegun",
+		"price": 235925,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedSNS_Turret_Lance"
+	},
+	{
+		"abr": "shoulder-mountedautomatedlancegun",
+		"price": 225300,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedSNS_Turret_HighStorageLance"
+	},
+	{
+		"abr": "shoulder-mountedautomatedmortarcomplex",
+		"price": 18458,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedAMW_Turret_AutoMortar"
+	},
+	{
+		"abr": "shoulder-mountedautomaticgrenadelauncher",
+		"price": 1533,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedTurret_NestAGS"
+	},
+	{
+		"abr": "shoulder-mountedautomortar",
+		"price": 1592,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedTurret_Auto_Mortar"
+	},
+	{
+		"abr": "shoulder-mountedauto-mortar",
+		"price": 1142,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedVFE_Turret_AutoMortar"
+	},
+	{
+		"abr": "shoulder-mountedauto-mortar",
+		"price": 4458,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedTurret_AutoMortar_WVC"
+	},
+	{
+		"abr": "shoulder-mountedbait",
+		"price": 3,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedYR_DecoyTurret"
+	},
+	{
+		"abr": "shoulder-mountedballista",
+		"price": 307,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedRK_Ballista_Strait_Body"
+	},
+	{
+		"abr": "shoulder-mountedballista",
+		"price": 327,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedVFES_Turret_Ballista"
+	},
+	{
+		"abr": "shoulder-mountedballista",
+		"price": 383,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedBallista"
+	},
+	{
+		"abr": "shoulder-mountedbastiongun",
+		"price": 1666667,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedSNS_Turret_Pinnacle"
+	},
+	{
+		"abr": "shoulder-mountedbiologicalturretacid",
+		"price": 483,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedBioTurretGun"
+	},
+	{
+		"abr": "shoulder-mountedburninghoneyspewer",
+		"price": 1308,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedTurret_BurningHoneySpewer"
+	},
+	{
+		"abr": "shoulder-mountedcannon",
+		"price": 792,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedTurret_RSCannon"
+	},
+	{
+		"abr": "shoulder-mountedcannon",
+		"price": 12,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedVFEP_Turret_Cannon"
+	},
+	{
+		"abr": "shoulder-mountedcannon",
+		"price": 425,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedCannon"
+	},
+	{
+		"abr": "shoulder-mountedcannon",
+		"price": 375,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedRK_Cannon_Strait_Body"
+	},
+	{
+		"abr": "shoulder-mountedcatalystturretgun",
+		"price": 34542,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedSNS_Turret_Sniper"
+	},
+	{
+		"abr": "shoulder-mountedcatapult",
+		"price": 633,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedVFES_Turret_Catapult"
+	},
+	{
+		"abr": "shoulder-mountedchargegunemplacement",
+		"price": 1525,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedVFES_Turret_ChargeComplex"
+	},
+	{
+		"abr": "shoulder-mountedchargerailgun",
+		"price": 4475,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedVFES_Turret_ChargeRailgunTurret"
+	},
+	{
+		"abr": "shoulder-mountedchargedturretgun",
+		"price": 1133,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedVFES_Turret_ChargeTurret"
+	},
+	{
+		"abr": "shoulder-mountedclockworkturretgun",
+		"price": 1475,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedTurret_ClockworkTurret"
+	},
+	{
+		"abr": "shoulder-mountedclockworkturretgun",
+		"price": 1258,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedTurret_ClockworkSniper"
+	},
+	{
+		"abr": "shoulder-mountedcombatdronegun",
+		"price": 11,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedRE_Tech_CombatDroneTurret"
+	},
+	{
+		"abr": "shoulder-mountedcosmicturretgun",
+		"price": 23508,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedSNS_Turret_Cosmic"
+	},
+	{
+		"abr": "shoulder-mountedcovenantheavyplasmagun",
+		"price": 983,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedO21_Halo_CovTurretPlasma"
+	},
+	{
+		"abr": "shoulder-mountedcovenantneedlergun",
+		"price": 983,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedO21_Halo_CovTurretNeedler"
+	},
+	{
+		"abr": "shoulder-mountedcryogenturret",
+		"price": 13758,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedAMW_Turret_CryoTurret"
+	},
+	{
+		"abr": "shoulder-mounteddecoygun",
+		"price": 135,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedVFES_Turret_Decoy"
+	},
+	{
+		"abr": "shoulder-mounteddefendtowergreatbow",
+		"price": 36,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedJDS_Defense_Tower"
+	},
+	{
+		"abr": "shoulder-mounteddefendtowergreatbow",
+		"price": 36,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedJDS_I_Defense_Tower"
+	},
+	{
+		"abr": "shoulder-mounteddefendtowergreatbow",
+		"price": 36,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedJDS_L_Defense_Tower"
+	},
+	{
+		"abr": "shoulder-mounteddefendtowergreatbow",
+		"price": 36,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedJDS_T_Defense_Tower"
+	},
+	{
+		"abr": "shoulder-mounteddoubleautocannon",
+		"price": 3358,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedVFES_Turret_AutocannonDouble"
+	},
+	{
+		"abr": "shoulder-mountedempcannon",
+		"price": 4042,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedVFES_Turret_EMPTurret"
+	},
+	{
+		"abr": "shoulder-mountedenergyfocuspoint",
+		"price": 125,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedDefensePylon"
+	},
+	{
+		"abr": "shoulder-mountedenergyfocuspoint",
+		"price": 417,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedDefensePylon_I"
+	},
+	{
+		"abr": "shoulder-mountedenergyfocuspoint",
+		"price": 417,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedDefensePylon_II"
+	},
+	{
+		"abr": "shoulder-mountedenergyfocuspoint",
+		"price": 417,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedDefensePylon_III"
+	},
+	{
+		"abr": "shoulder-mountedenigmaticlancegun",
+		"price": 366967,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedSNS_Turret_EnigmaticLance"
+	},
+	{
+		"abr": "shoulder-mountedeternalautomatedexarchgun",
+		"price": 682092,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedSNS_Turret_EternalEXARCH"
+	},
+	{
+		"abr": "shoulder-mountedeternalautomatedlancegun",
+		"price": 4484884,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedSNS_Turret_EternalLance"
+	},
+	{
+		"abr": "shoulder-mountedeternalcosmicturretgun",
+		"price": 107750,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedSNS_Turret_EternalCosmic"
+	},
+	{
+		"abr": "shoulder-mountedeternalperditioncosmicturretgun",
+		"price": 106842,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedSNS_Turret_EternalPerditionCosmic"
+	},
+	{
+		"abr": "shoulder-mountedfakerifle",
+		"price": 101,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedRSDummy"
+	},
+	{
+		"abr": "shoulder-mountedfieldcannon",
+		"price": 5008,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedFT_TurretEmpero"
+	},
+	{
+		"abr": "shoulder-mountedfieldgun",
+		"price": 792,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedVFEP_Turret_FieldGun"
+	},
+	{
+		"abr": "shoulder-mountedfieldgun(air-burst)",
+		"price": 2383,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedSM_Turret_FieldGun_AirBurst"
+	},
+	{
+		"abr": "shoulder-mountedfieldgun(apds)",
+		"price": 2383,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedSM_Turret_FieldGun"
+	},
+	{
+		"abr": "shoulder-mountedfieldgun(he)",
+		"price": 2383,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedSM_Turret_FieldGun_HE"
+	},
+	{
+		"abr": "shoulder-mountedfieldgun(heat)",
+		"price": 2383,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedSM_Turret_FieldGun_HEAT"
+	},
+	{
+		"abr": "shoulder-mountedfieldgun(incendiary)",
+		"price": 2383,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedSM_Turret_FieldGun_Incendiary"
+	},
+	{
+		"abr": "shoulder-mountedfieldgun(whitephosphorus)",
+		"price": 2383,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedSM_Turret_FieldGun_WP"
+	},
+	{
+		"abr": "shoulder-mountedflameturretgun",
+		"price": 642,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedVFES_Turret_Flame"
+	},
+	{
+		"abr": "shoulder-mountedgauntletchargecannon",
+		"price": 3492,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedVFEP_ShipChunkGauntletTurret"
+	},
+	{
+		"abr": "shoulder-mountedguardianpylonturret",
+		"price": 1500,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedRF_GuardianPylon"
+	},
+	{
+		"abr": "shoulder-mountedheavycruciblecannon",
+		"price": 4908,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedTurret_FedHarvester"
+	},
+	{
+		"abr": "shoulder-mountedheavymachinegun",
+		"price": 1108,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedTurret_NestHMG"
+	},
+	{
+		"abr": "shoulder-mountedheavymachinegun",
+		"price": 633,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedTurret_MGEmplacement"
+	},
+	{
+		"abr": "shoulder-mountedheavyplasmaturret",
+		"price": 5150,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedO21_Halo_CovMortarPlasmaAuto"
+	},
+	{
+		"abr": "shoulder-mountedheavyturret",
+		"price": 18750,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedAMW_Turret_HeavyTurret"
+	},
+	{
+		"abr": "shoulder-mountedhowitzer",
+		"price": 3742,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedFT_TurretPrince"
+	},
+	{
+		"abr": "shoulder-mountedhwatchagun",
+		"price": 692,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedKurin_FireTurret"
+	},
+	{
+		"abr": "shoulder-mountedinfernocannon",
+		"price": 2333,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedTurret_AutoInferno"
+	},
+	{
+		"abr": "shoulder-mountedinfernocannon",
+		"price": 2333,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedTurret_InfernoTurret_WVC"
+	},
+	{
+		"abr": "shoulder-mountedkineticcannon",
+		"price": 1733,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedTurret_SuvTurret"
+	},
+	{
+		"abr": "shoulder-mountedlightchargeblaster",
+		"price": 2333,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedTurret_AutoChargeBlaster"
+	},
+	{
+		"abr": "shoulder-mountedlightchargeblaster",
+		"price": 2333,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedTurret_ChargeBlasterTurret_WVC"
+	},
+	{
+		"abr": "shoulder-mountedlightstellarturretgun",
+		"price": 3742,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedSNS_Turret_LightCosmic"
+	},
+	{
+		"abr": "shoulder-mountedlotusturret",
+		"price": 21517,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedAMW_Turret_LotusTurret"
+	},
+	{
+		"abr": "shoulder-mountedmachinegun",
+		"price": 817,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedTurret_NestMMG"
+	},
+	{
+		"abr": "shoulder-mountedmachinegun",
+		"price": 983,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedTurret_NestMissile"
+	},
+	{
+		"abr": "shoulder-mountedmachinegun",
+		"price": 633,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedFT_Turret_Bunker"
+	},
+	{
+		"abr": "shoulder-mountedmachinegun",
+		"price": 633,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedFT_Turret_BunkerM"
+	},
+	{
+		"abr": "shoulder-mountedmachinegun",
+		"price": 633,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedFT_Turret_BunkerC"
+	},
+	{
+		"abr": "shoulder-mountedmachinegun",
+		"price": 633,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedFT_Turret_BunkerF"
+	},
+	{
+		"abr": "shoulder-mountedmachinegun4xmounted",
+		"price": 683,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedFT_Maxim4M"
+	},
+	{
+		"abr": "shoulder-mountedmassacceleratorturretgun",
+		"price": 1083,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedRE_Turret_MassAccelerator"
+	},
+	{
+		"abr": "shoulder-mountedmassacceleratorturretgun",
+		"price": 5900,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedRE_Turret_HeavyMassAccelerator"
+	},
+	{
+		"abr": "shoulder-mountedmechanoidblaster",
+		"price": 17800,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedMPC_MechanoidBlasterTurret"
+	},
+	{
+		"abr": "shoulder-mountedmechanoiddevastator",
+		"price": 9967,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedMPC_MechanoidDevastatorTurret"
+	},
+	{
+		"abr": "shoulder-mountedmechanoidlaser",
+		"price": 7717,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedMPC_MechanoidLaserTurret"
+	},
+	{
+		"abr": "shoulder-mountedmechanoidmultiburst",
+		"price": 10592,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedMPC_MechanoidMultiTurret"
+	},
+	{
+		"abr": "shoulder-mountedmechanoidshockwave",
+		"price": 12967,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedMPC_MechanoidShockwaveTurret"
+	},
+	{
+		"abr": "shoulder-mountedmechanoidtrinity",
+		"price": 3592,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedMPC_MechanoidTrinityTurret"
+	},
+	{
+		"abr": "shoulder-mountedmilitaryturretdoublegun",
+		"price": 517,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedVFES_Turret_MilitaryTurret"
+	},
+	{
+		"abr": "shoulder-mountedmini-gunmini-turretgun",
+		"price": 6117,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedSM_Turret_mgmt"
+	},
+	{
+		"abr": "shoulder-mountedmini-honeylauncher",
+		"price": 1158,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedTurret_MiniHoneyLauncher"
+	},
+	{
+		"abr": "shoulder-mountedmini-slugger",
+		"price": 1600,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedTurret_AutoMiniTurret_WVC"
+	},
+	{
+		"abr": "shoulder-mountedmini-slugger",
+		"price": 5217,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedTurret_AutoNodeTurret_WVC"
+	},
+	{
+		"abr": "shoulder-mountedmini-sniperturretgun",
+		"price": 375,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedTurretGunLongRange"
+	},
+	{
+		"abr": "shoulder-mountedmini-turretgun",
+		"price": 383,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedTurret_MiniTurret"
+	},
+	{
+		"abr": "shoulder-mountedmoltencannon",
+		"price": 2067,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedTurret_MC"
+	},
+	{
+		"abr": "shoulder-mountedmortar",
+		"price": 792,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedTurret_Mortar"
+	},
+	{
+		"abr": "shoulder-mountedmortar",
+		"price": 1125,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedFT_Turret_Mortar"
+	},
+	{
+		"abr": "shoulder-mountedmountedhmg",
+		"price": 683,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedVFES_Turret_HMGComplex"
+	},
+	{
+		"abr": "shoulder-mountedmulti-barrelmortar",
+		"price": 7617,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedFT_TurretHexMortar"
+	},
+	{
+		"abr": "shoulder-mountednarqmini-turretgun",
+		"price": 1233,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedSM_Turret_NarqTurret"
+	},
+	{
+		"abr": "shoulder-mountedoverdriveautomatedlancegun",
+		"price": 652592,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedSNS_Turret_PerditionLance"
+	},
+	{
+		"abr": "shoulder-mountedoverdriveautomatedlancegun",
+		"price": 850300,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedSNS_Turret_PerditionHighStorageLance"
+	},
+	{
+		"abr": "shoulder-mountedoverdrivecatalystturretgun",
+		"price": 71458,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedSNS_Turret_PerditionSniper"
+	},
+	{
+		"abr": "shoulder-mountedpeashooter",
+		"price": 8,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedPVR_Peashooter"
+	},
+	{
+		"abr": "shoulder-mountedperditioncosmicturretgun",
+		"price": 23508,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedSNS_Turret_PerditionCosmic"
+	},
+	{
+		"abr": "shoulder-mountedperditionlightstellarturretgun",
+		"price": 4017,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedSNS_Turret_PerditionLightCosmic"
+	},
+	{
+		"abr": "shoulder-mountedplagueshreddergun",
+		"price": 1167,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedMP_Turret_PlagueShredder"
+	},
+	{
+		"abr": "shoulder-mountedplaguesnipergun",
+		"price": 383,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedMP_Turret_PlagueTurret"
+	},
+	{
+		"abr": "shoulder-mountedplasmabombard",
+		"price": 6967,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedTurret_PB"
+	},
+	{
+		"abr": "shoulder-mountedplasmaturret",
+		"price": 3867,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedO21_Halo_CovTurretPlasmaAuto"
+	},
+	{
+		"abr": "shoulder-mountedpnlhowitzerturret",
+		"price": 4858,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedPN_Artillery_Base_Core"
+	},
+	{
+		"abr": "shoulder-mountedpnlrailgunturret",
+		"price": 17333,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedPN_Railgun_Base_Core"
+	},
+	{
+		"abr": "shoulder-mountedprojectilelauncher",
+		"price": 783,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedTurret_Smartmine"
+	},
+	{
+		"abr": "shoulder-mountedrecoillesscannon",
+		"price": 1742,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedFT_RecoillessGun"
+	},
+	{
+		"abr": "shoulder-mountedrecycleturretgun",
+		"price": 1183,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedAnty_RecycleTurret"
+	},
+	{
+		"abr": "shoulder-mountedrecycleturretgun",
+		"price": 1183,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedAnty_RecycleTurretB"
+	},
+	{
+		"abr": "shoulder-mountedrecycleturretgun",
+		"price": 1850,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedAnty_RecycleTurretC"
+	},
+	{
+		"abr": "shoulder-mountedrepeater",
+		"price": 17,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedPVR_Repeater"
+	},
+	{
+		"abr": "shoulder-mountedrocketsalvo",
+		"price": 2400,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedRocketTurret"
+	},
+	{
+		"abr": "shoulder-mountedrocketturret",
+		"price": 28333,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedAMW_Turret_RocketTurret"
+	},
+	{
+		"abr": "shoulder-mountedsalvoturretlauncher",
+		"price": 2942,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedVFES_Turret_TriRocket"
+	},
+	{
+		"abr": "shoulder-mountedsearchlight",
+		"price": 297,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedVFES_Turret_Searchlight"
+	},
+	{
+		"abr": "shoulder-mountedsentinelpylonturret",
+		"price": 1500,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedRF_SentinelPylon"
+	},
+	{
+		"abr": "shoulder-mountedsentryturretgun",
+		"price": 733,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedVFES_Turret_SentryGun"
+	},
+	{
+		"abr": "shoulder-mountedshardsentrygun",
+		"price": 1733,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedTurret_ShardSentry"
+	},
+	{
+		"abr": "shoulder-mountedshardsentrygun",
+		"price": 2325,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedTurret_WaveEmitter"
+	},
+	{
+		"abr": "shoulder-mountedsnowpea",
+		"price": 15,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedPVR_SnowPea"
+	},
+	{
+		"abr": "shoulder-mountedsteamcannongun",
+		"price": 1208,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedTurret_SteamCannon"
+	},
+	{
+		"abr": "shoulder-mountedunschmg(turret)",
+		"price": 983,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedO21_Halo_UNSCTurretHMG"
+	},
+	{
+		"abr": "shoulder-mounteduraniumslugcannon",
+		"price": 2317,
+		"category": "Shoulder-mounted weapons",
+		"defname": "MountedTurret_Sniper"
+	},
+	{
+		"abr": "stormbolter",
+		"price": 2083,
+		"category": "Misc",
+		"defname": "VFEP_Box_StormBolter"
+	},
+	{
+		"abr": "stormbolter",
+		"price": 2083,
+		"category": "Ranged weapons",
+		"defname": "HP_WarcasketGun_StormBolter"
+	},
+	{
+		"abr": "stormgun",
+		"price": 2633,
+		"category": "Ranged weapons",
+		"defname": "XCOM_Gun_BeamShotgun"
+	},
+	{
+		"abr": "thunderhammer",
+		"price": 2433,
+		"category": "Misc",
+		"defname": "VFEP_Box_ThunderHammer"
+	},
+	{
+		"abr": "thunderhammer",
+		"price": 1450,
+		"category": "Melee weapons",
+		"defname": "HP_WarcasketMeleeWeapon_ThunderHammer"
+	},
+	{
+		"abr": "ultrablackmetamaterial",
+		"price": 8,
+		"category": "Raw resources",
+		"defname": "TMaterials_MetamaterialUltrablack"
+	},
+	{
+		"abr": "ultrablackmetamaterialscarab",
+		"price": 833,
+		"category": "Animal",
+		"defname": "Bug_TMaterials_MetamaterialUltrablack"
+	},
+	{
+		"abr": "uraniumphase-cannon",
+		"price": 7858,
+		"category": "Ranged weapons",
+		"defname": "XCOM_Gun_BeamHeavyAutocannon"
+	},
+	{
+		"abr": "warcasketauto-bolter",
+		"price": 2083,
+		"category": "Misc",
+		"defname": "VFEP_Box_AutoBolter"
+	},
+	{
+		"abr": "warcasketauto-bolter",
+		"price": -10,
+		"category": "Ranged weapons",
+		"defname": "VFEP_WarcasketGun_AutoBolter"
+	},
+	{
+		"abr": "warcasketaxe",
+		"price": 1533,
+		"category": "Misc",
+		"defname": "VFEPUA_Box_Axe"
+	},
+	{
+		"abr": "warcasketbaton",
+		"price": 1533,
+		"category": "Misc",
+		"defname": "VFEPUA_Box_Baton"
+	},
+	{
+		"abr": "warcasketbaton",
+		"price": -10,
+		"category": "Melee weapons",
+		"defname": "VFEPUA_WarcasketMeleeWeapon_Baton"
+	},
+	{
+		"abr": "warcasketchainsword",
+		"price": -10,
+		"category": "Melee weapons",
+		"defname": "VFEP_WarcasketMeleeWeapon_ChainSword"
+	},
+	{
+		"abr": "warcasketcombataxe",
+		"price": -10,
+		"category": "Melee weapons",
+		"defname": "VFEPUA_WarcasketMeleeWeapon_Axe"
+	},
+	{
+		"abr": "warcasketcryptoaxe",
+		"price": -10,
+		"category": "Melee weapons",
+		"defname": "VFEPUA_WarcasketMeleeWeapon_CryptoAxe"
+	},
+	{
+		"abr": "warcasketglaive",
+		"price": 2700,
+		"category": "Misc",
+		"defname": "VFEPUA_Box_Glaive"
+	},
+	{
+		"abr": "warcasketglaive",
+		"price": -10,
+		"category": "Melee weapons",
+		"defname": "VFEPUA_WarcasketMeleeWeapon_Glaive"
+	},
+	{
+		"abr": "warcaskethammer",
+		"price": 2700,
+		"category": "Misc",
+		"defname": "VFEPUA_Box_Hammer"
+	},
+	{
+		"abr": "warcasketheavybolterrifle",
+		"price": 4500,
+		"category": "Misc",
+		"defname": "VFEP_Box_HeavyBolterRifle"
+	},
+	{
+		"abr": "warcasketheavybolterrifle",
+		"price": -10,
+		"category": "Ranged weapons",
+		"defname": "VFEP_WarcasketGun_HeavyBolterRifle"
+	},
+	{
+		"abr": "warcasketkineticgauntlet",
+		"price": -10,
+		"category": "Melee weapons",
+		"defname": "VFEPUA_WarcasketMeleeWeapon_KineticGauntlet"
+	},
+	{
+		"abr": "warcasketknuckle",
+		"price": 1450,
+		"category": "Misc",
+		"defname": "VFEPUA_Box_Knuckle"
+	},
+	{
+		"abr": "warcasketmechabaton",
+		"price": 4458,
+		"category": "Misc",
+		"defname": "VFEPUA_Box_MechaBaton"
+	},
+	{
+		"abr": "warcasketmechabaton",
+		"price": -10,
+		"category": "Melee weapons",
+		"defname": "VFEPUA_WarcasketMeleeWeapon_MechaBaton"
+	},
+	{
+		"abr": "warcasketmechagauntlet",
+		"price": 4342,
+		"category": "Misc",
+		"defname": "VFEPUA_Box_MechaGauntlet"
+	},
+	{
+		"abr": "warcasketmechagauntlet",
+		"price": -10,
+		"category": "Melee weapons",
+		"defname": "VFEPUA_WarcasketMeleeWeapon_MechaGauntlet"
+	},
+	{
+		"abr": "warcasketmechahammer",
+		"price": 5492,
+		"category": "Misc",
+		"defname": "VFEPUA_Box_MechaHammer"
+	},
+	{
+		"abr": "warcasketmechahammer",
+		"price": -10,
+		"category": "Melee weapons",
+		"defname": "VFEPUA_WarcasketMeleeWeapon_MechaHammer"
+	},
+	{
+		"abr": "warcasketmonoknife",
+		"price": -10,
+		"category": "Melee weapons",
+		"defname": "VFEPUA_WarcasketMeleeWeapon_MonoKnife"
+	},
+	{
+		"abr": "warcasketmonospear",
+		"price": -10,
+		"category": "Melee weapons",
+		"defname": "VFEPUA_WarcasketMeleeWeapon_MonoSpear"
+	},
+	{
+		"abr": "warcasketplasmaglaive",
+		"price": -10,
+		"category": "Melee weapons",
+		"defname": "VFEPUA_WarcasketMeleeWeapon_PlasmaGlaive"
+	},
+	{
+		"abr": "warcasketplasmarifle",
+		"price": 5000,
+		"category": "Misc",
+		"defname": "VFEP_Box_PlasmaRifle"
+	},
+	{
+		"abr": "warcasketplasmarifle",
+		"price": -10,
+		"category": "Ranged weapons",
+		"defname": "VFEP_WarcasketGun_PlasmaRifle"
+	},
+	{
+		"abr": "warcasketpowersword",
+		"price": -10,
+		"category": "Melee weapons",
+		"defname": "VFEP_WarcasketMeleeWeapon_PowerSword"
+	},
+	{
+		"abr": "warcasketspear",
+		"price": 1883,
+		"category": "Misc",
+		"defname": "VFEPUA_Box_Spear"
+	},
+	{
+		"abr": "warcasketspear",
+		"price": -10,
+		"category": "Melee weapons",
+		"defname": "VFEPUA_WarcasketMeleeWeapon_Spear"
+	},
+	{
+		"abr": "warcasketsteelknuckle",
+		"price": -10,
+		"category": "Melee weapons",
+		"defname": "VFEPUA_WarcasketMeleeWeapon_Knuckle"
+	},
+	{
+		"abr": "warcasketwarhammer",
+		"price": -10,
+		"category": "Melee weapons",
+		"defname": "VFEPUA_WarcasketMeleeWeapon_Hammer"
+	},
+	{
+		"abr": "cartelarbalest",
+		"price": 2842,
+		"category": "Moyo ranged weapons",
+		"defname": "Moyo_CartelLongRifle"
+	},
+	{
+		"abr": "cartelbalisticarmor",
+		"price": 700,
+		"category": "Moyo Apparel",
+		"defname": "Moyo_CBsuit"
+	},
+	{
+		"abr": "cartelbalistichelmet",
+		"price": 333,
+		"category": "Moyo Headgear",
+		"defname": "Moyo_CBhelmet"
+	},
+	{
+		"abr": "cartelcarbine",
+		"price": 1892,
+		"category": "Moyo ranged weapons",
+		"defname": "Moyo_CarteCarbine"
+	},
+	{
+		"abr": "cartelcombatknife",
+		"price": 667,
+		"category": "Moyo melee weapons",
+		"defname": "Moyo_CombatKnife"
+	},
+	{
+		"abr": "cartelcompositesuit",
+		"price": 1050,
+		"category": "Moyo Apparel",
+		"defname": "Moyo_Cartelsuit"
+	},
+	{
+		"abr": "cartelencryptedcomponent",
+		"price": 833,
+		"category": "Manufactured",
+		"defname": "Cartel_AdvancedMachine"
+	},
+	{
+		"abr": "cartelexecutionerhelmet",
+		"price": 1633,
+		"category": "Moyo Headgear",
+		"defname": "Moyo_CEhelmet"
+	},
+	{
+		"abr": "cartelexecutionersuit",
+		"price": 5583,
+		"category": "Moyo Apparel",
+		"defname": "Moyo_CEsuit"
+	},
+	{
+		"abr": "cartelexecutivecoata",
+		"price": 1475,
+		"category": "Moyo Apparel",
+		"defname": "Moyo_CartelRobeA"
+	},
+	{
+		"abr": "cartelexecutivecoatb",
+		"price": 1475,
+		"category": "Moyo Apparel",
+		"defname": "Moyo_CartelRobeB"
+	},
+	{
+		"abr": "cartelexecutivesuit",
+		"price": 1583,
+		"category": "Moyo Apparel",
+		"defname": "Moyo_CartelRoyalsuit"
+	},
+	{
+		"abr": "cartelhandcannon",
+		"price": 1700,
+		"category": "Moyo ranged weapons",
+		"defname": "Moyo_CartelRevolver"
+	},
+	{
+		"abr": "cartelhoodedcloak",
+		"price": 1042,
+		"category": "Moyo Apparel",
+		"defname": "Moyo_CartelStrikerHood"
+	},
+	{
+		"abr": "cartelpersonavibroedge",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "Moyo_PersonaKatana"
+	},
+	{
+		"abr": "cartelsidearm",
+		"price": 625,
+		"category": "Moyo ranged weapons",
+		"defname": "Moyo_CartelPistol"
+	},
+	{
+		"abr": "cartelsmg",
+		"price": 1892,
+		"category": "Moyo ranged weapons",
+		"defname": "Moyo_CartelSMGa"
+	},
+	{
+		"abr": "cartelstrikergear",
+		"price": 2917,
+		"category": "Moyo Apparel",
+		"defname": "Moyo_CSgear"
+	},
+	{
+		"abr": "cartelstrikerhelmet",
+		"price": 1200,
+		"category": "Moyo Headgear",
+		"defname": "Moyo_CShelmet"
+	},
+	{
+		"abr": "cartelvibroedge",
+		"price": 3333,
+		"category": "Moyo melee weapons",
+		"defname": "Moyo_Katana"
+	},
+	{
+		"abr": "personabondeffector",
+		"price": 2500,
+		"category": "Items",
+		"defname": "MPT_BladelinkUncoder"
+	},
+	{
+		"abr": "personaextensioneffector",
+		"price": 2500,
+		"category": "Items",
+		"defname": "MPT_BladelinkExalt"
+	},
+	{
+		"abr": "personapsysword",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "MeleeWeapon_PsySwordBladelink"
+	},
+	{
+		"abr": "personareductioneffector",
+		"price": 1667,
+		"category": "Items",
+		"defname": "MPT_BladelinkAnnul"
+	},
+	{
+		"abr": "personareformateffector",
+		"price": 833,
+		"category": "Items",
+		"defname": "MPT_BladelinkReroller"
+	},
+	{
+		"abr": "plantfiber",
+		"price": 0,
+		"category": "Textiles",
+		"defname": "PlantFiber"
+	},
+	{
+		"abr": "pnlsilvercase",
+		"price": 1333,
+		"category": "PnL Industry",
+		"defname": "PN_SilverCase"
 	}
 	],
-	"total": 8910
+	"total": 9236
 }

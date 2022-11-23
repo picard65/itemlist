@@ -38277,13 +38277,13 @@
 	{
 		"abr": "controlsublink(high)",
 		"price": 2000,
-		"category": "Archotech",
+		"category": "Mechtech",
 		"defname": "ControlSublinkHigh"
 	},
 	{
 		"abr": "controlsublink(standard)",
 		"price": 2000,
-		"category": "Archotech",
+		"category": "Mechtech",
 		"defname": "ControlSublink"
 	},
 	{
@@ -41067,7 +41067,7 @@
 	{
 		"abr": "mechgestationprocessor",
 		"price": 2000,
-		"category": "Archotech",
+		"category": "Mechtech",
 		"defname": "MechFormfeeder"
 	},
 	{
@@ -41121,7 +41121,7 @@
 	{
 		"abr": "mechlink",
 		"price": -10,
-		"category": "Archotech",
+		"category": "Mechtech",
 		"defname": "Mechlink"
 	},
 	{
@@ -44037,19 +44037,19 @@
 	{
 		"abr": "remoterepairer",
 		"price": 2000,
-		"category": "Archotech",
+		"category": "Mechtech",
 		"defname": "RemoteRepairer"
 	},
 	{
 		"abr": "remoteshielder",
 		"price": 2000,
-		"category": "Archotech",
+		"category": "Mechtech",
 		"defname": "RemoteShielder"
 	},
 	{
 		"abr": "repairprobe",
 		"price": 2000,
-		"category": "Archotech",
+		"category": "Mechtech",
 		"defname": "RepairProbe"
 	},
 	{
@@ -45437,7 +45437,1153 @@
 		"price": 271,
 		"category": "Misc",
 		"defname": "LTS_WalmartCarpet"
+	},
+	{
+		"abr": "wasterat",
+		"price": 58,
+		"category": "Animals",
+		"defname": "WasteRat"
+	},
+	{
+		"abr": "wetclayclumps",
+		"price": -10,
+		"category": "Manufactured",
+		"defname": "VBY_ClayPaste"
+	},
+	{
+		"abr": "widowmaker",
+		"price": 9333,
+		"category": "Ranged weapons",
+		"defname": "CAC_SniperRifle"
+	},
+	{
+		"abr": "winchestermodel70",
+		"price": 417,
+		"category": "Ranged weapons",
+		"defname": "CP_Gun_BoltActionRifle"
+	},
+	{
+		"abr": "wolvers",
+		"price": 1000,
+		"category": "Body parts",
+		"defname": "Wolvers_CP"
+	},
+	{
+		"abr": "woodcover",
+		"price": 46,
+		"category": "Misc",
+		"defname": "LTS_AtlasWoodCover"
+	},
+	{
+		"abr": "wovenwastebin",
+		"price": 77,
+		"category": "Furniture",
+		"defname": "VBY_Woven_BasketWaste"
+	},
+	{
+		"abr": "wraithcannon",
+		"price": 16667,
+		"category": "Ranged weapons",
+		"defname": "RNGun_WraithCannon_HMG"
+	},
+	{
+		"abr": "x-duskimplant",
+		"price": 25000,
+		"category": "Elite collection",
+		"defname": "DF_XDusk_Implant"
+	},
+	{
+		"abr": "xenogerm",
+		"price": 167,
+		"category": "Misc",
+		"defname": "Xenogerm"
+	},
+	{
+		"abr": "x-hyperimplant",
+		"price": 2500,
+		"category": "X collection",
+		"defname": "DF_XHyper_Implant"
+	},
+	{
+		"abr": "x-ironskinimplant",
+		"price": 2500,
+		"category": "X collection",
+		"defname": "DF_XIronskin_Implant"
+	},
+	{
+		"abr": "xithricite",
+		"price": 17,
+		"category": "Metals",
+		"defname": "Xithricite"
+	},
+	{
+		"abr": "x-perceptionimplant",
+		"price": 2500,
+		"category": "X collection",
+		"defname": "DF_XPerception_Implant"
+	},
+	{
+		"abr": "x-violenceimplant",
+		"price": 2500,
+		"category": "X collection",
+		"defname": "DF_XViolence_Implant"
+	},
+	{
+		"abr": "yeoldepocketdimension",
+		"price": 833,
+		"category": "Special",
+		"defname": "KB_PocketDimensionBox_Magic"
+	},
+	{
+		"abr": "yeoldepocketdimensionexit",
+		"price": 3,
+		"category": "Special",
+		"defname": "KB_PocketDimensionExit_Magic"
+	},
+	{
+		"abr": "yellowimplantworkbench",
+		"price": 367,
+		"category": "Production",
+		"defname": "WVC_YellowCraftingBench"
+	},
+	{
+		"abr": "yggdrasill",
+		"price": 55,
+		"category": "Drugs",
+		"defname": "TBBA_Yggdrasill"
+	},
+	{
+		"abr": "zoom",
+		"price": 2275,
+		"category": "Cybernetic",
+		"defname": "CONN_Zoom"
+	},
+	{
+		"abr": "archodrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Archo_Drone"
+	},
+	{
+		"abr": "archohoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Archo_Honeycomb"
+	},
+	{
+		"abr": "archoqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Archo_Queen"
+	},
+	{
+		"abr": "archotechanimalproduct",
+		"price": 8,
+		"category": "Animal products",
+		"defname": "ArchotechMilkEggThing"
+	},
+	{
+		"abr": "archotechbattery",
+		"price": 9958,
+		"category": "Special",
+		"defname": "MAG_ArchotechBatteryS"
+	},
+	{
+		"abr": "archotechcleaner",
+		"price": 3000,
+		"category": "Furniture",
+		"defname": "MAG_GarbageBin"
+	},
+	{
+		"abr": "archotechcooler",
+		"price": 400,
+		"category": "Special",
+		"defname": "ArchoReverseTemperatureThing"
+	},
+	{
+		"abr": "archotechdarklight",
+		"price": 383,
+		"category": "Special",
+		"defname": "ArchoLampThingDark"
+	},
+	{
+		"abr": "archotechfish",
+		"price": 8,
+		"category": "Raw fish",
+		"defname": "MAG_VCEF_ArchotechFish"
+	},
+	{
+		"abr": "archotechfragment",
+		"price": 67,
+		"category": "Raw resources",
+		"defname": "ArchotechScrap"
+	},
+	{
+		"abr": "archotechheater",
+		"price": 400,
+		"category": "Special",
+		"defname": "ArchoStandardTemperatureThing"
+	},
+	{
+		"abr": "archotechkibble",
+		"price": 50,
+		"category": "Foods",
+		"defname": "MAG_Archotech_Kibble"
+	},
+	{
+		"abr": "archotechlight",
+		"price": 383,
+		"category": "Special",
+		"defname": "ArchoLampThing"
+	},
+	{
+		"abr": "archotechlimbassembler",
+		"price": 24400,
+		"category": "Special",
+		"defname": "ArchoPartAssembler"
+	},
+	{
+		"abr": "archotechmass",
+		"price": 33,
+		"category": "Metals",
+		"defname": "archotechmatteraddingsomecraptoavoidproblems"
+	},
+	{
+		"abr": "archotechmeal",
+		"price": 300,
+		"category": "Meals",
+		"defname": "MealArchoAdvanced"
+	},
+	{
+		"abr": "archotechmeat",
+		"price": 8,
+		"category": "Meat",
+		"defname": "SuperDuperArchoMeat"
+	},
+	{
+		"abr": "archotechmedicine",
+		"price": 2083,
+		"category": "Medicine",
+		"defname": "ArchotechishMedicine"
+	},
+	{
+		"abr": "archotechnourisher",
+		"price": 5900,
+		"category": "Special",
+		"defname": "ArchoCookingAssistant"
+	},
+	{
+		"abr": "archotechplantmatter",
+		"price": 8,
+		"category": "Vegetarian",
+		"defname": "SuperDuperArchoPlant"
+	},
+	{
+		"abr": "archotechresearchassistant",
+		"price": 13983,
+		"category": "Special",
+		"defname": "ArchoDecipherAI"
+	},
+	{
+		"abr": "archotechsprinkler",
+		"price": 1667,
+		"category": "Special",
+		"defname": "MAG_VFE_ArchotechSprinkler"
+	},
+	{
+		"abr": "archotechworkbench",
+		"price": 2617,
+		"category": "Production",
+		"defname": "ArchBench"
+	},
+	{
+		"abr": "beeresearch(unfinished)",
+		"price": 83,
+		"category": "Bee research",
+		"defname": "RB_RandomArchotechResearch"
+	},
+	{
+		"abr": "beeresearch(unfinished)",
+		"price": 83,
+		"category": "Bee research",
+		"defname": "RB_RandomDiceOfDestinyResearch"
+	},
+	{
+		"abr": "beeresearchpapers(diceofdestiny)",
+		"price": 83,
+		"category": "Bee research",
+		"defname": "RB_ResearchPapersAdaptiveAurum"
+	},
+	{
+		"abr": "beeresearchpapers(diceofdestiny)",
+		"price": 83,
+		"category": "Bee research",
+		"defname": "RB_ResearchPapersCasinoOily"
+	},
+	{
+		"abr": "beeresearchpapers(diceofdestiny)",
+		"price": 83,
+		"category": "Bee research",
+		"defname": "RB_ResearchPapersBeeResearchCasinoPrecious"
+	},
+	{
+		"abr": "beeresearchpapers(morearchotechgarbage)",
+		"price": 83,
+		"category": "Bee research",
+		"defname": "RB_ResearchPapersFabricatedHyper"
+	},
+	{
+		"abr": "blindnessbeacon",
+		"price": 12500,
+		"category": "Special",
+		"defname": "ArchotechBlindnessBeacon"
+	},
+	{
+		"abr": "casinodrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Casino_Drone"
+	},
+	{
+		"abr": "casinohoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Casino_Honeycomb"
+	},
+	{
+		"abr": "casinoqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Casino_Queen"
+	},
+	{
+		"abr": "combatbeacon",
+		"price": 12500,
+		"category": "Special",
+		"defname": "ArchotechPewPewBeacon"
+	},
+	{
+		"abr": "constructionbeacon",
+		"price": 12500,
+		"category": "Special",
+		"defname": "ArchotechConstructBeacon"
+	},
+	{
+		"abr": "dice",
+		"price": 100,
+		"category": "Dices",
+		"defname": "DiceOfDestiny_Dice"
+	},
+	{
+		"abr": "diceofbadomen",
+		"price": 1000,
+		"category": "Dices",
+		"defname": "DiceOfDestiny_DiceOfBadOmen"
+	},
+	{
+		"abr": "diceofchaos",
+		"price": 1000,
+		"category": "Dices",
+		"defname": "DiceOfDestiny_DiceOfChaos"
+	},
+	{
+		"abr": "diceofdespair",
+		"price": 3000,
+		"category": "Dices",
+		"defname": "DiceOfDestiny_DiceOfDespair"
+	},
+	{
+		"abr": "diceoffortune",
+		"price": 2000,
+		"category": "Dices",
+		"defname": "DiceOfDestiny_DiceOfFortune"
+	},
+	{
+		"abr": "diligentmemorysculpture",
+		"price": 1075,
+		"category": "Art",
+		"defname": "Heruan_SculptureDiligent"
+	},
+	{
+		"abr": "diligentmemoryshard",
+		"price": 83,
+		"category": "Memory shards",
+		"defname": "Heruan_ShardDiligent"
+	},
+	{
+		"abr": "dualblade",
+		"price": 15000,
+		"category": "Melee weapons",
+		"defname": "RNMelee_DFDual_Blade"
+	},
+	{
+		"abr": "essenceofarchotech",
+		"price": 833,
+		"category": "Essence of the universe",
+		"defname": "Makai_MAG-Path_E"
+	},
+	{
+		"abr": "essenceofinfinity",
+		"price": 833,
+		"category": "Essence of the universe",
+		"defname": "Makai_Ducks-Path_E"
+	},
+	{
+		"abr": "faunabeacon",
+		"price": 12500,
+		"category": "Special",
+		"defname": "ArchotechZooBeacon"
+	},
+	{
+		"abr": "florabeacon",
+		"price": 12500,
+		"category": "Special",
+		"defname": "ArchotechPlantBeacon"
+	},
+	{
+		"abr": "fortunatedrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Fortunate_Drone"
+	},
+	{
+		"abr": "fortunatehoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Fortunate_Honeycomb"
+	},
+	{
+		"abr": "fortunatequeen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Fortunate_Queen"
+	},
+	{
+		"abr": "fragilitybeacon",
+		"price": 12500,
+		"category": "Special",
+		"defname": "ArchotechFragilityBeacon"
+	},
+	{
+		"abr": "gourmetbeacon",
+		"price": 12500,
+		"category": "Special",
+		"defname": "ArchotechRamseyBeacon"
+	},
+	{
+		"abr": "growthbeacon",
+		"price": 12500,
+		"category": "Special",
+		"defname": "ArchotechMeatLeatherYieldBeacon"
+	},
+	{
+		"abr": "hastebeacon",
+		"price": 12500,
+		"category": "Special",
+		"defname": "ArchotechHermesBeacon"
+	},
+	{
+		"abr": "healthbeacon",
+		"price": 12500,
+		"category": "Special",
+		"defname": "ArchotechHealMyBootyBeacon"
+	},
+	{
+		"abr": "heruan",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "Aelanna_Heruan"
+	},
+	{
+		"abr": "heruandagger",
+		"price": 483,
+		"category": "Melee weapons",
+		"defname": "Heruan_Dagger"
+	},
+	{
+		"abr": "heruankhopesh",
+		"price": 1192,
+		"category": "Melee weapons",
+		"defname": "Heruan_Khopesh"
+	},
+	{
+		"abr": "heruansolarlance",
+		"price": 2508,
+		"category": "Melee weapons",
+		"defname": "Heruan_SolarLance"
+	},
+	{
+		"abr": "insightfulmemorysculpture",
+		"price": 1075,
+		"category": "Art",
+		"defname": "Heruan_SculptureInsightful"
+	},
+	{
+		"abr": "insightfulmemoryshard",
+		"price": 83,
+		"category": "Memory shards",
+		"defname": "Heruan_ShardInsightful"
+	},
+	{
+		"abr": "knowledgebeacon",
+		"price": 12500,
+		"category": "Special",
+		"defname": "ArchotechBrainBeacon"
+	},
+	{
+		"abr": "largearchotechreplicator",
+		"price": 2031217,
+		"category": "Special",
+		"defname": "MAG_ArchoReproductorLarge"
+	},
+	{
+		"abr": "largecommonchest",
+		"price": 583,
+		"category": "Loot boxes",
+		"defname": "LootBoxSilverLarge"
+	},
+	{
+		"abr": "largegoldenchest",
+		"price": 1500,
+		"category": "Loot boxes",
+		"defname": "LootBoxGoldLarge"
+	},
+	{
+		"abr": "lunarrobe",
+		"price": 2108,
+		"category": "Heruan",
+		"defname": "Heruan_LunarArmor"
+	},
+	{
+		"abr": "mediumarchotechreplicator",
+		"price": 225875,
+		"category": "Special",
+		"defname": "MAG_ArchoReproductorMedium"
+	},
+	{
+		"abr": "memoryrecorder",
+		"price": 492,
+		"category": "Heruan",
+		"defname": "Heruan_MemoryRecorder"
+	},
+	{
+		"abr": "miniaturearchotechreplicator",
+		"price": 2842,
+		"category": "Special",
+		"defname": "MAG_ArchoReproductorMini"
+	},
+	{
+		"abr": "miningbeacon",
+		"price": 12500,
+		"category": "Special",
+		"defname": "ArchotechDiggeyBeacon"
+	},
+	{
+		"abr": "motivationbeacon",
+		"price": 12500,
+		"category": "Special",
+		"defname": "ArchotechGenerictBeacon"
+	},
+	{
+		"abr": "mysteriousredchest",
+		"price": 175,
+		"category": "Production",
+		"defname": "LootBoxBench"
+	},
+	{
+		"abr": "nurturingmemorysculpture",
+		"price": 1075,
+		"category": "Art",
+		"defname": "Heruan_SculptureNurturing"
+	},
+	{
+		"abr": "nurturingmemoryshard",
+		"price": 83,
+		"category": "Memory shards",
+		"defname": "Heruan_ShardNurturing"
+	},
+	{
+		"abr": "ominousdrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Ominous_Drone"
+	},
+	{
+		"abr": "ominoushoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Ominous_Honeycomb"
+	},
+	{
+		"abr": "ominousqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Ominous_Queen"
+	},
+	{
+		"abr": "painbeacon",
+		"price": 12500,
+		"category": "Special",
+		"defname": "ArchotechPainIncreaseBeacon"
+	},
+	{
+		"abr": "painsuppressionbeacon",
+		"price": 12500,
+		"category": "Special",
+		"defname": "ArchotechPainDecreaseBeacon"
+	},
+	{
+		"abr": "pandorasbox",
+		"price": 667,
+		"category": "Loot boxes",
+		"defname": "LootBoxPandora"
+	},
+	{
+		"abr": "advancedbionicarm",
+		"price": 2750,
+		"category": "Bionic",
+		"defname": "OE_ProstheticArm_M"
+	},
+	{
+		"abr": "advancedbionicear",
+		"price": 2675,
+		"category": "Bionic",
+		"defname": "OE_ProstheticEar_M"
+	},
+	{
+		"abr": "advancedbioniceye",
+		"price": 2675,
+		"category": "Bionic",
+		"defname": "OE_ProstheticEye_M"
+	},
+	{
+		"abr": "advancedbionicheart",
+		"price": 2675,
+		"category": "Bionic",
+		"defname": "OE_ProstheticHeart_M"
+	},
+	{
+		"abr": "advancedbionicjaw",
+		"price": 2675,
+		"category": "Bionic",
+		"defname": "OE_ProstheticJaw_M"
+	},
+	{
+		"abr": "advancedbionickidney",
+		"price": 2675,
+		"category": "Bionic",
+		"defname": "OE_ProstheticKidney_M"
+	},
+	{
+		"abr": "advancedbionicleg",
+		"price": 2750,
+		"category": "Bionic",
+		"defname": "OE_ProstheticLeg_M"
+	},
+	{
+		"abr": "advancedbionicliver",
+		"price": 2675,
+		"category": "Bionic",
+		"defname": "OE_ProstheticLiver_M"
+	},
+	{
+		"abr": "advancedbioniclung",
+		"price": 2675,
+		"category": "Bionic",
+		"defname": "OE_ProstheticLung_M"
+	},
+	{
+		"abr": "advancedbionicspine",
+		"price": 2750,
+		"category": "Bionic",
+		"defname": "OE_ProstheticSpine_M"
+	},
+	{
+		"abr": "advancedbionicstomach",
+		"price": 2675,
+		"category": "Bionic",
+		"defname": "OE_ProstheticStomach_M"
+	},
+	{
+		"abr": "armimplant-assassin",
+		"price": 1908,
+		"category": "Bionic",
+		"defname": "OE_ImplantArm_Assassin"
+	},
+	{
+		"abr": "armimplant-demolisher",
+		"price": 1908,
+		"category": "Bionic",
+		"defname": "OE_ImplantArm_Demolisher"
+	},
+	{
+		"abr": "armimplant-duelist",
+		"price": 1908,
+		"category": "Bionic",
+		"defname": "OE_ImplantArm_Duelist"
+	},
+	{
+		"abr": "armimplant-sting(acid)",
+		"price": 1908,
+		"category": "Bionic",
+		"defname": "OE_ImplantArm_Sting_Acid"
+	},
+	{
+		"abr": "armimplant-sting(cryo)",
+		"price": 1908,
+		"category": "Bionic",
+		"defname": "OE_ImplantArm_Sting_Cryo"
+	},
+	{
+		"abr": "armimplant-sting(emp)",
+		"price": 1908,
+		"category": "Bionic",
+		"defname": "OE_ImplantArm_Sting_EMP"
+	},
+	{
+		"abr": "armimplant-sting(fire)",
+		"price": 1908,
+		"category": "Bionic",
+		"defname": "OE_ImplantArm_Sting_Fire"
+	},
+	{
+		"abr": "bionicarm",
+		"price": 1983,
+		"category": "Bionic",
+		"defname": "OE_ProstheticArm"
+	},
+	{
+		"abr": "bionicear",
+		"price": 1867,
+		"category": "Bionic",
+		"defname": "OE_ProstheticEar"
+	},
+	{
+		"abr": "bioniceye",
+		"price": 1867,
+		"category": "Bionic",
+		"defname": "OE_ProstheticEye"
+	},
+	{
+		"abr": "bionicheart",
+		"price": 1867,
+		"category": "Bionic",
+		"defname": "OE_ProstheticHeart"
+	},
+	{
+		"abr": "bionicjaw",
+		"price": 1867,
+		"category": "Bionic",
+		"defname": "OE_ProstheticJaw"
+	},
+	{
+		"abr": "bionickidney",
+		"price": 1867,
+		"category": "Bionic",
+		"defname": "OE_ProstheticKidney"
+	},
+	{
+		"abr": "bionicleg",
+		"price": 1983,
+		"category": "Bionic",
+		"defname": "OE_ProstheticLeg"
+	},
+	{
+		"abr": "bionicliver",
+		"price": 1867,
+		"category": "Bionic",
+		"defname": "OE_ProstheticLiver"
+	},
+	{
+		"abr": "bioniclung",
+		"price": 1867,
+		"category": "Bionic",
+		"defname": "OE_ProstheticLung"
+	},
+	{
+		"abr": "bionicspine",
+		"price": 1983,
+		"category": "Bionic",
+		"defname": "OE_ProstheticSpine"
+	},
+	{
+		"abr": "bionicstomach",
+		"price": 1867,
+		"category": "Bionic",
+		"defname": "OE_ProstheticStomach"
+	},
+	{
+		"abr": "brainimplant-psychicallydeaf",
+		"price": 1867,
+		"category": "Bionic",
+		"defname": "OE_ImplantBrain_Psydeaf"
+	},
+	{
+		"abr": "brainimplant-sacrifice",
+		"price": 1867,
+		"category": "Bionic",
+		"defname": "OE_ImplantBrain_Prisoner"
+	},
+	{
+		"abr": "brainimplant-sacrifice",
+		"price": 1242,
+		"category": "Bionic",
+		"defname": "OE_ImplantBrain_Slave"
+	},
+	{
+		"abr": "cultistbionicarm",
+		"price": 5833,
+		"category": "Bionic",
+		"defname": "OE_ProstheticArm_CAC"
+	},
+	{
+		"abr": "cultistbionicear",
+		"price": 5833,
+		"category": "Bionic",
+		"defname": "OE_ProstheticEar_CAC"
+	},
+	{
+		"abr": "cultistbioniceye",
+		"price": 5833,
+		"category": "Bionic",
+		"defname": "OE_ProstheticEye_CAC"
+	},
+	{
+		"abr": "cultistbionicheart",
+		"price": 5833,
+		"category": "Bionic",
+		"defname": "OE_ProstheticHeart_CAC"
+	},
+	{
+		"abr": "cultistbionicjaw",
+		"price": 5833,
+		"category": "Bionic",
+		"defname": "OE_ProstheticJaw_CAC"
+	},
+	{
+		"abr": "cultistbionickidney",
+		"price": 5833,
+		"category": "Bionic",
+		"defname": "OE_ProstheticKidney_CAC"
+	},
+	{
+		"abr": "cultistbionicleg",
+		"price": 5833,
+		"category": "Bionic",
+		"defname": "OE_ProstheticLeg_CAC"
+	},
+	{
+		"abr": "cultistbionicliver",
+		"price": 5833,
+		"category": "Bionic",
+		"defname": "OE_ProstheticLiver_CAC"
+	},
+	{
+		"abr": "cultistbioniclung",
+		"price": 5833,
+		"category": "Bionic",
+		"defname": "OE_ProstheticLung_CAC"
+	},
+	{
+		"abr": "cultistbionicspine",
+		"price": 5833,
+		"category": "Bionic",
+		"defname": "OE_ProstheticSpine_CAC"
+	},
+	{
+		"abr": "cultistbionicstomach",
+		"price": 5833,
+		"category": "Bionic",
+		"defname": "OE_ProstheticStomach_CAC"
+	},
+	{
+		"abr": "cyberware-beastmaster",
+		"price": 2300,
+		"category": "Archotech",
+		"defname": "OE_CyberwareNeck_Beastmaster"
+	},
+	{
+		"abr": "cyberware-drugfilter(basic)",
+		"price": 2300,
+		"category": "Archotech",
+		"defname": "OE_CyberwareTorso_Drugfilter_Basic"
+	},
+	{
+		"abr": "cyberware-drugfilter(exotic)",
+		"price": 2300,
+		"category": "Archotech",
+		"defname": "OE_CyberwareTorso_Drugfilter_Exotic"
+	},
+	{
+		"abr": "cyberware-drugfilter(obsidia)",
+		"price": 2300,
+		"category": "Archotech",
+		"defname": "OE_CyberwareTorso_Drugfilter_Obsidia"
+	},
+	{
+		"abr": "cyberware-ideologist",
+		"price": 2300,
+		"category": "Archotech",
+		"defname": "OE_CyberwareNeck_Ideologist"
+	},
+	{
+		"abr": "cyberware-melee",
+		"price": 2300,
+		"category": "Archotech",
+		"defname": "OE_CyberwareHead_Melee"
+	},
+	{
+		"abr": "cyberware-optimist",
+		"price": 2300,
+		"category": "Archotech",
+		"defname": "OE_CyberwareHead_Optimist"
+	},
+	{
+		"abr": "cyberware-pessimist",
+		"price": 2300,
+		"category": "Archotech",
+		"defname": "OE_CyberwareHead_Pessimist"
+	},
+	{
+		"abr": "cyberware-psy",
+		"price": 2300,
+		"category": "Archotech",
+		"defname": "OE_CyberwareHead_Psy"
+	},
+	{
+		"abr": "cyberware-ranger",
+		"price": 2300,
+		"category": "Archotech",
+		"defname": "OE_CyberwareHead_Ranged"
+	},
+	{
+		"abr": "cyberware-recruiter",
+		"price": 2300,
+		"category": "Archotech",
+		"defname": "OE_CyberwareNeck_Recruiter"
+	},
+	{
+		"abr": "cyberware-relaxing",
+		"price": 2300,
+		"category": "Archotech",
+		"defname": "OE_CyberwareHead_Relaxing"
+	},
+	{
+		"abr": "cyberware-social",
+		"price": 2300,
+		"category": "Archotech",
+		"defname": "OE_CyberwareNeck_Social"
+	},
+	{
+		"abr": "cyberware-temperatureprotector",
+		"price": 2300,
+		"category": "Archotech",
+		"defname": "OE_CyberwareTorso_Temperature"
+	},
+	{
+		"abr": "cyberware-trader",
+		"price": 2300,
+		"category": "Archotech",
+		"defname": "OE_CyberwareNeck_Trader"
+	},
+	{
+		"abr": "cyberware-workout",
+		"price": 2300,
+		"category": "Archotech",
+		"defname": "OE_CyberwareHead_Workout"
+	},
+	{
+		"abr": "cyberwareai-agronomist",
+		"price": 2925,
+		"category": "Archotech",
+		"defname": "OE_CyberwareBrain_Agronomist"
+	},
+	{
+		"abr": "cyberwareai-builder",
+		"price": 2925,
+		"category": "Archotech",
+		"defname": "OE_CyberwareBrain_Builder"
+	},
+	{
+		"abr": "cyberwareai-consciousness",
+		"price": 2925,
+		"category": "Archotech",
+		"defname": "OE_CyberwareBrain_Consciousness"
+	},
+	{
+		"abr": "cyberwareai-doctor",
+		"price": 2925,
+		"category": "Archotech",
+		"defname": "OE_CyberwareBrain_Doctor"
+	},
+	{
+		"abr": "cyberwareai-mechanitor",
+		"price": 2925,
+		"category": "Archotech",
+		"defname": "OE_CyberwareBrain_Mechanitor"
+	},
+	{
+		"abr": "cyberwareai-psy",
+		"price": 2925,
+		"category": "Archotech",
+		"defname": "OE_CyberwareBrain_Psy"
+	},
+	{
+		"abr": "cyberwareai-soldier",
+		"price": 2925,
+		"category": "Archotech",
+		"defname": "OE_CyberwareBrain_Soldier"
+	},
+	{
+		"abr": "cyberwareaiinterface",
+		"price": 4167,
+		"category": "Bionic",
+		"defname": "OE_ImplantBrain_Interface"
+	},
+	{
+		"abr": "cyberwareinterface",
+		"price": 3225,
+		"category": "Bionic",
+		"defname": "OE_ImplantTorso_Interface"
+	},
+	{
+		"abr": "eyeset",
+		"price": 667,
+		"category": "Natural",
+		"defname": "EyeSet"
+	},
+	{
+		"abr": "handimplant-agronomist",
+		"price": 1908,
+		"category": "Bionic",
+		"defname": "OE_ImplantHand_Agronomist"
+	},
+	{
+		"abr": "handimplant-builder",
+		"price": 1908,
+		"category": "Bionic",
+		"defname": "OE_ImplantHand_Builder"
+	},
+	{
+		"abr": "handimplant-doctor",
+		"price": 1908,
+		"category": "Bionic",
+		"defname": "OE_ImplantHand_Doctor"
+	},
+	{
+		"abr": "handimplant-harvester",
+		"price": 1908,
+		"category": "Bionic",
+		"defname": "OE_ImplantHand_Harvester"
+	},
+	{
+		"abr": "handimplant-psy",
+		"price": 1908,
+		"category": "Bionic",
+		"defname": "OE_ImplantHand_Psy"
+	},
+	{
+		"abr": "handimplant-soldier",
+		"price": 1908,
+		"category": "Bionic",
+		"defname": "OE_ImplantHand_Soldier"
+	},
+	{
+		"abr": "heartimplant-healing",
+		"price": 1975,
+		"category": "Bionic",
+		"defname": "OE_ImplantHeart_Healing"
+	},
+	{
+		"abr": "kidtribalwear",
+		"price": 108,
+		"category": "Misc",
+		"defname": "Apparel_KidTribal"
+	},
+	{
+		"abr": "kidneyimplant-coagulator",
+		"price": 1975,
+		"category": "Bionic",
+		"defname": "OE_ImplantKidney_Coagulator"
+	},
+	{
+		"abr": "legimplant-ninja",
+		"price": 1908,
+		"category": "Bionic",
+		"defname": "OE_ImplantLeg_Ninja"
+	},
+	{
+		"abr": "liverimplant-immuneassistant",
+		"price": 1975,
+		"category": "Bionic",
+		"defname": "OE_ImplantLiver_Antibiotic"
+	},
+	{
+		"abr": "lungimplant-antitox-filter",
+		"price": 1975,
+		"category": "Bionic",
+		"defname": "OE_ImplantLung_Filtration"
+	},
+	{
+		"abr": "mantodeanheart",
+		"price": 833,
+		"category": "Natural",
+		"defname": "Mantodean_InsectHeart"
+	},
+	{
+		"abr": "needlelauncher",
+		"price": 2333,
+		"category": "Ranged weapons",
+		"defname": "Gun_NeedleLauncher"
+	},
+	{
+		"abr": "obsidiabionictable",
+		"price": 2325,
+		"category": "Production",
+		"defname": "OE_BionicTable"
+	},
+	{
+		"abr": "poluxseed",
+		"price": 2000,
+		"category": "Misc",
+		"defname": "PoluxSeed"
+	},
+	{
+		"abr": "primitivearchotechlight",
+		"price": 107,
+		"category": "Special",
+		"defname": "MAG_ArchotechTorchLamp"
+	},
+	{
+		"abr": "protectionbeacon",
+		"price": 12500,
+		"category": "Special",
+		"defname": "ArchotechProtectMyBootyBeacon"
+	},
+	{
+		"abr": "psychicamplifierbeacon",
+		"price": 12500,
+		"category": "Special",
+		"defname": "ArchotechPsychicAmpBeacon"
+	},
+	{
+		"abr": "psychicdeafnessbeacon",
+		"price": 12500,
+		"category": "Special",
+		"defname": "ArchotechPsychicDeafnessBeacon"
+	},
+	{
+		"abr": "resourceassembler",
+		"price": 16117,
+		"category": "Special",
+		"defname": "SexyResourceDispenser"
+	},
+	{
+		"abr": "skinimplant-cultist",
+		"price": 5833,
+		"category": "Bionic",
+		"defname": "OE_ImplantSkin_CAC"
 	}
 	],
-	"total": 7639
+	"total": 7786
 }

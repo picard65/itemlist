@@ -1,0 +1,3386 @@
+[
+  {
+    "author": "Andreas Pardeike",
+    "name": "Harmony",
+    "steamId": "2009463077",
+    "version": "1.5.0.0"
+  },
+  {
+    "author": "BBBBilly",
+    "name": "WildPotato",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "HugsLib",
+    "steamId": "818773962",
+    "version": "10.0.1"
+  },
+  {
+    "author": "meowmeow",
+    "name": "DeepRim (Continued)",
+    "steamId": "2164179860",
+    "version": "1.4.1"
+  },
+  {
+    "author": "Captain Muscles (Nathan Harbour)",
+    "name": "Pocket Dimensions",
+    "steamId": "2885998212",
+    "version": "1.0.12"
+  },
+  {
+    "author": "RedMattis",
+    "name": "Better Gene Prerequisites",
+    "steamId": "2925432336",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "newcolonist",
+    "name": "Large Faction Bases",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "RedMattis",
+    "name": "Big and Small Genes (Core)",
+    "steamId": "2920751126",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "RedMattis",
+    "name": "Big and Small Races",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Smash Phil",
+    "name": "Vanilla Achievements Expanded",
+    "steamId": "2288125657",
+    "version": "1.4.8315.17730"
+  },
+  {
+    "author": "ToyWalrus",
+    "name": "A Petition for Provisions (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Xercaine",
+    "name": "A Regular Ol' Plumbus",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Albion",
+    "name": "AI Uplifting Assistant",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "latta",
+    "name": "FSharp.Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "jecrell and contributors",
+    "name": "JecsTools (Unofficial)",
+    "steamId": "2195729899",
+    "version": "1.4.1.1"
+  },
+  {
+    "author": "Vectorial1024",
+    "name": "Elite Bionics Framework",
+    "steamId": "1665403571",
+    "version": "2.0.0.0"
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Neronix17",
+    "name": "Tabula Rasa",
+    "steamId": "1660622094",
+    "version": "1.0.8466.10205"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Achtung!",
+    "steamId": "730936602",
+    "version": "3.5.2.0"
+  },
+  {
+    "author": "Hydroxyapatite",
+    "name": "Advanced Band Nodes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "NictraSavios",
+    "name": "Allow Fabricors To Brew",
+    "steamId": "2884470691",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Allow Tool",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "PeteTimesSix",
+    "name": "Research Reinvented",
+    "steamId": "2868392160",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "erdelf, Oskar Potocki, legodude17, Taranchuk, xrushha, Sarg Bjornson, Sir Van and Reann Shepard",
+    "name": "Vanilla Psycasts Expanded",
+    "steamId": "2842502659",
+    "version": "1.1.0.0"
+  },
+  {
+    "author": "Sarg Bjornson and AFriend",
+    "name": "Alpha Animals",
+    "steamId": "1541721856",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "legodude17 and Oskar Potocki",
+    "name": "Vanilla Outposts Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Daria40K",
+    "name": "Alpha Animals Patch for Outposts Mines",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Jack7D1",
+    "name": "Apini Playable Race, Continued!",
+    "steamId": "2204437968",
+    "version": "1.3.0.1"
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Fishing Expanded",
+    "steamId": "1914064942",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg Bjornson and Ben Lubar",
+    "name": "Alpha Bees",
+    "steamId": "1558161673",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Jellypowered",
+    "name": "Alpha Bees - Stuffed",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Ideology Expanded - Memes and Structures",
+    "steamId": "2636329500",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg Bjornson, Helixien, Cassie, Luizi and Allie",
+    "name": "Alpha Memes",
+    "steamId": "2661356814",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "explodoboy",
+    "name": "Ambition of the Cosmic",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "explodoboy",
+    "name": "Ambition of the Cosmic: True Pinnacle of Creation",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Carny Senpai",
+    "name": "Enable Oversized Weapons",
+    "steamId": "2543371889",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Killathon",
+    "name": "Android Tiers Reforged",
+    "steamId": "2917948202",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "twsta",
+    "name": "ATR Implants Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ChJees",
+    "name": "Androids for RW 1.4",
+    "steamId": "2889326293",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Peptide",
+    "name": "Androids Expanded for RW 1.4",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "tikubonn",
+    "name": "Anesthetic Gun MOD",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "xrushha",
+    "name": "Anima Gear",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Seti, Magenta_Ivy and Victor",
+    "name": "Anima Bionics - Forked",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Fluffy",
+    "name": "Animal Tab",
+    "steamId": "712141500",
+    "version": "4.7.272"
+  },
+  {
+    "author": "Dorutoruka",
+    "name": "Anime Gene",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Epicguru (James B)",
+    "name": "In-game wiki",
+    "steamId": "2113685739",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Epicguru (James B)",
+    "name": "Antimatter Annihilation",
+    "steamId": "2113692574",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Gouda quiche",
+    "name": "MoHAR framework",
+    "steamId": "2057001924",
+    "version": "1.0.8331.27653"
+  },
+  {
+    "author": "Roo",
+    "name": "Anty the war ant race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ROO",
+    "name": "Anty Faction limite Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ROO",
+    "name": "Anty Weapon Race limite Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lennoxicon",
+    "name": "Apitecture Plus!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Seti",
+    "name": "Archotech Droids (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Fluffy",
+    "name": "Area Unlocker",
+    "steamId": "725153576",
+    "version": "3.14.109"
+  },
+  {
+    "author": "iwishforducks",
+    "name": "Ducks' Insane Skills",
+    "steamId": "2450186578",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Storytellers Expanded - Winston Waves",
+    "steamId": "2734032569",
+    "version": "1.0.2.2"
+  },
+  {
+    "author": "Imranfish",
+    "name": "XML Extensions",
+    "steamId": "2574315206",
+    "version": "1.7.0"
+  },
+  {
+    "author": "Syrchalis",
+    "name": "[SYR] Harvest Yield",
+    "steamId": "1461790308",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Grimm",
+    "name": "Un-Limited",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Anobis Soooks, Sky and JongoChomp.",
+    "name": "Ascension",
+    "steamId": "2652340519",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "AUTOMATIC",
+    "name": "Auto links",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Flyingstar",
+    "name": "Auto-Mortars(Unofficial)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ben",
+    "name": "Automatic Night Owl",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "lbmaian",
+    "name": "Begone, Message!",
+    "steamId": "1951637504",
+    "version": "1.7"
+  },
+  {
+    "author": "Oskar Potocki, LimeTreeSnake and Kikohi",
+    "name": "Vanilla Factions Expanded - Settlers",
+    "steamId": "2052918119",
+    "version": "1.2.0.0"
+  },
+  {
+    "author": "Madara Uchiha",
+    "name": "Better Map Sizes",
+    "steamId": "2099101052",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Epicguru (James B)",
+    "name": "Better Transhumanists",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Better Vanilla Masking",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Falconne",
+    "name": "Better Workbench Management",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zephram",
+    "name": "Biotech - Avali",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ROMEHUSK",
+    "name": "Biotech - Insectoid Genes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lennoxicon",
+    "name": "Biotech Expansion - Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lennoxicon",
+    "name": "Biotech Expansion - Mammalia",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lennoxicon",
+    "name": "Biotech Expansion - Mythic",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Redundantusage",
+    "name": "Biotech Gene Variety",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Alibarda",
+    "name": "Augmentation Collective",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "MrKociak",
+    "name": "Biotech Mech Stuff Elongated - Mechanoid Upgrades",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Phonicmas",
+    "name": "Biotech Prestige Mechlord Armor 1.4",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Vaniat",
+    "name": "Blighted Alert",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lhoxris",
+    "name": "Blindsight - Truesight",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Fluffy",
+    "name": "Blueprints",
+    "steamId": "708455313",
+    "version": "2.17.133"
+  },
+  {
+    "author": "TranslucencY",
+    "name": "Brain In a Jar",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "cucumpear",
+    "name": "CCP's Stone Tweaks Vanilla",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "CrashM",
+    "name": "CM Color Coded Mood Bar [1.1+]",
+    "steamId": "2006605356",
+    "version": "1.4.3607.2"
+  },
+  {
+    "author": "8Z",
+    "name": "Call For Intel",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Camera+",
+    "steamId": "867467808",
+    "version": "2.5.2.0"
+  },
+  {
+    "author": "kathanon",
+    "name": "Float Sub-Menus",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "kathanon",
+    "name": "Categorized Bill Menus",
+    "steamId": "2893365816",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "void",
+    "name": "Character Editor",
+    "steamId": "1874644848",
+    "version": "1.4.1240.0"
+  },
+  {
+    "author": "Mlie",
+    "name": "Choose Biome Commonality",
+    "steamId": "2582875043",
+    "version": "1.4.2"
+  },
+  {
+    "author": "OMGSplat",
+    "name": "Cleaner Mech Tier 1",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "neronix17",
+    "name": "Clutter Structures",
+    "steamId": "2008681009",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "MrKociak",
+    "name": "Combat drones 2",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "PeteTimesSix",
+    "name": "Compact Hediffs",
+    "steamId": "2031734067",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "miyamiya",
+    "name": "Compressed Raid",
+    "steamId": "2377478084",
+    "version": "1.4"
+  },
+  {
+    "author": "Victor",
+    "name": "Consciousness affects more!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sea",
+    "name": "Consistent Gene Inheritance",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ZeroPhoenix",
+    "name": "Contractors Arsenal",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "Convert Then Recruit",
+    "steamId": "2702584632",
+    "version": "1.4.2"
+  },
+  {
+    "author": "Lyn the Cookie",
+    "name": "[LYN] Cookie Genes (Skin and Hair Colors)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "BrokenValkyrie",
+    "name": "Crafting Skill Speed",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "bdew",
+    "name": "Cremate Auto Strip",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "DrEnzyme",
+    "name": "Curious Curios",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Torann",
+    "name": "CustomDeathRandomness",
+    "steamId": "1464742390",
+    "version": "1.1.3.1"
+  },
+  {
+    "author": "elStrages",
+    "name": "Cybernetic Storm",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Darque",
+    "name": "Cyberpunk (Continued)",
+    "steamId": "2846541548",
+    "version": "1.4.1"
+  },
+  {
+    "author": "Spdskatr and CaesarV6",
+    "name": "Damage Indicators [1.4]",
+    "steamId": "2016331497",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "doll",
+    "name": "Defang Bodytype Genes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Deathwing",
+    "name": "Destiny - The Vex",
+    "steamId": "2571300095",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Garwel",
+    "name": "Destroy Item",
+    "steamId": "2423311270",
+    "version": "1.0.8.0"
+  },
+  {
+    "author": "Kiame Vivacity",
+    "name": "[KV] Show Hair With Hats or Hide All Hats",
+    "steamId": "1180826364",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Gloomylynx Nukafrog",
+    "name": "NewRatkinPlus",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Kikohi and Helixien",
+    "name": "Vanilla Events Expanded",
+    "steamId": "1938420742",
+    "version": "1.1.0"
+  },
+  {
+    "author": "Oskar Potocki, Kikohi and Sarg Bjornson",
+    "name": "Vanilla Factions Expanded - Insectoids",
+    "steamId": "2149755445",
+    "version": "1.2.3.1"
+  },
+  {
+    "author": "Oskar Potocki, Trunken and Sarg Bjornson",
+    "name": "Vanilla Weapons Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and XeoNovaDan",
+    "name": "Vanilla Factions Expanded - Medieval",
+    "steamId": "2023513450",
+    "version": "1.0.5.0"
+  },
+  {
+    "author": "Vanilla Expanded team",
+    "name": "Vanilla Factions Expanded - Vikings",
+    "steamId": "2231295285",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Mlie",
+    "name": "Ding On Game Loaded",
+    "steamId": "2425530959",
+    "version": "1.4.2"
+  },
+  {
+    "author": "Pyrce",
+    "name": "Dire Raids",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mehni",
+    "name": "Dismiss Trader (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "tikubonn",
+    "name": "DontBlockDoor",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "OverPL",
+    "name": "Dormant Auto-mortars",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "DragonKing",
+    "name": "Dragon's Ores",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "DragonKing",
+    "name": "Dragon's Special Ores",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "DragonKing",
+    "name": "Dragon's Very Special Ores",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Mint Menus",
+    "steamId": "1446523594",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Rimatomics",
+    "steamId": "1127530465",
+    "version": "1.7.7368"
+  },
+  {
+    "author": "xrushha",
+    "name": "Elders Faction",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Flyingstar",
+    "name": "Elemental Charge Blaster",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "test",
+    "name": "Every Material Gene",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "StatistNo1",
+    "name": "EvolvedOrgansRedux",
+    "steamId": "2424381146",
+    "version": "2.0.1"
+  },
+  {
+    "author": "Citrus",
+    "name": "Expectations Modifier",
+    "steamId": "1904336011",
+    "version": "3.1.0.1"
+  },
+  {
+    "author": "Turnovus",
+    "name": "Extended Bioengineering for VFE Insectoids",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "chromiumboy",
+    "name": "Extra Psycasts (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Witek",
+    "name": "Fabricors can repair mechs",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ssulunge",
+    "name": "FemaleBB BodyType Support",
+    "steamId": "1792668502",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "ssulunge",
+    "name": "FemaleBB BodyType for Alien Races ",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ssulunge",
+    "name": "FemaleBB BodyType for Human",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "DimonSever000",
+    "name": "Fiber Plant Cloth",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Tigerblut (originally)",
+    "name": "Flommel",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Tials",
+    "name": "Floordrawings",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Fortified_home",
+    "name": "Fort's Insectoid armor",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Trunken and XeoNovaDan",
+    "name": "Vanilla Furniture Expanded - Security",
+    "steamId": "1845154007",
+    "version": "1.1.1.0"
+  },
+  {
+    "author": "AobaKuma",
+    "name": "Fortifications - Industrial",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AobaKuma",
+    "name": "Fortifications - Medieval",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AobaKuma",
+    "name": "Fortifications - Medieval - Material",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AobaKuma",
+    "name": "Fortifications - Neolithic",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Undefined",
+    "name": "Future Metal",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sihv",
+    "name": "Rim of Madness - Bones",
+    "steamId": "1180573408",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "dismarzero",
+    "name": "VGP Vegetable Garden",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "dismarzero",
+    "name": "VGP Garden Resources",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zylle",
+    "name": "Gemstones",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Obi Vayne Kenobi",
+    "name": "Genetic Natural Focus",
+    "steamId": "2885843634",
+    "version": "0.3.0"
+  },
+  {
+    "author": "MrHydralisk",
+    "name": "Glitterworld Medicine Production",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "GwenBlanketSpecter",
+    "name": "Gwen's Hemogenes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "BeauBo (Aqua)",
+    "name": "Hail Mary",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Smuffle",
+    "name": "Harvest Organs Post Mortem",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "CrunchyDuck",
+    "name": "Herd Migration Revival(revived)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Aelanna",
+    "name": "Heruan Race",
+    "steamId": "2810613161",
+    "version": "1.4.0.0"
+  },
+  {
+    "author": "Mlie",
+    "name": "I Clearly Have Enough! (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "illPosedProblem",
+    "name": "Ideo Roles - No Disabled Work",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Vaniat",
+    "name": "Incident Person Stat (Continued)",
+    "steamId": "2896052868",
+    "version": "1.4.1"
+  },
+  {
+    "author": "Murmur",
+    "name": "Infestations Spawn in Darkness",
+    "steamId": "2017514331",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Knight",
+    "name": "Infinite Turrets",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Atkana",
+    "name": "Interception Tweaks",
+    "steamId": "2880136489",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Just Ignore Me Passing",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ssulunge",
+    "name": "Kijin Race 3.0",
+    "steamId": "2884551646",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Torann",
+    "name": "A RimWorld of Magic",
+    "steamId": "1201382956",
+    "version": "2.6.0.5"
+  },
+  {
+    "author": "Kure",
+    "name": "Kure's Rimworld of Magic Class Expansion Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Seioch and MaroonToon",
+    "name": "Kurin HAR Edition",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Race to the Rim",
+    "steamId": "2325478123",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, AveryTheKitty and Taranchuk",
+    "name": "Vanilla Weapons Expanded - Coilguns",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Taranchuk",
+    "name": "Vanilla Weapons Expanded - Heavy Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Laser",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Luizi and xrushha",
+    "name": "Vanilla Weapons Expanded - Frontier",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Expanded - Ideology Patches",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "LimeTreeSnake",
+    "name": "[LTS]Systems",
+    "steamId": "2812826451",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "LimeTreeSnake",
+    "name": "[LTS]Furnishing",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Jsin0",
+    "name": "Lag Free Torches and More",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kikohi and Trunken",
+    "name": "Cybernetic Organism and Neural Network",
+    "steamId": "2045064990",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Victorique, Aurani and Tarojun",
+    "name": "Expanded Prosthetics and Organ Engineering - Forked",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "Less Arbitrary Surgery (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "DemonX3",
+    "name": "Limitless Deathrest",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Aoi_nasuko",
+    "name": "LittleFairy the Those Who Seek Flesh and Blood Race",
+    "steamId": "2869919675",
+    "version": "0.2.3.0"
+  },
+  {
+    "author": "Mlie",
+    "name": "Live With The Pain",
+    "steamId": "2659985388",
+    "version": "1.4.2"
+  },
+  {
+    "author": "Smash Phil",
+    "name": "Loading In Progress",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Pal 5k",
+    "name": "Logistics_Mechanoid",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lanilor and Pustalorc",
+    "name": "Loot Boxes [CONTINUED]",
+    "steamId": "2191113747",
+    "version": "1.4.0"
+  },
+  {
+    "author": "Aranmaho",
+    "name": "MakaiTech",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ElTwoFour",
+    "name": "Mantodeans C+E",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "VAMV",
+    "name": "Maru Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "Mechanite Augmentation (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Chairheir",
+    "name": "Mechanite Plague",
+    "steamId": "2503246357",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Arquebus",
+    "name": "More Persona Traits",
+    "steamId": "2863308112",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "ImJustJoshin",
+    "name": "Mechanite Persona Traits",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "jeonggihun",
+    "name": "Mechanoid Bench 3",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "Mechanoid Master Blaster (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "HammerheadCow",
+    "name": "Mechanoids Drop Guns! (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "sumghai",
+    "name": "MedPod",
+    "steamId": "2153065191",
+    "version": "1.5.9"
+  },
+  {
+    "author": "Nunahur Al-Shamikh",
+    "name": "Medieval Prosthetics",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Neceros (Original) and Chris",
+    "name": "Metal Don't Burn (UNOFFICIAL 1.4 PATCH)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "avilmask",
+    "name": "Micro Designations",
+    "steamId": "1877972690",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Outremer and Fortified_Home",
+    "name": "Miho, the celestial fox",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SutSutMan and Dalrae",
+    "name": "Mincho, The Mint Choco Slime ~ HAR ver.",
+    "steamId": "2477501851",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "骸鸾",
+    "name": "Miracle Gene",
+    "steamId": "2895827040",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Haplo",
+    "name": "Misc. Robots",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Alaestor, Hultis and VeteranXT",
+    "name": "Misc. Robots++",
+    "steamId": "747645520",
+    "version": "3.3.0.0"
+  },
+  {
+    "author": "jeonggihun",
+    "name": "Misc. Robots retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "EgotisticalElf",
+    "name": "MiscRobots WorkTab support",
+    "steamId": "2271338001",
+    "version": "2.1.22"
+  },
+  {
+    "author": "Razar1",
+    "name": "Monstergirl Races",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mooloh",
+    "name": "Mooloh's Mythic Framework",
+    "steamId": "2819828894",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "LegendaryMinuteman",
+    "name": "More Archotech Implants",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Arquebus and woffleman",
+    "name": "More Gene Complexity",
+    "steamId": "2876012466",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Glacial",
+    "name": "More Genes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Gaaius",
+    "name": "More Hemogen Genes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "kenx00x",
+    "name": "More Max Memes",
+    "steamId": "2552870228",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "sirrandoo",
+    "name": "More Pause Events",
+    "steamId": "1874708724",
+    "version": "1.6.3.0"
+  },
+  {
+    "author": "FC",
+    "name": "More Permits",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "llunak",
+    "name": "More Precepts",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sinnamon and MrKev",
+    "name": "More Ritual Rewards (1.4)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "[KOR]Bichang",
+    "name": "More Sculpture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Glacial",
+    "name": "More Trap",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SirMashedPotato",
+    "name": "MorrowRim - Just the Kwama",
+    "steamId": "2108009219",
+    "version": "1.1.9"
+  },
+  {
+    "author": "Hob Took",
+    "name": "Mortar Accuracy",
+    "steamId": "1729446857",
+    "version": "1.4.0"
+  },
+  {
+    "author": "Seioch",
+    "name": "Naki Race HAR Edition",
+    "steamId": "2889039997",
+    "version": "0.3"
+  },
+  {
+    "author": "Endy",
+    "name": "Naki VPE Integration",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ISOREX, Turnovus and community contributors.",
+    "name": "Community Framework",
+    "steamId": "2585162118",
+    "version": "1.3.0"
+  },
+  {
+    "author": "I exist",
+    "name": "Nanomachines, Son!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Avarajihari",
+    "name": "Natural Meditation Focus for Tribal Children",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Slashandz",
+    "name": "New Mech: Mini-Miner",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Jdalt40",
+    "name": "No More Lethal Damage Threshold",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mooloh",
+    "name": "Mooloh's Dnd Menagerie",
+    "steamId": "2751849453",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "avilmask",
+    "name": "Non uno Pinata (don't drop items)",
+    "steamId": "1778821244",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Lored",
+    "name": "Obsidia Expansion",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Chairheir",
+    "name": "Oddities: Core Module",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Chairheir",
+    "name": "Oddities: Deployables Module",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Chairheir",
+    "name": "Oddities: Weapons Module",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sea",
+    "name": "Offspring Inherit Xenogenes",
+    "steamId": "2879792769",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Ogre",
+    "name": "OgreStack",
+    "steamId": "1447140290",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "MoriShep, Tarojun and Lucky",
+    "name": "Oni of the Rim",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg Bjornson",
+    "name": "Alpha Mythology",
+    "steamId": "1821617793",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Xen and ChJees",
+    "name": "Logann Race (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Diana(Kitty)",
+    "name": "Orassans",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Demi, 어리연, Nemonian and gguake",
+    "name": "Paniel the Automata",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Thomotron and The Phinix Team",
+    "name": "Phinix",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "maknahr",
+    "name": "Photosynthesis Gene",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "akairo",
+    "name": "Pink Material Sheep",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Gargamiel",
+    "name": "PokéWorld",
+    "steamId": "2652029657",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "these people",
+    "name": "Custom Ritual Framework",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zezz",
+    "name": "Precepts and Memes (Continued)",
+    "steamId": "2894625496",
+    "version": "1.4.0"
+  },
+  {
+    "author": "Zezz",
+    "name": "Precepts and Memes - Rituals module (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Steve Wohlwend",
+    "name": "Prestige Mechlord Armor",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "zymex",
+    "name": "Project RimFactory Revived",
+    "steamId": "2033979700",
+    "version": "2.7.7"
+  },
+  {
+    "author": "zymex",
+    "name": "Project RimFactory - Drones",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "zymex",
+    "name": "Project RimFactory - Insanity",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "zymex",
+    "name": "Project RimFactory - Materials",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "iamrespawn",
+    "name": "Prosthetic No Missing Body Parts (Continued)",
+    "steamId": "2739055353",
+    "version": "1.4.1"
+  },
+  {
+    "author": "K",
+    "name": "PsiTech",
+    "steamId": "2078892294",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Simmin",
+    "name": "Psychic Gauranlen Connection",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mute",
+    "name": "Psychic Sensitivity Affects More (VPE)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Xedos",
+    "name": "Psysword",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Hatti",
+    "name": "QualitySurgeon",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg",
+    "name": "Alpha Biomes",
+    "steamId": "1841354677",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "The White Crayon (Updated for 1.1 by Ogliss)",
+    "name": "Quarry",
+    "steamId": "2007576583",
+    "version": "2.0.0"
+  },
+  {
+    "author": "SirMashedPotato",
+    "name": "Questing Meme",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "KongMD",
+    "name": "Questionable Ethics Enhanced (Continued)",
+    "steamId": "2850854272",
+    "version": "1.4.2"
+  },
+  {
+    "author": "sunny",
+    "name": "Rakkle 1.4 (unofficial update)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "1trickPonyta",
+    "name": "Real-Time Auto Save",
+    "steamId": "2554529406",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Mlie",
+    "name": "Relevant Stats In Description",
+    "steamId": "2692669482",
+    "version": "1.4.6"
+  },
+  {
+    "author": "sirrandoo",
+    "name": "Remove Death Amnesia",
+    "steamId": "1905421159",
+    "version": "2.0.1.0"
+  },
+  {
+    "author": "Weilbyte",
+    "name": "RenameColony",
+    "steamId": "1359645236",
+    "version": "0.1.9"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Replace Stuff",
+    "steamId": "1372003680",
+    "version": "1.1.0.0"
+  },
+  {
+    "author": "TheGoofyOne",
+    "name": "Research Assistants",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "VinaLx and Owlchemist",
+    "name": "ResearchPowl",
+    "steamId": "2877856030",
+    "version": "1.4"
+  },
+  {
+    "author": "Spdskatr, firefoxpdm, Mlie and kd8lvt",
+    "name": "Researchable Stat Upgrades Rewritten",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Scorpio and Taranchuk",
+    "name": "Resource Dictionary",
+    "steamId": "2817607528",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Fox with a Shotgun",
+    "name": "Revia Race",
+    "steamId": "2020041005",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "VexedTrees",
+    "name": "Rim-Robots_",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sierra",
+    "name": "RimFantasy - Gemstones",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Jaxe",
+    "name": "RimHUD",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "aRandomKiwi",
+    "name": "RimSaves",
+    "steamId": "1713367505",
+    "version": "2022.0.1.14"
+  },
+  {
+    "author": "Sierra",
+    "name": "RimTraits - Medieval Talents",
+    "steamId": "1916352291",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "RimWorld - Witcher Monster Hunt",
+    "steamId": "2008529522",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Rimefeller",
+    "steamId": "1321849735",
+    "version": "1.2.7364"
+  },
+  {
+    "author": "yrtwof",
+    "name": "Rimpedia",
+    "steamId": "2145524536",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "rooki1",
+    "name": "Rimsenal - Augmented Vanilla Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "rooki1",
+    "name": "Rimsenal - Feral Faction Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "rooki1",
+    "name": "Rimsenal - Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "rooki1",
+    "name": "Rimsenal - Security Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "rooki1",
+    "name": "Rimsenal - Storytellers Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Rimworld: Spartan Foundry (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Bucko",
+    "name": "Royal Arsenal",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Smash Phil and Neceros",
+    "name": "SRTS Expanded",
+    "steamId": "2878587061",
+    "version": "1.4.7"
+  },
+  {
+    "author": "Bucko",
+    "name": "Royal Arsenal - Buildable Aerodrones",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "user19990313 and Trinity",
+    "name": "RuntimeGC [1.4]",
+    "steamId": "2559582557",
+    "version": "0.1.0.0"
+  },
+  {
+    "author": "Roolo",
+    "name": "Search and Destroy",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "avilmask",
+    "name": "Self Dyeing",
+    "steamId": "2562859859",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "dninemfive",
+    "name": "Settlement Descriptions",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Niels Meijer",
+    "name": "Settlement Inventory",
+    "steamId": "2083067219",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Lanilor",
+    "name": "Simply More Bridges (Continued)",
+    "steamId": "2012484790",
+    "version": "1.4.2"
+  },
+  {
+    "author": "PinoChemicali and Scherub",
+    "name": "Skilled Stonecutting [1.4]",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "PunkyRoo",
+    "name": "Slime Rancher",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Smart Farming",
+    "steamId": "2619652663",
+    "version": "1.4"
+  },
+  {
+    "author": "denev",
+    "name": "Smart Turret Covering",
+    "steamId": "2636621800",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Weilbyte",
+    "name": "Snap Out!",
+    "steamId": "1319782555",
+    "version": "0.8.1"
+  },
+  {
+    "author": "Energistics",
+    "name": "Start Without Tech",
+    "steamId": "2550777561",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "test",
+    "name": "TMaterials - Glass",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "test",
+    "name": "TMaterials - Unique",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Fishbrains",
+    "name": "TechBlock",
+    "steamId": "1970774610",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Lanilor",
+    "name": "Terra Project Core (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Revolus",
+    "name": "Textile Stats",
+    "steamId": "2045777828",
+    "version": "2022.10.21"
+  },
+  {
+    "author": "Imoja",
+    "name": "The Witcher Trials (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sam",
+    "name": "Tilled Soil",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "InertialMage",
+    "name": "Toxic Plants Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AUTOMATIC",
+    "name": "Trader ships",
+    "steamId": "2046222331",
+    "version": "1.0.350.0854"
+  },
+  {
+    "author": "José Ángel Soler Ortiz",
+    "name": "Trading Options",
+    "steamId": "2876541977",
+    "version": "0.3.0.0"
+  },
+  {
+    "author": "Velc",
+    "name": "Trap Disable",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Velcroboy",
+    "name": "Tree Chopping Speed Stat",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nejellen",
+    "name": "Tribal Crib",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "MarvinKosh",
+    "name": "Ugh You Got Me",
+    "steamId": "1542424705",
+    "version": "1.0.8325.19264"
+  },
+  {
+    "author": "RelaxedOtter",
+    "name": "Underground Food",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "swwu",
+    "name": "Unlimited Mechanitor Command Range",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Romyashi",
+    "name": "Useful Gems",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nephlite and Maxim",
+    "name": "Utility Columns",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, xrushha and legodude17",
+    "name": "Vanilla Factions Expanded - Ancients",
+    "steamId": "2654846754",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Seos",
+    "name": "VFE - Ancients : Vaults",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Elseud",
+    "name": "Machines of War",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "jeonggihun",
+    "name": "Mechanoid Bench 2",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, ISOREX, xrushha, legodude17 and Chowder",
+    "name": "Vanilla Factions Expanded - Classical",
+    "steamId": "2787850474",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Kentington, Sarg Bjornson, erdelf, Kikohi, Chowder, Taranchuk and ISOREX",
+    "name": "Vanilla Factions Expanded - Mechanoids",
+    "steamId": "2329011599",
+    "version": "1.0.1.2"
+  },
+  {
+    "author": "Bonible",
+    "name": "VFEM - Machines of War Addon",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ハグ",
+    "name": "VFEM - No Hopper Necessary",
+    "steamId": "2647654863",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Bonible",
+    "name": "VFEM - Vanilla Combat Mechs",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "dismarzero",
+    "name": "VGP Garden Canning",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "dismarzero",
+    "name": "VGP Garden Fabrics",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "dismarzero",
+    "name": "VGP Garden Gourmet",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "dismarzero",
+    "name": "VGP Garden Medicine",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "dismarzero",
+    "name": "VGP More Veggies",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "these people",
+    "name": "Vampire Thralls",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, xrushha and SmashPhil",
+    "name": "Vanilla Apparel Expanded — Accessories",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "legodude17",
+    "name": "Vanilla Factions Expanded - Mechanoids - Auto-Mortar Shell Choice Patch",
+    "steamId": "2370696994",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "OskarPotocki, Atlas and Kikohi",
+    "name": "Vanilla Furniture Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, dninemfive and Kikohi",
+    "name": "Vanilla Furniture Expanded - Farming",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "OskarPotocki, Atlas and Kikohi",
+    "name": "Vanilla Furniture Expanded - Medical Module",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Trunken",
+    "name": "Vanilla Furniture Expanded - Production",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Furniture Expanded - Props and Decor",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Spino and Sarg",
+    "name": "Megafauna",
+    "steamId": "1055485938",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Spincrus",
+    "name": "Dinosauria",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Chemfuel Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg, erdelf, Oskar Potocki, Luizi and Reann Shepard",
+    "name": "Vanilla Genetics Expanded",
+    "steamId": "2801160906",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg Bjornson",
+    "name": "Vanilla Genetics Expanded - More Lab Stuff",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Helixien Gas Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson, Taranchuk and Reann Shepard",
+    "name": "Vanilla Ideology Expanded - Dryads",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Ideology Expanded - Icons and Symbols",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and legodude17",
+    "name": "Vanilla Ideology Expanded - Relics and Artifacts",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Grenades",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and SmashPhil",
+    "name": "Vanilla Weapons Expanded - Makeshift",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "flangopink",
+    "name": "Vanilla XCOM Plasma Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Collalt",
+    "name": "Various Eyes Genes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "1trickPwnyta",
+    "name": "Visible Raid Points",
+    "steamId": "2562730174",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "K",
+    "name": "GlitterNet",
+    "steamId": "1725544583",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "K",
+    "name": "CyberNet",
+    "steamId": "1725545225",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Kikohi",
+    "name": "Forsakens",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "pelador",
+    "name": "Proximity (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "MrKociak",
+    "name": "More Archotech Garbage Reupload",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Roolo and Updated by Ogliss",
+    "name": "What the hack?!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "rooki1",
+    "name": "Rimsenal - Federation Faction Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Non-Lethal",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Allie and Sarg",
+    "name": "Alpha Genes",
+    "steamId": "2891845502",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Races Expanded - Genie",
+    "steamId": "2901424072",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, xrushha, Taranchuk and Sarg",
+    "name": "Vanilla Races Expanded - Hussar",
+    "steamId": "2893586390",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki and Neronix17",
+    "name": "Vanilla Races Expanded - Saurid",
+    "steamId": "2880990495",
+    "version": "1.0.8369.37080"
+  },
+  {
+    "author": "Sergkart",
+    "name": "WVC - Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sergkart",
+    "name": "WVC - Genes",
+    "steamId": "2886992038",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sergkart",
+    "name": "WVC - Races [Abandoned]",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sergkart",
+    "name": "WVC - kemomimilike",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dalrae",
+    "name": "Wa! Skeleton! (Continued)",
+    "steamId": "2159119022",
+    "version": "1.4.2"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson, erdelf, Roolo, Smash Phil, Taranchuk, xrushha, Kikohi and legodude17",
+    "name": "Vanilla Factions Expanded - Pirates",
+    "steamId": "2723801948",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Aoba",
+    "name": "WarCasket Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "BrassRobo",
+    "name": "Warcasket ElectroLance",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "FluffyTowels",
+    "name": "Warcaskets can work!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "bodlosh",
+    "name": "WeaponStats",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Revolus",
+    "name": "What's Missing?",
+    "steamId": "2073082747",
+    "version": "2022.10.21.0"
+  },
+  {
+    "author": "Epicguru (James B)",
+    "name": "What's That Mod",
+    "steamId": "2258431182",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Oskar Potocki and Taranchuk",
+    "name": "Vanilla Trading Expanded",
+    "steamId": "2785616901",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Xeva",
+    "name": "Xeva Faction",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Roo",
+    "name": "Yuran race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "dracoix",
+    "name": "ZARS Production Spots",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "MaxZiCode",
+    "name": "ZiTools objects seeker",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "sjaak31367",
+    "name": "Zoological Orbital Traders",
+    "steamId": "1952216926",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "sjaak31367",
+    "name": "Zoological Trader Caravans",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AlexisPopcorn",
+    "name": "[AP] Hunting Meme",
+    "steamId": "2887642697",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Danimineiro",
+    "name": "[DN] Bundle Of Traits",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dametri and GwinnBleidd",
+    "name": "Ignorance Is Bliss",
+    "steamId": "2554423472",
+    "version": "1.4.0.2"
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Filth Vanishes With Rain And Time",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Meditation Freedom",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] More Quests",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Fuu Chan",
+    "name": "[Fuu] Nudist's Evasion",
+    "steamId": "2579512280",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Kiame Vivacity and Gazzoose",
+    "name": "[GZ] Change Research Speed",
+    "steamId": "2878619856",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Harkon",
+    "name": "[HRK] Medieval deathrest coffin",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kilian Kilmister",
+    "name": "[KK] Metal Scarabs (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "LimeTreeSnake",
+    "name": "[LTS]Defense",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "LimeTreeSnake",
+    "name": "[LTS]Xenotech",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Chicken Plucker",
+    "name": "[RH2] Faction: Task Force 141",
+    "steamId": "2694371667",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Chicken Plucker",
+    "name": "[RH2] Faction: The Rangers",
+    "steamId": "2694372968",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Chicken Plucker",
+    "name": "[RH2] Faction: V.O.I.D.",
+    "steamId": "2883208829",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Ravvy",
+    "name": "[RWY]Advanced Mechanoid Warfare",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ravvy",
+    "name": "[RWY]SRTS Expanded: The Crimson Fleet",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ryflamer",
+    "name": "[Ry]Draw a bead",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Shadowrabbit",
+    "name": "[SR]Factional War",
+    "steamId": "2534328163",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Shadowrabbit",
+    "name": "[SR]Raid Extension",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zaljerem",
+    "name": "[SS]GhostArmy (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Syrchalis",
+    "name": "[SYR] Individuality",
+    "steamId": "1497105115",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Syrchalis",
+    "name": "[SYR] Set Up Camp",
+    "steamId": "1470065926",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Project_Syulipia",
+    "name": "[Syulipia]OrientalDragonMOD",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Project_Syulipia",
+    "name": "[Syulipia]SlimeMOD",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Wemd",
+    "name": "[WD] Barbed Wire",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "XeoNovaDan",
+    "name": "[XND] Profitable Weapons (Continued)",
+    "steamId": "2269697598",
+    "version": "1.4.1"
+  },
+  {
+    "author": "sulusdacor",
+    "name": "[sd] Advanced Powergeneration (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "psychelo",
+    "name": "kemomimihouse",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "pphhyy",
+    "name": "pphhyy's Tox Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "大鳥",
+    "name": "虫娘 Insect Girls",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg Bjornson",
+    "name": "Alpha Genes - Insectoid Mutations",
+    "steamId": "2906193379",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Zaljerem",
+    "name": "Folia Race (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Netrve",
+    "name": "Hunters Use Melee! (Continued)",
+    "steamId": "2900108163",
+    "version": "1.4.2"
+  },
+  {
+    "author": "latta",
+    "name": "Infusion 2",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "JEMLPro",
+    "name": "Infused 2 Expansion",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "NilchEi",
+    "name": "Insectoids Evolved",
+    "steamId": "1924407323",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sovereign",
+    "name": "Kemetic Decorations",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Scorpio and Taranchuk",
+    "name": "Mechanoid Foundry",
+    "steamId": "2743980081",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "ChaosDeadeye",
+    "name": "Miho, the celestial fox [english translation]",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nemonian",
+    "name": "Moyo-From the depth",
+    "steamId": "2182305386",
+    "version": "1.3.4.1"
+  },
+  {
+    "author": "Nemonian",
+    "name": "Moyo-The cartel arrives",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Boundir",
+    "name": "New Game Plus",
+    "steamId": "2909126210",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Zaljerem",
+    "name": "Quartzian Race (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "FLASHPOINT55",
+    "name": "RPG Style Level Up Mod",
+    "steamId": "1995668415",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Helixien, Taranchuk, OskarPotocki, Luizi, IcingWithCheeseCake, Sir Van and Reann_Shepard",
+    "name": "Reinforced Mechanoid 2",
+    "steamId": "2910050186",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "ㅇ",
+    "name": "Infinite Reinforce",
+    "steamId": "2623528901",
+    "version": "1.1.0.4"
+  },
+  {
+    "author": "FantasyFan",
+    "name": "Outer Rim - Tatooine (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "FantasyFan",
+    "name": "Outer Rim - Faction - Tatooine (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Xen and Jecrell",
+    "name": "Star Wars - Fully Functional Lightsabers (Continued)",
+    "steamId": "2263225380",
+    "version": "1.4.1"
+  },
+  {
+    "author": "Trunken",
+    "name": "Swords (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Xen",
+    "name": "Zabrak Race (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kopp",
+    "name": "Caravan Item Selection Enhanced",
+    "steamId": "2854310627",
+    "version": "1.0.10.0"
+  },
+  {
+    "author": "MattTheWaz and Reiquard",
+    "name": "CaravanColonistInfo",
+    "steamId": "2252000148",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Jdalt40",
+    "name": "Level This! - Fixed Options",
+    "steamId": "2913407722",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "SmArtKar",
+    "name": "Athena Framework",
+    "steamId": "2903359518",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Sir Van and Elseud",
+    "name": "Eltex Weaponry",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zaljerem",
+    "name": "Moonjelly Race (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Windward'Snow",
+    "name": "Mechanitor's Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Arquebus and Woffleman",
+    "name": "PsyBlasters",
+    "steamId": "2913257502",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "AKreedz",
+    "name": "Rebound (Continued)",
+    "steamId": "2068326756",
+    "version": "1.4.4"
+  },
+  {
+    "author": "rooki1",
+    "name": "Rimsenal Style Pack - Urbworld",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Deivisis",
+    "name": "Weight price",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "glencoe2004",
+    "name": "Ambition of the Cosmic: Custom Edition",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Aelflead Wayne",
+    "name": "Ancient Charged Arms",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "legodude17 and Oskar Potocki",
+    "name": "Vanilla Skills Expanded",
+    "steamId": "2854967442",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Nmajask",
+    "name": "More Expertise For VSE",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ratys",
+    "name": "Mad Skills",
+    "steamId": "731111514",
+    "version": "2.6.0.0"
+  },
+  {
+    "author": "Edern and Sir Van",
+    "name": "Combat Psycasts",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Vex",
+    "name": "Consciousness Patch",
+    "steamId": "2913127696",
+    "version": "1.2"
+  },
+  {
+    "author": "Vozhban",
+    "name": "Unreasonable Expertise",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kibby and Taranchuk",
+    "name": "Ducks' Insane Skills - RPG Style Level Up Patch",
+    "steamId": "2918559031",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Alias",
+    "name": "De-generalize Work",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "binchcannon",
+    "name": "IceWorld",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "PotatoRamen",
+    "name": "Luno by PotatoRamen",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "kathanon",
+    "name": "Mech Colors",
+    "steamId": "2929236759",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Neronix17",
+    "name": "Outer Rim - Core",
+    "steamId": "2919227155",
+    "version": "1.0.8442.27821"
+  },
+  {
+    "author": "Neronix17",
+    "name": "Outer Rim - Galactic Empire",
+    "steamId": "2919248699",
+    "version": "1.0.8416.41904"
+  },
+  {
+    "author": "Neronix17",
+    "name": "Outer Rim - Rebel Alliance",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "FantasyFan",
+    "name": "Outer Rim - Tatooine Sandcrawler (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Neronix17",
+    "name": "Outer Rim - Chiss Ascendancy",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Vanilla Expanded Team and Co.",
+    "name": "Rim-Effect: Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Vanilla Expanded Team and Co.",
+    "name": "Rim-Effect: N7",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sergkart",
+    "name": "WVC - Immersive Technology Tree 2",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "kathanon",
+    "name": "Searchable Menus",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "RedMattis",
+    "name": "Vampires, Demons, and the Undead",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Clown Cat",
+    "name": "Vanilla Outposts Expanded Expanded: Ranch (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SeoHyeon",
+    "name": "Optimization: Meats - C# Edition",
+    "steamId": "2542931556",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "MasterOfGrey",
+    "name": "ATR Frames Reforged - Android Tiers",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Teiwaz",
+    "name": "More Vanilla Mechanoid",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AOBA",
+    "name": "Moyo-Light in the Abyss",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sepphoris",
+    "name": "Terrasecurity",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Bonible",
+    "name": "Rimsenal Factions",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "LimeTreeSnake",
+    "name": "[LTS]Maintenance",
+    "steamId": "2803673873",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Zaljerem",
+    "name": "Armored Centipedes (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nibato",
+    "name": "AutoExtractGenes",
+    "steamId": "2882834449",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Meltup",
+    "name": "Beautiful Outdoors",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "RedMattis",
+    "name": "Big and Small for Android Tiers Reforged",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AUTOMATIC",
+    "name": "Bionic icons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Gege",
+    "name": "Biotech research mechanoid - Analyst",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "kathanon",
+    "name": "Craft with Color",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "telardo",
+    "name": "DragSelect",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Erin and Sarg Bjornson",
+    "name": "Erin's Decorations",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Alexander Zagirov",
+    "name": "Fantasy Metals Reforged - Forked",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "DetVisor",
+    "name": "Glitter Weaponry",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Roolo and Owlchemist",
+    "name": "Giddy-Up 2",
+    "steamId": "2934245647",
+    "version": "1.4"
+  },
+  {
+    "author": "Helixien and Kikohi",
+    "name": "HALO: Rimworld Psychic Pulse Armory (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "x3v21",
+    "name": "Japanese Mythological Creatures",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Line Of Sight Fix",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Redundantusage",
+    "name": "Oops All Gene Banks",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Vitamin Cera",
+    "name": "Oops all BUGPARTS",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Turnovus",
+    "name": "Packs Are Not Belts",
+    "steamId": "2509511179",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Mersid",
+    "name": "Power Tab",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "RandomCoughdrop",
+    "name": "Random's Gene Assistant",
+    "steamId": "2882497271",
+    "version": "1.0.0"
+  },
+  {
+    "author": "1trickPwnyta",
+    "name": "Reward Motivation Meme",
+    "steamId": "2890013658",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Vanilla Expanded Team and Co.",
+    "name": "Rim-Effect: Music",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sierra",
+    "name": "RimFantasy - Arcane Batons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sierra",
+    "name": "RimFantasy - Arcane Defences",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sierra",
+    "name": "RimFantasy - Arcane Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sierra",
+    "name": "RimFantasy - Crystallic Lighting",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sierra",
+    "name": "RimFantasy - Temperature Regulation",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Jecrell",
+    "name": "RimQuest (Continued)",
+    "steamId": "2263331727",
+    "version": "1.4.1"
+  },
+  {
+    "author": "dhultgren",
+    "name": "Smarter Construction",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Bean",
+    "name": "Terrors of the Rim",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zaljerem",
+    "name": "Thrumbo Horn Weapons (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Xen",
+    "name": "Twi'lek Race (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mort Strudel",
+    "name": "Ufology Structure + Style - Mort's Ideologies",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Aranmaho",
+    "name": "VPE - Ranger",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, xrushha, legodude17 and Allie",
+    "name": "Vanilla Factions Expanded - Empire",
+    "steamId": "2938820380",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "tikubonn",
+    "name": "DiceOfDestiny",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Fishing Expanded - Fishing Treasures AddOn",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Nutrient Paste Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson, Allie, Erin, Sir Van and Reann Shepard",
+    "name": "Vanilla Races Expanded - Phytokin",
+    "steamId": "2927323805",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Halituis Amaricanous",
+    "name": "Vanilla Spacer weapons - Beam Gun",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Halituis Amaricanous",
+    "name": "Vanilla Spacer weapons - Explosive Bolt",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "Various Space Ship Chunk (Continued)",
+    "steamId": "2014616487",
+    "version": "1.4.1"
+  },
+  {
+    "author": "小面包",
+    "name": "Victorian decorations",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "x3v212",
+    "name": "WebShooter Genes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AlexisPopcorn",
+    "name": "[AP] Slaveholding",
+    "steamId": "2928105773",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "AlexisPopcorn",
+    "name": "[AP] Mime Meme",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kiame Vivacity",
+    "name": "[KV] Impassable Map Maker",
+    "steamId": "1180719335",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Lazy Friday Studio",
+    "name": "[LFS] Xenos Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lyn the Cookie",
+    "name": "[LYN] Cookie Traits (No Cheats)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Thick Armor",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "hodlhodl",
+    "name": "ToolkitCore",
+    "steamId": "2018368654",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "Twitch Toolkit",
+    "steamId": "1718525787",
+    "version": "2.0.10.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "6.3.0.0.biotech.B4"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitResearch",
+    "steamId": "2312827542",
+    "version": "1.0.3.2"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "TwitchToolkit - Lootboxes",
+    "steamId": "1720021578",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Phonicmas (Original: Spencer7w)",
+    "name": "Adeptus Astartes (Space Marines 40k) Unofficial 1.4",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ogliss",
+    "name": "Adeptus Mechanicus: Armoury",
+    "steamId": "1541438614",
+    "version": "1.6.5.1"
+  },
+  {
+    "author": "Ogliss",
+    "name": "Adeptus Mechanicus: Magos Xenobiologis",
+    "steamId": "1541499916",
+    "version": "1.6.5.1"
+  },
+  {
+    "author": "Ogliss",
+    "name": "Adeptus Xenobiologis: Aeldari",
+    "steamId": "1541515831",
+    "version": "1.6.5.1"
+  },
+  {
+    "author": "Ogliss",
+    "name": "Adeptus Xenobiologis: Orkoids",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ogliss",
+    "name": "Adeptus Xenobiologis: Tau, Kroot, Vespid",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Phonicmas",
+    "name": "Chaos (Warhammer 40k) Unofficial 1.4",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Aoba",
+    "name": "RimHammer40k - GreyKnights",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kompadt and Archina",
+    "name": "Warhammer: Daemonettes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "LioNon",
+    "name": "Celtic and Medieval Music",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Taranchuk",
+    "name": "Clay Soldier Race",
+    "steamId": "2307153650",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Zaljerem",
+    "name": "Legionary Equipment (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zaljerem",
+    "name": "Lumin (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "DARKkai",
+    "name": "Ratkin Extension framework",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "DARKkai",
+    "name": "Ratkin Mechanoid Expaned",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "DARKkai",
+    "name": "Ratkin Ranged Weapon Expanded New",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Daria40K",
+    "name": "RimFantasy Gemstones Patch for Outposts Mines",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Pagoda",
+    "name": "Rimdark 40k: Fauna",
+    "steamId": "2660499842",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Aoba",
+    "name": "RimHammer40k -Dreadnought",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Phonicmas",
+    "name": "The Inquisition (Warhammer 40k) Unofficial 1.4",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Buffsboy474",
+    "name": "Warcaskets: Adeptus Astartes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Phonicmas",
+    "name": "Warhammer 40k - Genes and Psycasts",
+    "steamId": "2880152795",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM - WH40k Factions",
+    "steamId": null,
+    "version": null
+  }
+]

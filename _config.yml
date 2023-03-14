@@ -34,6 +34,7 @@ store:
     mod: true
     karma: true
     usage: true
+    stats: true
   items:
     category: true
     weight: true

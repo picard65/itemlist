@@ -54755,7 +54755,7 @@
       "name": "thrall"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
@@ -54807,7 +54807,7 @@
       "name": "destructionattunedspiritcore"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
@@ -54867,7 +54867,7 @@
       "name": "creationattunedspiritcore"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
@@ -54915,7 +54915,7 @@
       "name": "angelicspiritcore"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
@@ -55788,7 +55788,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "It's not like pyromaniac, though. I like fire very much.",
+      "description": "It's not like I'm a pyromaniac, though. I just like fire very much.",
       "stats": [
         "Flame meditation focus type allowed."
       ],
@@ -58383,6 +58383,88 @@
       },
       "defName": "LC_Hauler",
       "name": "hauler"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy shows great promise as an elemental psycaster; he can obtain powerful elemental abilities by attuning to any element.",
+      "stats": [
+        "+40% global learning factor"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+40% global learning factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Psynergy Alpha",
+        "karmaTypeForAdding": null
+      },
+      "defName": "CST_Adept",
+      "name": "adept"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy's brood mind, a vast neural tangle of mutualist sentient mycelium embedded in the core of her womb, enables her predatory reproductive method and psionically amplifies her intellect and charm, but, in repayment, encourages her most violent tendencies and fills her with an insaciable desire for the sentient flesh the mycellium crave.",
+      "stats": [
+        "+2 social",
+        "+2 intellectual",
+        "+50% psychic sensitivity",
+        "-15% mental break threshold",
+        "+15.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+2 social",
+          "+2 intellectual",
+          "+50% psychic sensitivity",
+          "-15% mental break threshold",
+          "+15.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Black Widows (Continued)",
+        "karmaTypeForAdding": null
+      },
+      "defName": "WombMind",
+      "name": "broodmind"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy's core mind, the normal brain one would find in any other sapient creature's skull cavity.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Black Widows (Continued)",
+        "karmaTypeForAdding": null
+      },
+      "defName": "CoreMind",
+      "name": "coremind"
     }
   ],
   "races": [
@@ -64963,6 +65045,81 @@
       "enabled": true,
       "name": "overlord",
       "price": 3333
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+30% Flammability",
+          "+1000 Base XP yield",
+          "+0.0 Filth rate",
+          "+$5000 Market value",
+          "+0.5 Foraged food amount",
+          "+90% Pain shock threshold",
+          "+150% Hunting stealth",
+          "+150% Butchery speed",
+          "+110% Psychic sensitivity",
+          "+40% Mental break threshold",
+          "+90% Aiming time",
+          "+1.3 Shooting accuracy",
+          "+1.2 Melee dodge chance",
+          "+120% Research speed",
+          "+120% Medical tend quality",
+          "+120% Medical surgery success chance",
+          "+120% Drug cooking speed",
+          "+150% Global learning factor",
+          "+4.00 Move speed",
+          "+50 Carrying capacity",
+          "+2 Leather amount",
+          "+10 Meat amount",
+          "+70% General labor speed",
+          "+300% Eating speed",
+          "+145% Immunity gain speed",
+          "+80% Rest rate multiplier",
+          "-40.0C Minimum comfortable temperature",
+          "+45.0C Maximum comfortable temperature",
+          "+30.0% Armor - Celestial"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "History:\nThe Takala are a recent addition to life beyond the stars. As their home planet does not have surface metals or hard rock, the evolution of their planet is very different from that of earth. With no way for a prey species to make tools that could overcome their biological disadvantages like humanity did, the dominant animal of the planet was (and is) simply the biggest and most vicious predator. Towering over every other species in their homeworld, the Takala are that apex predator.\n\nIn their long time as the dominant species, they have also lived long enough to evolve an equally impressive intelligence. Takala are notably smarter than humans, having taken only a single generation to adapt to human technology and integrate themsleves into various rimworld colonies. Being a culturally violent species (a fact that has kept their population in check on their homeworld), they are also adept at warefare. With the reflexes to dodge melee attacks and the bodiliy finese to accurately fire weapons, they are nature’s perfect killing machines.\n\nHumanity would probably have never have let these formidible beings spread out amongst their colonies if it weren’t for one impoartant fact: the Takala are relatively tiny. Standing at about 4 feet (1.2 meters) tall, their status as an apex predator on their homeorld means nothing when standing next to a human. And so, while naturally gravitating towards work in pirating and science, the Takala simply do not pose a significant threat to humanity. At least not yet.\n\nBiology:\nThe Takala are not quite like any living animal humanity has come across before. The closest approxmiation would be a snake, but even that is mostly a visual similarity. Not having anything that resembles blood, the Takala don’t quite “bleed” as much as they have bits of themselves fall out once a hole is big enough. Their brain is located where earth animals would call a stomach, with the destruction of their head simply being a major disability rather than fatal.  Portions of their body are also covered in incredibly tough scales, protecting them from attacks much in the way as a ceramic plate stops a bullet.",
+      "defName": "TakalaRace",
+      "enabled": true,
+      "name": "Takala",
+      "price": 8333
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+1000 Base XP yield",
+          "+0.0 Filth rate",
+          "+$2100 Market value",
+          "+6.50 Move speed",
+          "-40.0C Minimum comfortable temperature",
+          "+35.0C Maximum comfortable temperature",
+          "+35 Leather amount",
+          "+135% Research speed",
+          "+80% Mining speed",
+          "+125.00% Social impact",
+          "-0.2 Melee dodge chance",
+          "+10.0% Armor - Blunt",
+          "+10.0% Armor - Sharp",
+          "+10.0% Armor - Heat",
+          "+30.0% Armor - Celestial"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A baseline Black Widow, a being possessed of two separate inter-linked minds and spiderlike features. Infamous for their tendency toward violence in the pursuit of mates.",
+      "defName": "Races_BlackWidow",
+      "enabled": true,
+      "name": "black widow",
+      "price": 3500
     }
   ]
 }

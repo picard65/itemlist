@@ -231,11 +231,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "pawn",
-		"price": 1,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "trait",
 		"price": 1,
 		"karmatype": "Good"
@@ -299,6 +294,11 @@
 		"abr": "healme",
 		"price": 2167,
 		"karmatype": "Good"
+	},
+	{
+		"abr": "surgery",
+		"price": 1,
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "passionshuffle",
